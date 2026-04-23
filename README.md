@@ -90,33 +90,48 @@ UTF-8 encoding for Tamil support
 ⚙️ Project Structure
 
 ├── app.py                  # Flask web application
+
 ├── train_model.py          # Model training pipeline
+
 ├── predict_emotion.py      # Emotion prediction engine
+
 ├── create_db.py            # Database setup script
+
 ├── emotion_count.py        # Dataset analysis script
+
 ├── dataset.csv             # Training dataset
+
 ├── models/                 # Saved model artifacts
+
 │   ├── teccr_model.h5
+
 │   ├── tokenizer.pkl
+
 │   ├── encoders
+
 │   └── metadata
 
 🚀 Installation & Setup
 
 1️⃣ Clone Repository
+
 git clone https://github.com/your-username/TECCR.git
 cd TECCR
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Setup Database
+
 python create_db.py
 
 4️⃣ Train Model
+
 python train_model.py
 
 5️⃣ Run Application
+
 python app.py
 
 🔮 Emotion Prediction Flow
@@ -133,7 +148,9 @@ Primary Emotion
 Secondary Emotion
 Cultural Context Explanation
 Confidence Score
+
 📈 Additional Tools
+
 Emotion Distribution Analysis
 python emotion_count.py
 
@@ -164,7 +181,9 @@ Backend	Flask (Python)
 ML/NLP	TensorFlow, BiLSTM
 Database	MySQL
 Language	Tamil NLP
+
 📌 Future Scope
+
 Hate speech detection
 Multilingual expansion
 Transformer-based models (IndicBERT, MuRIL)
