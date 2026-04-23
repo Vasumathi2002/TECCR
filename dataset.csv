@@ -1,0 +1,2542 @@
+id,text,primary_emotion,secondary_emotion,teccr_context
+1,இன்று மனசே சோர்ந்து போச்சு,Sadness,Despair,Emotional exhaustion
+2,எல்லாம் சரியாகும் என்று நம்பிக்கையே இல்ல,Sadness,Despair,Implicit cultural despair
+3,யாரிடமும் சொல்ல முடியாத வலி,Sadness,Frustration,Suppressed frustration
+4,மௌனம்தான் இப்போ என் துணை,Sadness,None,Silent emotional state
+5,நாளும் ஒரே மாதிரி சலிப்பு,Sadness,Frustration,Daily life fatigue
+6,சிரிக்க முயற்சி தான் செய்றேன்,Sadness,Hope,Hidden emotional hope
+7,எதிர்பார்ப்பு தான் அதிகமா போச்சு,Sadness,Despair,Expectation collapse
+8,மனசுக்குள்ள ஏதோ குறை,Sadness,None,Inner emotional void
+9,நம்பினது எல்லாம் வீணா,Sadness,Despair,Broken trust feeling
+10,தனிமை கொஞ்சம் அதிகமா இருக்கு,Sadness,None,Emotional loneliness
+11,கண்ணு தானா கலங்குது,Sadness,Despair,Overwhelming sadness
+12,இப்படி தான் வாழ்க்கை போகுமா,Sadness,Frustration,Existential frustration
+13,சொல்ல வார்த்தை கூட இல்ல,Sadness,Despair,Emotional numbness
+14,எல்லாம் சுமையா தோணுது,Sadness,Frustration,Mental overload
+15,மனசு ஓய்வு கேக்குது,Sadness,Hope,Need for healing
+16,யாருக்கும் புரியாத நிலை,Sadness,None,Social disconnect
+17,இன்னும் தாங்க முடியல,Sadness,Despair,Emotional breakdown
+18,கஷ்டம் பழகிடுச்சு,Sadness,None,Cultural endurance
+19,நினைவுகள் தூங்க விடல,Sadness,Frustration,Past emotional weight
+20,எதிர்காலம் மங்கலா இருக்கு,Sadness,Despair,Future uncertainty
+21,என்ன செய்யணும்னு தெரியல,Sadness,Frustration,Decision paralysis
+22,மனசு மெதுவா உடையுது,Sadness,Despair,Internal collapse
+23,நம்பிக்கை குறைஞ்சு போச்சு,Sadness,Despair,Hope depletion
+24,அமைதி கூட வலி தருது,Sadness,None,Painful silence
+25,வாழ்க்கை ரொம்ப கஷ்டமா இருக்கு,Sadness,Despair,Cultural hardship
+26,ஒரு சிரிப்பும் வரல,Sadness,None,Emotional flatness
+27,யாரையும் நம்ப முடியல,Sadness,Frustration,Trust issues
+28,தோல்வி தான் அடிக்கடி,Sadness,Despair,Repeated failure
+29,மனசு எங்கோ போயிருக்கு,Sadness,None,Mental detachment
+30,எல்லாம் முடிஞ்ச மாதிரி,Sadness,Despair,Emotional surrender
+31,இன்னைக்கு கொஞ்சம் சந்தோஷம்,Joy,Hope,Small positive moment
+32,சிரிப்பு தானா வந்தது,Joy,None,Natural happiness
+33,மனசு லைட்டா இருக்கு,Joy,None,Emotional relief
+34,நல்ல செய்தி கேட்டேன்,Joy,Hope,Positive expectation
+35,இப்படி ஒரு நாள் வேணும்,Joy,Hope,Desired happiness
+36,சின்ன விஷயமே பெரிய சந்தோஷம்,Joy,None,Simple joy
+37,மனசு நிறைஞ்ச மாதிரி,Joy,None,Emotional fulfillment
+38,இன்று எல்லாம் சரியா போச்சு,Joy,None,Good day feeling
+39,சிரிக்க காரணம் கிடைச்சுது,Joy,None,Reason for joy
+40,நம்பிக்கை திரும்ப வந்துச்சு,Joy,Hope,Renewed optimism
+41,மனசுக்குள்ள சந்தோஷம்,Joy,None,Inner happiness
+42,இந்த உணர்வு நல்லா இருக்கு,Joy,None,Pleasant emotion
+43,நாளே நல்லா ஆரம்பிச்சுது,Joy,Hope,Positive start
+44,சுற்றமும் இனிமையா இருக்கு,Joy,None,Social warmth
+45,மனசு குளிர்ந்தது,Joy,None,Emotional calm
+46,இன்னும் நல்லா நடக்கும்,Joy,Hope,Forward optimism
+47,சிரிச்சுக்கிட்டே இருக்கேன்,Joy,None,Expressed happiness
+48,இந்த நிமிஷம் போதும்,Joy,None,Present contentment
+49,சந்தோஷம் சொல்ல வார்த்தை இல்ல,Joy,None,Overwhelming joy
+50,மனசு லேசா பறக்குது,Joy,None,Lighthearted feeling
+51,இதுதான் வாழ்க்கை போல,Joy,None,Life appreciation
+52,நல்ல நாள் நினைவில் நிற்கும்,Joy,None,Memorable happiness
+53,நம்பிக்கை கண்ணுல தெரியும்,Joy,Hope,Visible optimism
+54,இப்படி தொடரணும்,Joy,Hope,Wish for continuity
+55,மனசு சிரிச்சது,Joy,None,Emotional smile
+56,எல்லாம் நல்லா இருக்கு,Joy,None,General positivity
+57,சின்ன வெற்றி பெரிய உற்சாகம்,Joy,Hope,Motivational boost
+58,மனசு தானா பாடுது,Joy,None,Joyful expression
+59,இன்று எனக்கான நாள்,Joy,None,Personal triumph
+60,இந்த சந்தோஷம் நீடிக்கணும்,Joy,Hope,Hopeful desire
+61,இது எல்லாம் ஏன் இப்படி,Anger,Frustration,Questioning frustration
+62,சும்மா தலையெழுத்து போல,Anger,Frustration,Fatalistic irritation
+63,யாருக்கும் கவலை இல்ல,Anger,Frustration,Social neglect
+64,அதிகமா தாங்க முடியல,Anger,Frustration,Emotional overload
+65,எல்லாம் பொறுமைக்கு மேல,Anger,Frustration,Patience exhausted
+66,சொல்லவே கஷ்டமா இருக்கு,Anger,Frustration,Suppressed anger
+67,இப்படி நடக்க கூடாதே,Anger,Frustration,Moral frustration
+68,என்ன நியாயம் இது,Anger,Frustration,Perceived injustice
+69,மனசு கொதிக்குது,Anger,None,Intense irritation
+70,எல்லாம் தலைகீழா,Anger,Frustration,Disorder frustration
+71,பேச கூட மனசில்ல,Anger,Frustration,Withdrawn anger
+72,இதுக்கு எல்லாம் யார் காரணம்,Anger,Frustration,Blame seeking
+73,பொறுமை சோதனை தான்,Anger,None,Endurance strain
+74,சாதாரணமா எடுத்துக்க முடியல,Anger,Frustration,Emotional rigidity
+75,இதெல்லாம் சலிச்சு போச்சு,Anger,Frustration,Chronic irritation
+76,மனசு வெடிக்க போகுது,Anger,None,Anger peak
+77,என்ன பயன் எல்லாம்,Anger,Frustration,Meaning frustration
+78,சும்மா வேடிக்கை போல,Anger,Sarcasm,Sarcastic social expression
+79,யாருக்காவது பரவாயில்ல,Anger,Frustration,Ignored feelings
+80,இது சரியான வழியா,Anger,Frustration,Doubtful anger
+81,பேச்சே இல்லாம போச்சு,Anger,None,Cold anger
+82,இப்படி தொடர்ந்தா முடியாது,Anger,Frustration,Boundary frustration
+83,எல்லாம் நாடகமா இருக்கு,Anger,Sarcasm,Subtle sarcasm
+84,மனசு சாந்தி இல்ல,Anger,Frustration,Inner unrest
+85,சொல்லறதுக்கு வார்த்தை இல்ல,Anger,None,Speechless anger
+86,நம்பிக்கையே இல்லாத நிலை,Anger,Despair,Anger mixed despair
+87,இதுக்கு முடிவே இல்ல,Anger,Frustration,Endless struggle
+88,யாரும் கேக்க மாட்டாங்க,Anger,Frustration,Unheard emotion
+89,பொறுமை எல்லை தாண்டிச்சு,Anger,None,Threshold crossed
+90,சும்மா பேசாதீங்க,Anger,None,Defensive anger
+91,எதிர்காலம் நினைச்சாலே பயம்,Fear,None,Future anxiety
+92,என்ன நடக்குமோ தெரியல,Fear,None,Uncertainty fear
+93,மனசு நடுங்குது,Fear,None,Physical fear response
+94,அதெல்லாம் நினைச்சா பதட்டம்,Fear,Frustration,Anxious frustration
+95,இது சரியா போகுமா,Fear,None,Doubtful anticipation
+96,எதுக்கும் தயாரா இல்ல,Fear,None,Lack of preparedness
+97,மனசு அமைதி கிடைக்கல,Fear,Frustration,Restless anxiety
+98,பயம் தானா வருது,Fear,None,Automatic fear
+99,எல்லாம் கை விட்டுப் போகுமோ,Fear,Despair,Fear of loss
+100,தூக்கம் கூட வரல,Fear,Frustration,Anxiety insomnia
+101,நாளை நினைச்சா பதட்டம்,Fear,None,Future tension
+102,எதுவும் நிச்சயம் இல்ல,Fear,None,Insecurity feeling
+103,மனசு எப்போ உடையும்,Fear,None,Breakdown fear
+104,இதுக்கு முடிவு என்ன,Fear,None,Outcome anxiety
+105,நம்பிக்கை இருந்தா பயமும் இருக்கு,Fear,Hope,Mixed anticipation
+106,யாராவது உதவுவாங்களா,Fear,Hope,Seeking reassurance
+107,எதையும் தொடங்க பயம்,Fear,None,Initiation anxiety
+108,மனசு ஓயாமல் ஓடுது,Fear,Frustration,Overthinking anxiety
+109,சுற்றம் கூட பயமா தோணுது,Fear,None,Environmental anxiety
+110,என்ன ஆகும்னு தெரியல,Fear,None,Unclear future
+111,சாதாரண நாள் தான்,Neutral,None,Neutral daily expression
+112,இன்று வேலை முடிஞ்சது,Neutral,None,Routine update
+113,எல்லாம் வழக்கம்போல,Neutral,None,Normalcy statement
+114,சும்மா பார்த்தேன்,Neutral,None,Casual observation
+115,நேரம் போகுது,Neutral,None,Time passing
+116,இன்னொரு நாள்,Neutral,None,Daily continuity
+117,செய்ய வேண்டியது செய்தேன்,Neutral,None,Task completion
+118,வழக்கமான வேலை,Neutral,None,Routine life
+119,சும்மா நினைச்சேன்,Neutral,None,Random thought
+120,இன்று எதுவும் புதுசில்ல,Neutral,None,No change day
+121,பேச எதுவும் இல்ல,Neutral,None,Emotionless state
+122,சாதாரண உணர்வு,Neutral,None,Neutral feeling
+123,இது தான் நிலை,Neutral,None,Status acceptance
+124,நாளை பார்க்கலாம்,Neutral,None,Deferred thinking
+125,எல்லாம் சராசரி,Neutral,None,Average mood
+126,சும்மா தான்,Neutral,None,Indifferent tone
+127,நேரம் சரியா போகுது,Neutral,None,Time flow
+128,இது வழக்கம்,Neutral,None,Customary state
+129,எதுவும் சொல்ல தோணல,Neutral,None,Low engagement
+130,நாளும் இதே தான்,Neutral,None,Monotony note
+131,மனசு கொஞ்சம் கனமா,Sadness,Frustration,Emotional weight
+132,சிரிப்புக்குள்ள வலி,Sadness,Despair,Hidden pain
+133,எல்லாம் விட்டுட்டேன்,Sadness,Despair,Emotional resignation
+134,யாரும் புரியல,Sadness,None,Social isolation
+135,தனிமை பேசுது,Sadness,None,Personified loneliness
+136,நம்பிக்கை தேயுது,Sadness,Despair,Gradual hopelessness
+137,மனசு சோர்வா இருக்கு,Sadness,None,Low energy mood
+138,இதெல்லாம் பழகிடுச்சு,Sadness,None,Normalized sadness
+139,வாழ்க்கை கனமா,Sadness,Despair,Life burden
+140,சும்மா கண் மூடணும்,Sadness,Despair,Escape desire
+141,மனசு பேச மறுக்குது,Sadness,None,Emotional shutdown
+142,நாட்கள் நீளுது,Sadness,Frustration,Time drag
+143,எல்லாம் வெறுமை,Sadness,None,Emptiness feeling
+144,சொல்ல முடியாத கஷ்டம்,Sadness,Despair,Inexpressible pain
+145,மனசு சின்னதா உடைந்தது,Sadness,Despair,Micro heartbreak
+146,இப்படி தான் முடிவா,Sadness,Despair,Finality fear
+147,நினைச்சாலே கண்ணீர்,Sadness,None,Emotional trigger
+148,யாரும் கேட்கல,Sadness,None,Ignored sadness
+149,நம்பிக்கை மங்குது,Sadness,Despair,Fading hope
+150,மனசு தனியா,Sadness,None,Isolation feeling
+151,சின்ன விஷயம் கூட கோபம்,Anger,Frustration,Low tolerance
+152,பேச்சு எல்லாம் வீண்,Anger,Frustration,Dismissive anger
+153,இதுக்கு அர்த்தமே இல்ல,Anger,Frustration,Meaninglessness anger
+154,சும்மா சிரிக்கிற மாதிரி,Anger,Sarcasm,Masked sarcasm
+155,யாரும் மதிக்கல,Anger,Frustration,Disrespect feeling
+156,மனசு கசக்குது,Anger,None,Bitter emotion
+157,இதெல்லாம் நாடகம்,Anger,Sarcasm,Sarcastic dismissal
+158,பொறுமை போச்சு,Anger,None,Patience lost
+159,என்ன விதி இது,Anger,Frustration,Fate frustration
+160,சும்மா அமைதியா இருக்கு,Anger,None,Cold resentment
+161,சிரிப்பு கூட பயமா,Fear,None,Anxious joy
+162,எதிர்பார்ப்பு பதட்டம்,Fear,None,Expectation anxiety
+163,மனசு ஓயவே இல்ல,Fear,Frustration,Restless mind
+164,எதுவும் நம்ப முடியல,Fear,None,Trust anxiety
+165,நாளை என்னவோ,Fear,None,Tomorrow fear
+166,பயம் மெதுவா வருது,Fear,None,Gradual anxiety
+167,மனசு குலுங்குது,Fear,None,Internal tremor
+168,எல்லாம் சிதறுமோ,Fear,Despair,Fearful despair
+169,யாராவது இருந்தா நல்லா,Fear,Hope,Seeking support
+170,இதெல்லாம் கடந்து போகுமா,Fear,Hope,Hopeful doubt
+171,இன்று சுமாரா தான்,Neutral,None,Average mood
+172,வழக்கமான நாள்,Neutral,None,Ordinary day
+173,எதுவும் விசேஷம் இல்ல,Neutral,None,No special event
+174,சும்மா பார்த்துட்டேன்,Neutral,None,Casual browsing
+175,நேரம் போகுது,Neutral,None,Time passing
+176,இது தான் வாழ்க்கை,Neutral,None,Life statement
+177,பேச்சு எதுவும் இல்ல,Neutral,None,Low interaction
+178,நாளை வேலை இருக்கு,Neutral,None,Practical note
+179,சாதாரண சிந்தனை,Neutral,None,Neutral thought
+180,இது எல்லாம் வழக்கம்,Neutral,None,Usual routine
+181,மனசு சாந்தியா இருக்கு,Joy,None,Calm happiness
+182,சின்ன நிம்மதி,Joy,None,Small relief
+183,நம்பிக்கை ஒளி,Joy,Hope,Hope spark
+184,இன்று நல்லா சிரிச்சேன்,Joy,None,Expressed joy
+185,மனசு குளிர்ச்சி,Joy,None,Soothing emotion
+186,எல்லாம் சரியாகும்,Joy,Hope,Positive belief
+187,சந்தோஷம் மெதுவா,Joy,None,Gentle happiness
+188,இப்படி இருந்தா போதும்,Joy,None,Contentment
+189,நல்ல உணர்வு,Joy,None,Positive feeling
+190,மனசு தானா நிம்மதி,Joy,None,Automatic calm
+191,எல்லாம் சோர்ந்து போயிடுச்சு,Sadness,Despair,Total exhaustion
+192,நாளும் போராட்டம்,Sadness,Frustration,Daily struggle
+193,மனசு ஓய்வு தேவை,Sadness,Hope,Need for rest
+194,சிரிப்பு மறந்துட்டேன்,Sadness,Despair,Lost joy
+195,எல்லாம் கனவா,Sadness,None,Unreal feeling
+196,யாராவது இருந்தா,Sadness,Hope,Seeking comfort
+197,நம்பிக்கை தேடுறேன்,Sadness,Hope,Active coping
+198,மனசு சுமை,Sadness,Frustration,Mental burden
+199,எல்லாம் மங்குது,Sadness,Despair,Fading clarity
+200,இன்னும் தாங்கணும்,Sadness,Hope,Forced resilience
+201,பேச்சு கேட்கல,Anger,Frustration,Ignored voice
+202,இதெல்லாம் பொறுக்க முடியல,Anger,Frustration,Intolerance peak
+203,மனசு கசப்பு,Anger,None,Bitter anger
+204,சும்மா நடிக்கிறாங்க,Anger,Sarcasm,Social sarcasm
+205,யாருக்கும் அக்கறை இல்ல,Anger,Frustration,Neglect anger
+206,பொறுமை எல்லாம் தீர்ந்தது,Anger,None,Patience depleted
+207,இது நியாயமா,Anger,Frustration,Justice questioning
+208,சொல்லி பயன் இல்ல,Anger,Frustration,Helpless anger
+209,மனசு கொதிப்பு,Anger,None,Anger intensity
+210,இதுக்கு முடிவு வேணும்,Anger,Hope,Desire for change
+211,எதிர்காலம் பயமா,Fear,None,Future fear
+212,எதுவும் நிலை இல்லை,Fear,None,Instability anxiety
+213,மனசு குழப்பம்,Fear,Frustration,Confused anxiety
+214,நம்ப முடியாத நிலை,Fear,None,Uncertainty fear
+215,நாளை என்ன,Fear,None,Anticipation fear
+216,மனசு துடிக்குது,Fear,None,Anxious heartbeat
+217,இதெல்லாம் கடந்து போகணும்,Fear,Hope,Resilience hope
+218,யாராவது துணை,Fear,Hope,Support seeking
+219,பயம் அடக்க முடியல,Fear,Frustration,Uncontrolled anxiety
+220,மனசு அமைதி தேடும்,Fear,Hope,Seeking calm
+221,சாதாரண எண்ணம்,Neutral,None,Neutral thought
+222,இன்று எதுவும் இல்லை,Neutral,None,Nothing special
+223,வழக்கமான வேலை,Neutral,None,Routine task
+224,சும்மா நாள் போச்சு,Neutral,None,Day passed
+225,பேச ஒன்றும் இல்ல,Neutral,None,Low content
+226,நேரம் பார்த்தேன்,Neutral,None,Time check
+227,இது தான் வழக்கம்,Neutral,None,Usual state
+228,எல்லாம் சராசரி,Neutral,None,Average feeling
+229,நாளை பார்க்கலாம்,Neutral,None,Deferred plan
+230,சும்மா தான்,Neutral,None,Indifference
+231,மனசு மீண்டும் உடைஞ்சது,Sadness,Despair,Repeated heartbreak
+232,நம்பிக்கை சிதறுது,Sadness,Despair,Hope shattered
+233,யாரும் புரிய மாட்டாங்க,Sadness,None,Misunderstood feeling
+234,வலி பழகிடுச்சு,Sadness,None,Chronic pain
+235,மனசு சோர்வு,Sadness,Frustration,Low energy
+236,இப்படி வாழணுமா,Sadness,Despair,Existential despair
+237,சிரிப்பு கடினம்,Sadness,None,Inhibited joy
+238,நினைவுகள் தாக்குது,Sadness,Frustration,Memory intrusion
+239,எல்லாம் சுமை,Sadness,Despair,Overwhelming burden
+240,மனசு தனிமை,Sadness,None,Lonely state
+241,இன்று மனசு சிரிச்சது,Joy,None,Emotional uplift
+242,சின்ன சந்தோஷம் போதும்,Joy,None,Minimal joy
+243,நம்பிக்கை ஒளிருது,Joy,Hope,Hope brightening
+244,மனசு குளிர்ந்த நாள்,Joy,None,Calm happiness
+245,இப்படி நாள்கள் வேணும்,Joy,Hope,Wishful joy
+246,சந்தோஷம் மெதுவா வந்தது,Joy,None,Growing happiness
+247,மனசு நிம்மதி,Joy,None,Peaceful state
+248,சிரிப்பு திரும்ப வந்தது,Joy,Hope,Recovered joy
+249,இன்று நல்ல உணர்வு,Joy,None,Good feeling
+250,மனசு லேசு,Joy,None,Light mood
+251,கோபம் தாங்க முடியல,Anger,Frustration,Anger overflow
+252,எல்லாம் வெறுப்பா இருக்கு,Anger,Frustration,Aversion anger
+253,யாருக்கும் கேள்வி இல்ல,Anger,Frustration,Unquestioned injustice
+254,சும்மா பேசாதீங்க,Anger,None,Defensive tone
+255,இதெல்லாம் சரியா,Anger,Frustration,Doubt anger
+256,மனசு கொதிப்பு அதிகம்,Anger,None,High intensity anger
+257,பொறுமை எல்லை,Anger,None,Limit reached
+258,நாடகம் போல இருக்கு,Anger,Sarcasm,Subtle mockery
+259,சொல்ல பயன் இல்ல,Anger,Frustration,Resigned anger
+260,மனசு கடுப்பா,Anger,None,Irritated mood
+261,எதிர்பார்ப்பு பயமா,Fear,None,Expectation fear
+262,மனசு பதட்டம்,Fear,None,Anxious state
+263,எதுவும் நிச்சயம் இல்ல,Fear,None,Uncertainty anxiety
+264,நாளை நினைச்சா பயம்,Fear,None,Future dread
+265,மனசு திணறுது,Fear,Frustration,Stress anxiety
+266,யாராவது இருந்தா,Fear,Hope,Seeking presence
+267,இதெல்லாம் கடந்து,Fear,Hope,Hopeful endurance
+268,பயம் மெதுவா,Fear,None,Slow anxiety
+269,மனசு அமைதி இல்ல,Fear,Frustration,Inner unrest
+270,என்ன ஆகுமோ,Fear,None,Outcome fear
+271,சாதாரண நாள் முடிஞ்சது,Neutral,None,Day completion
+272,வழக்கமான உணர்வு,Neutral,None,Usual feeling
+273,எதுவும் புதுசில்ல,Neutral,None,No novelty
+274,நேரம் தான் போகுது,Neutral,None,Time flow
+275,பேச்சு குறைவு,Neutral,None,Low interaction
+276,இது எல்லாம் சராசரி,Neutral,None,Average state
+277,நாளை வேலை,Neutral,None,Practical note
+278,சும்மா பார்த்தேன்,Neutral,None,Casual view
+279,வழக்கம்போல,Neutral,None,As usual
+280,இது தான்,Neutral,None,Minimal expression
+281,மனசு மீண்டும் சோர்வு,Sadness,Frustration,Recurring fatigue
+282,நம்பிக்கை தேய்ந்து,Sadness,Despair,Hope erosion
+283,யாரும் கேட்கல,Sadness,None,Ignored pain
+284,வாழ்க்கை கனமா,Sadness,Despair,Heavy life
+285,மனசு ஓய்வு,Sadness,Hope,Rest seeking
+286,சிரிப்பு வரல,Sadness,None,Absent joy
+287,எல்லாம் சுமை,Sadness,Frustration,Mental load
+288,தனிமை அதிகம்,Sadness,None,Social isolation
+289,மனசு உடைஞ்சது,Sadness,Despair,Emotional break
+290,இன்னும் தாங்க,Sadness,Hope,Forced hope
+291,கோபம் அடங்கல,Anger,None,Uncontrolled anger
+292,பொறுமை போச்சு,Anger,None,Patience gone
+293,நியாயம் எங்கே,Anger,Frustration,Justice anger
+294,நாடகம் போல,Anger,Sarcasm,Sarcastic view
+295,யாரும் மதிக்கல,Anger,Frustration,Disrespect anger
+296,பயம் இன்னும்,Fear,None,Lingering fear
+297,எதிர்காலம் பயம்,Fear,None,Future anxiety
+298,மனசு பதட்டம்,Fear,Frustration,Anxious frustration
+299,யாராவது துணை,Fear,Hope,Support hope
+300,நாளை பார்க்கலாம்,Neutral,None,Deferred neutrality
+301,இன்றைய நாள் மனதில் அமைதியில்லை,Sadness,Frustration,Inner emotional unrest
+302,நினைத்தது நடக்காதது வலிக்குது,Sadness,Despair,Unmet expectations pain
+303,மௌனத்தில் தான் உணர்வுகள் சிக்கின,Sadness,None,Silent emotional processing
+304,யாருக்கும் காட்டாத கண்ணீர் இருக்கு,Sadness,Despair,Hidden sorrow expression
+305,சுற்றம் இருந்தும் தனியாக தோன்றுது,Sadness,None,Social loneliness feeling
+306,நம்பிக்கை மெதுவாக கரைகிறது,Sadness,Despair,Gradual hope loss
+307,நாட்கள் எல்லாம் ஒரே நிறம்,Sadness,None,Emotional monotony
+308,மனசுக்குள்ள கேள்விகள் நிறைய,Sadness,Frustration,Unresolved inner questions
+309,எதிர்பார்ப்புகள் சுமையா மாறின,Sadness,Despair,Expectation burden
+310,சிரிப்பு வெளியில் மட்டும் இருக்கு,Sadness,None,Masked sadness
+311,உள்ளுக்குள் சோர்வு அதிகமாயிற்று,Sadness,Frustration,Accumulated fatigue
+312,வார்த்தைகள் கூட வலி தருது,Sadness,None,Painful sensitivity
+313,நம்பிய இடமே வெறுமையாயிற்று,Sadness,Despair,Trust collapse
+314,இரவு நீளமாக உணர்கிறது,Sadness,None,Time distortion sadness
+315,மனசு சும்மா ஓய்வை தேடுது,Sadness,Hope,Need for rest
+316,எல்லாம் சரியாகாதோ என்ற பயம்,Sadness,Despair,Hopeless anticipation
+317,நினைவுகள் திடீரென தாக்குது,Sadness,Frustration,Intrusive memories
+318,யாரிடம் சொல்லுவது தெரியல,Sadness,None,Expression difficulty
+319,சுமை இறங்காத மனநிலை,Sadness,Despair,Persistent burden
+320,தொடர்ந்து முயன்றும் வெறுமை,Sadness,Despair,Exhausted effort
+321,சின்ன விஷயங்கள் கூட சந்தோஷம்,Joy,None,Simple pleasure
+322,இன்று மனசு சற்று மலர்ந்தது,Joy,None,Emotional uplift
+323,நல்ல வார்த்தை நாளை மாற்றியது,Joy,Hope,Positive reinforcement
+324,சிரிப்பு தானாக வந்தது,Joy,None,Spontaneous joy
+325,சுற்றம் இனிமையாக உணர்கிறது,Joy,None,Social warmth
+326,எதிர்காலம் கொஞ்சம் ஒளிருது,Joy,Hope,Optimistic outlook
+327,சின்ன வெற்றி பெரிய உற்சாகம்,Joy,Hope,Motivational success
+328,மனசு லேசாக பறக்குது,Joy,None,Lighthearted mood
+329,இன்று நிம்மதி கிடைத்தது,Joy,None,Relief feeling
+330,இந்த நிமிஷம் போதுமானது,Joy,None,Present contentment
+331,நல்ல செய்தி மனதை நிரப்பியது,Joy,None,Positive news impact
+332,மனசு சாந்தியாய் இருந்தது,Joy,None,Calm happiness
+333,சிரிப்பு மறக்க முடியாதது,Joy,None,Memorable joy
+334,நம்பிக்கை மீண்டும் பிறந்தது,Joy,Hope,Renewed hope
+335,நாள் இனிமையாக நகர்ந்தது,Joy,None,Pleasant day flow
+336,சின்ன மாற்றம் பெரிய மகிழ்ச்சி,Joy,None,Unexpected joy
+337,உள்ளுக்குள் உற்சாகம் ஓடுது,Joy,None,Inner excitement
+338,நல்ல எண்ணங்கள் சேருது,Joy,Hope,Positive mindset
+339,மனசு இன்றைக்கு சிரித்தது,Joy,None,Emotional smile
+340,இப்படி நாள்கள் தொடரணும்,Joy,Hope,Wishful continuity
+341,இதெல்லாம் ஏன் இப்படின்னு கோபம்,Anger,Frustration,Confused irritation
+342,சொன்னது யாரும் கேக்கல,Anger,Frustration,Ignored voice
+343,பொறுமை இப்போ சோதனையில்,Anger,None,Patience tested
+344,நியாயம் எங்குனு தோணுது,Anger,Frustration,Justice frustration
+345,எல்லாம் மேல் கோபம் வருகிறது,Anger,None,Generalized anger
+346,சும்மா பார்த்து சிரிக்கிறாங்க,Anger,Sarcasm,Mocking perception
+347,இதுக்கு எல்லாம் முடிவே இல்ல,Anger,Frustration,Endless conflict
+348,மனசு அடங்காமல் கொதிக்குது,Anger,None,Intense anger
+349,பேசினாலும் பயன் இல்லை,Anger,Frustration,Resigned anger
+350,பொறுமை எல்லை கடந்தது,Anger,None,Limit exceeded
+351,இதெல்லாம் வேடிக்கை போல,Anger,Sarcasm,Subtle mockery
+352,யாருக்கும் அக்கறை தெரியல,Anger,Frustration,Neglect anger
+353,மனசு கடுப்பாக மாறுது,Anger,None,Irritated mood
+354,சொல்லாம இருக்க முடியல,Anger,Frustration,Need to express
+355,இதுதான் நியாயமா கேள்வி,Anger,Frustration,Moral questioning
+356,சும்மா நாடகம் நடத்துறாங்க,Anger,Sarcasm,Social sarcasm
+357,எல்லாம் தலைகீழா போச்சு,Anger,Frustration,Disorder frustration
+358,மனசு இப்போ அமைதியில்லை,Anger,None,Inner agitation
+359,இதெல்லாம் தாங்க முடியாது,Anger,Frustration,Overwhelmed anger
+360,சொல்ல வார்த்தைகள் கடினம்,Anger,None,Speechless anger
+361,நாளை என்ன நடக்கும் தெரியல,Fear,None,Future uncertainty
+362,மனசு உள்ளுக்குள் நடுங்குது,Fear,None,Internal fear response
+363,எதிர்பார்ப்பே பதட்டம் தருது,Fear,Frustration,Anxious anticipation
+364,எதுவும் நிச்சயம் இல்லாத நிலை,Fear,None,Insecurity feeling
+365,பயம் மெதுவாக அதிகரிக்குது,Fear,None,Gradual anxiety
+366,மனசு ஓயாமல் சுழலுது,Fear,Frustration,Overthinking anxiety
+367,எல்லாம் கைவிட்டுப் போகுமோ,Fear,Despair,Fear of loss
+368,நம்பிக்கையும் பயமும் சேர்ந்து,Fear,Hope,Mixed emotions
+369,யாராவது துணை இருந்தா,Fear,Hope,Seeking support
+370,இந்த நிலை கடக்குமா,Fear,Hope,Hopeful doubt
+371,மனசு திணறுவது போல,Fear,None,Stress sensation
+372,எதிர்கால சிந்தனை பயமூட்டுது,Fear,None,Future dread
+373,எதையும் தொடங்க தயக்கம்,Fear,None,Initiation fear
+374,நிலையற்ற உணர்வு தொடருது,Fear,None,Instability anxiety
+375,மனசு அமைதி தேடுது,Fear,Hope,Desire for calm
+376,பயம் காரணமில்லாமல் வருகிறது,Fear,None,Free floating anxiety
+377,நாளை நினைத்தால் பதட்டம்,Fear,None,Tomorrow anxiety
+378,உள்ளுக்குள் கலக்கம் அதிகம்,Fear,Frustration,Inner turmoil
+379,எதுவும் கையில் இல்லாதது,Fear,Despair,Loss of control
+380,இந்த பயம் கடந்து போகணும்,Fear,Hope,Resilience wish
+381,சாதாரண நாளாகவே போச்சு,Neutral,None,Plain daily update
+382,வழக்கம்போல வேலை முடிந்தது,Neutral,None,Routine completion
+383,இன்று எதுவும் விசேஷமில்லை,Neutral,None,No special event
+384,நேரம் மெதுவாக நகர்ந்தது,Neutral,None,Time passage
+385,சும்மா பார்த்து கொண்டிருந்தேன்,Neutral,None,Casual observation
+386,நாள் எப்படியோ கடந்தது,Neutral,None,Day passing note
+387,வழக்கமான சிந்தனைகள் தான்,Neutral,None,Ordinary thoughts
+388,இது எல்லாம் தினசரி நிலை,Neutral,None,Daily routine
+389,பேச ஒன்றும் தோணல,Neutral,None,Low engagement
+390,சாதாரண உணர்வுடன் நாள்,Neutral,None,Neutral mood
+391,இன்னொரு நாள் சேருது,Neutral,None,Time accumulation
+392,சும்மா நினைத்து விட்டேன்,Neutral,None,Passing thought
+393,எதுவும் மாற்றமில்லை இன்று,Neutral,None,Static state
+394,நாளை பார்க்கலாம் என்று நினைப்பு,Neutral,None,Deferred outlook
+395,வழக்கமான வேகம் தான்,Neutral,None,Normal pace
+396,பேச்சு குறைந்த நாள்,Neutral,None,Quiet day
+397,சாதாரண வேலைகள் தொடருது,Neutral,None,Routine continuity
+398,நேரம் பார்த்து நிறுத்தினேன்,Neutral,None,Practical action
+399,எதுவும் பெருசில்லை,Neutral,None,Minimized appraisal
+400,இது தான் இன்றைய நிலை,Neutral,None,Status report
+401,மனம் மீண்டும் சோர்வடைந்தது,Sadness,Frustration,Recurring fatigue
+402,நம்பிக்கை சற்றே உடைந்தது,Sadness,Despair,Hope fracture
+403,உள்ளுக்குள் வெறுமை பரவுது,Sadness,None,Emotional emptiness
+404,யாரும் புரியாத உணர்வு,Sadness,None,Isolation perception
+405,நினைவுகள் தூக்கம் கலைக்குது,Sadness,Frustration,Sleep disturbance
+406,சுமை குறையாத மனநிலை,Sadness,Despair,Unrelieved burden
+407,சிரிப்பு வெளியில் மட்டும்,Sadness,None,Surface masking
+408,எதிர்பார்ப்பு தோல்வி தந்தது,Sadness,Despair,Expectation failure
+409,மனசு ஓயாமல் வலிக்குது,Sadness,Frustration,Persistent ache
+410,நாட்கள் சோர்வாக ஓடுது,Sadness,None,Drained time
+411,யாரிடம் சொல்லும் துணிச்சல் இல்லை,Sadness,None,Expression inhibition
+412,நம்பிய விஷயம் கசந்தது,Sadness,Despair,Disillusionment
+413,மனசு சற்று உடைந்தது,Sadness,Despair,Minor heartbreak
+414,வார்த்தைகள் போதாத நிலை,Sadness,None,Inexpressible feeling
+415,இரவு நீண்டதாக தெரிகிறது,Sadness,None,Prolonged night
+416,எல்லாம் சுமையாக மாறுது,Sadness,Frustration,Accumulating stress
+417,நம்பிக்கை தேடிக் கொண்டே,Sadness,Hope,Active coping
+418,உள்ளுக்குள் அமைதி கிடைக்கல,Sadness,None,Inner unrest
+419,நாட்கள் அர்த்தமில்லாதது,Sadness,Despair,Meaning loss
+420,மனசு ஓய்வு கேட்குது,Sadness,Hope,Need for rest
+421,இன்று மனசு சிரிச்சது,Joy,None,Emotional uplift
+422,சின்ன மகிழ்ச்சி நாள் மாற்றியது,Joy,None,Minor joy impact
+423,நல்ல நினைவு திடீரென,Joy,None,Positive recall
+424,மனசு லேசாக உணர்ந்தது,Joy,None,Light relief
+425,சிரிப்பு தானாக வந்துச்சு,Joy,None,Spontaneous joy
+426,நம்பிக்கை மனதை நிரப்புது,Joy,Hope,Hopeful filling
+427,நாள் இனிமையாக சென்றது,Joy,None,Pleasant flow
+428,சின்ன வெற்றி ஊக்கம் தந்தது,Joy,Hope,Motivational success
+429,உள்ளுக்குள் நிம்மதி,Joy,None,Inner peace
+430,இந்த நிமிடம் போதும்,Joy,None,Present satisfaction
+431,நல்ல செய்தி மனம் குளிர்ந்தது,Joy,None,Soothing news
+432,சிரிப்பில் சுமை குறைந்தது,Joy,None,Relief through joy
+433,மனசு சாந்தியடைந்தது,Joy,None,Calm attainment
+434,எதிர்காலம் ஒளிர்வதாக தோன்றுது,Joy,Hope,Optimistic vision
+435,சின்ன மாற்றம் மகிழ்ச்சி தந்தது,Joy,None,Unexpected delight
+436,நல்ல எண்ணங்கள் ஓடுது,Joy,None,Positive flow
+437,மனசு இன்றைக்கு லேசு,Joy,None,Light mood
+438,இந்த சந்தோஷம் போதுமானது,Joy,None,Sufficient joy
+439,நாள் நினைவில் நிற்கும்,Joy,None,Memorable day
+440,இப்படி நாள்கள் வரணும்,Joy,Hope,Wishful desire
+441,கோபம் காரணம் தெரியல,Anger,Frustration,Diffuse anger
+442,சொல்லியும் யாரும் புரியல,Anger,Frustration,Misunderstood anger
+443,பொறுமை இப்போ குறைவு,Anger,None,Low patience
+444,நியாயம் கேள்விக்குறி,Anger,Frustration,Justice doubt
+445,எல்லாம் மேல சலிப்பு,Anger,Frustration,Chronic irritation
+446,சும்மா சிரிச்சு தப்பிக்குறாங்க,Anger,Sarcasm,Evasive sarcasm
+447,இதுக்கு முடிவே தெரியல,Anger,Frustration,Unending issue
+448,மனசு கொதிப்பாக இருக்கு,Anger,None,Boiling anger
+449,பேசினாலும் பயன் இல்லாத நிலை,Anger,Frustration,Resigned frustration
+450,பொறுமை எல்லை எட்டியது,Anger,None,Threshold reached
+451,எல்லாம் வேடிக்கையாக தெரிகிறது,Anger,Sarcasm,Ironic perception
+452,யாரும் கவலைப்படல,Anger,Frustration,Perceived neglect
+453,மனசு கடுப்பே மிச்சம்,Anger,None,Residual anger
+454,சொல்லாம இருக்க முடியவில்லை,Anger,Frustration,Need to vent
+455,இதுதான் சரியா என்ற கோபம்,Anger,Frustration,Moral anger
+456,நாடகம் மாதிரி நடக்குது,Anger,Sarcasm,Performative sarcasm
+457,எல்லாம் குழப்பமாக போச்சு,Anger,Frustration,Chaos frustration
+458,மனசு இப்போ அமைதி இழந்தது,Anger,None,Lost calm
+459,இதெல்லாம் தாங்க முடியாதது,Anger,Frustration,Overload anger
+460,வார்த்தைகள் கூட கடுப்பாகுது,Anger,None,Irritable speech
+461,நாளை பற்றி நினைத்தால் பயம்,Fear,None,Future fear
+462,உள்ளுக்குள் அச்சம் ஓடுது,Fear,None,Internal anxiety
+463,எதிர்பார்ப்பு பதற்றம் தருது,Fear,Frustration,Anxious expectation
+464,நிச்சயமில்லாத நிலை தொடருது,Fear,None,Ongoing uncertainty
+465,பயம் மெதுவாக சேருது,Fear,None,Accumulating fear
+466,மனசு ஓயாமல் சிந்திக்குது,Fear,Frustration,Overthinking stress
+467,எல்லாம் கைவிட்டுப் போகுமோ,Fear,Despair,Loss dread
+468,நம்பிக்கையுடன் பயமும்,Fear,Hope,Mixed anticipation
+469,யாராவது அருகில் இருந்தா,Fear,Hope,Need for presence
+470,இந்த நிலை மாறுமா,Fear,Hope,Change hope
+471,மனசு திணறும் மாதிரி,Fear,None,Stress sensation
+472,எதிர்கால சிந்தனை பயமூட்டுது,Fear,None,Future anxiety
+473,எதையும் தொடங்க தயக்கம் இருக்கு,Fear,None,Hesitation fear
+474,நிலையற்ற உணர்வு நிற்கல,Fear,None,Instability persistence
+475,மனசு அமைதி தேடி அலைகிறது,Fear,Hope,Seeking calm
+476,பயம் காரணமில்லாமல் வருது,Fear,None,Free anxiety
+477,நாளை நினைத்தால் பதட்டம்,Fear,None,Tomorrow tension
+478,உள்ளுக்குள் கலக்கம் அதிகரிக்குது,Fear,Frustration,Rising turmoil
+479,கையில் எதுவும் இல்லாத உணர்வு,Fear,Despair,Powerlessness
+480,இந்த பயம் கடக்கணும்,Fear,Hope,Overcoming wish
+481,இன்று சாதாரண நாளாக போச்சு,Neutral,None,Plain update
+482,வழக்கம்போல வேலை முடிந்தது,Neutral,None,Routine task
+483,எதுவும் விசேஷமில்லை இன்று,Neutral,None,No highlight
+484,நேரம் மெதுவாக நகர்ந்தது,Neutral,None,Time passage
+485,சும்மா பார்த்துக்கொண்டிருந்தேன்,Neutral,None,Casual watching
+486,நாள் எப்படியோ கடந்தது,Neutral,None,Day passed
+487,வழக்கமான சிந்தனைகள்,Neutral,None,Ordinary thoughts
+488,தினசரி நிலை தொடருது,Neutral,None,Daily continuity
+489,பேச ஒன்றும் இல்லை,Neutral,None,Low interaction
+490,சாதாரண உணர்வோடு நாள்,Neutral,None,Neutral mood
+491,இன்னொரு நாள் சேர்ந்து போச்சு,Neutral,None,Time accumulation
+492,சும்மா நினைத்து விட்டேன்,Neutral,None,Passing thought
+493,மாற்றம் எதுவும் இல்லை,Neutral,None,Static state
+494,நாளை பார்க்கலாம் நினைப்பு,Neutral,None,Deferred plan
+495,வழக்கமான வேகம்,Neutral,None,Normal pace
+496,பேச்சு குறைந்த நாள் இன்று,Neutral,None,Quiet day
+497,சாதாரண வேலைகள் தான்,Neutral,None,Routine focus
+498,நேரம் பார்த்து நிறுத்தினேன்,Neutral,None,Practical action
+499,எதுவும் பெருசில்லை இன்று,Neutral,None,Minimized appraisal
+500,இன்றைய நிலை இதுதான்,Neutral,None,Status note
+501,மனம் மீண்டும் கனத்தது,Sadness,Frustration,Recurring heaviness
+502,நம்பிக்கை சற்றே குலைந்தது,Sadness,Despair,Shaken hope
+503,உள்ளுக்குள் வெறுமை ஓடுது,Sadness,None,Emptiness sensation
+504,யாரும் புரியாத மாதிரி,Sadness,None,Alienation feeling
+505,நினைவுகள் தூக்கம் கெடுக்குது,Sadness,Frustration,Sleep disruption
+506,சுமை குறையாத மனநிலை,Sadness,Despair,Unrelieved burden
+507,சிரிப்பு வெளிப்படையாக இல்லை,Sadness,None,Hidden sadness
+508,எதிர்பார்ப்பு தோல்வி தந்தது,Sadness,Despair,Expectation collapse
+509,மனசு ஓயாமல் வலிக்குது,Sadness,Frustration,Persistent pain
+510,நாட்கள் சோர்வாக நகருது,Sadness,None,Drained days
+511,யாரிடம் சொல்ல தைரியம் இல்லை,Sadness,None,Expression fear
+512,நம்பிய விஷயம் கசந்தது,Sadness,Despair,Disillusionment
+513,மனசு சற்று உடைந்தது,Sadness,Despair,Minor heartbreak
+514,வார்த்தைகள் போதாத நிலை,Sadness,None,Inexpressible feeling
+515,இரவு நீளமாக தோன்றுது,Sadness,None,Prolonged night
+516,எல்லாம் சுமையாக மாறுது,Sadness,Frustration,Accumulating stress
+517,நம்பிக்கை தேடி பயணம்,Sadness,Hope,Seeking hope
+518,உள்ளுக்குள் அமைதி கிடைக்கல,Sadness,None,Inner unrest
+519,நாட்கள் அர்த்தமில்லாதது,Sadness,Despair,Meaning loss
+520,மனசு ஓய்வு கேட்குது,Sadness,Hope,Need for rest
+521,இன்று மனசு சிரிச்சது,Joy,None,Emotional uplift
+522,சின்ன மகிழ்ச்சி நாள் மாற்றியது,Joy,None,Minor joy impact
+523,நல்ல நினைவு திடீரென,Joy,None,Positive recall
+524,மனசு லேசாக உணர்ந்தது,Joy,None,Light relief
+525,சிரிப்பு தானாக வந்துச்சு,Joy,None,Spontaneous joy
+526,நம்பிக்கை மனதை நிரப்புது,Joy,Hope,Hopeful filling
+527,நாள் இனிமையாக சென்றது,Joy,None,Pleasant flow
+528,சின்ன வெற்றி ஊக்கம் தந்தது,Joy,Hope,Motivational success
+529,உள்ளுக்குள் நிம்மதி,Joy,None,Inner peace
+530,இந்த நிமிடம் போதும்,Joy,None,Present satisfaction
+531,கோபம் காரணம் தெரியல,Anger,Frustration,Diffuse anger
+532,சொல்லியும் யாரும் புரியல,Anger,Frustration,Misunderstood anger
+533,பொறுமை இப்போ குறைவு,Anger,None,Low patience
+534,நியாயம் கேள்விக்குறி,Anger,Frustration,Justice doubt
+535,எல்லாம் மேல சலிப்பு,Anger,Frustration,Chronic irritation
+536,சும்மா சிரிச்சு தப்பிக்குறாங்க,Anger,Sarcasm,Evasive sarcasm
+537,இதுக்கு முடிவே தெரியல,Anger,Frustration,Unending issue
+538,மனசு கொதிப்பாக இருக்கு,Anger,None,Boiling anger
+539,பேசினாலும் பயன் இல்லாத நிலை,Anger,Frustration,Resigned frustration
+540,பொறுமை எல்லை எட்டியது,Anger,None,Threshold reached
+541,நாளை பற்றி நினைத்தால் பயம்,Fear,None,Future fear
+542,உள்ளுக்குள் அச்சம் ஓடுது,Fear,None,Internal anxiety
+543,எதிர்பார்ப்பு பதற்றம் தருது,Fear,Frustration,Anxious expectation
+544,நிச்சயமில்லாத நிலை தொடருது,Fear,None,Ongoing uncertainty
+545,பயம் மெதுவாக சேருது,Fear,None,Accumulating fear
+546,மனசு ஓயாமல் சிந்திக்குது,Fear,Frustration,Overthinking stress
+547,எல்லாம் கைவிட்டுப் போகுமோ,Fear,Despair,Loss dread
+548,நம்பிக்கையுடன் பயமும்,Fear,Hope,Mixed anticipation
+549,யாராவது அருகில் இருந்தா,Fear,Hope,Need for presence
+550,இந்த நிலை மாறுமா,Fear,Hope,Change hope
+551,இன்று சாதாரண நாளாக போச்சு,Neutral,None,Plain update
+552,வழக்கம்போல வேலை முடிந்தது,Neutral,None,Routine task
+553,எதுவும் விசேஷமில்லை இன்று,Neutral,None,No highlight
+554,நேரம் மெதுவாக நகர்ந்தது,Neutral,None,Time passage
+555,சும்மா பார்த்துக்கொண்டிருந்தேன்,Neutral,None,Casual watching
+556,நாள் எப்படியோ கடந்தது,Neutral,None,Day passed
+557,வழக்கமான சிந்தனைகள்,Neutral,None,Ordinary thoughts
+558,தினசரி நிலை தொடருது,Neutral,None,Daily continuity
+559,பேச ஒன்றும் இல்லை,Neutral,None,Low interaction
+560,சாதாரண உணர்வோடு நாள்,Neutral,None,Neutral mood
+561,மனம் மீண்டும் கனத்தது,Sadness,Frustration,Recurring heaviness
+562,நம்பிக்கை சற்றே குலைந்தது,Sadness,Despair,Shaken hope
+563,உள்ளுக்குள் வெறுமை ஓடுது,Sadness,None,Emptiness sensation
+564,யாரும் புரியாத மாதிரி,Sadness,None,Alienation feeling
+565,நினைவுகள் தூக்கம் கெடுக்குது,Sadness,Frustration,Sleep disruption
+566,சுமை குறையாத மனநிலை,Sadness,Despair,Unrelieved burden
+567,சிரிப்பு வெளிப்படையாக இல்லை,Sadness,None,Hidden sadness
+568,எதிர்பார்ப்பு தோல்வி தந்தது,Sadness,Despair,Expectation collapse
+569,மனசு ஓயாமல் வலிக்குது,Sadness,Frustration,Persistent pain
+570,நாட்கள் சோர்வாக நகருது,Sadness,None,Drained days
+571,இன்று மனசு சிரிச்சது,Joy,None,Emotional uplift
+572,சின்ன மகிழ்ச்சி நாள் மாற்றியது,Joy,None,Minor joy impact
+573,நல்ல நினைவு திடீரென,Joy,None,Positive recall
+574,மனசு லேசாக உணர்ந்தது,Joy,None,Light relief
+575,சிரிப்பு தானாக வந்துச்சு,Joy,None,Spontaneous joy
+576,நம்பிக்கை மனதை நிரப்புது,Joy,Hope,Hopeful filling
+577,நாள் இனிமையாக சென்றது,Joy,None,Pleasant flow
+578,சின்ன வெற்றி ஊக்கம் தந்தது,Joy,Hope,Motivational success
+579,உள்ளுக்குள் நிம்மதி,Joy,None,Inner peace
+580,இந்த நிமிடம் போதும்,Joy,None,Present satisfaction
+581,கோபம் காரணம் தெரியல,Anger,Frustration,Diffuse anger
+582,சொல்லியும் யாரும் புரியல,Anger,Frustration,Misunderstood anger
+583,பொறுமை இப்போ குறைவு,Anger,None,Low patience
+584,நியாயம் கேள்விக்குறி,Anger,Frustration,Justice doubt
+585,எல்லாம் மேல சலிப்பு,Anger,Frustration,Chronic irritation
+586,சும்மா சிரிச்சு தப்பிக்குறாங்க,Anger,Sarcasm,Evasive sarcasm
+587,இதுக்கு முடிவே தெரியல,Anger,Frustration,Unending issue
+588,மனசு கொதிப்பாக இருக்கு,Anger,None,Boiling anger
+589,பேசினாலும் பயன் இல்லாத நிலை,Anger,Frustration,Resigned frustration
+590,பொறுமை எல்லை எட்டியது,Anger,None,Threshold reached
+591,நாளை பற்றி நினைத்தால் பயம்,Fear,None,Future fear
+592,உள்ளுக்குள் அச்சம் ஓடுது,Fear,None,Internal anxiety
+593,எதிர்பார்ப்பு பதற்றம் தருது,Fear,Frustration,Anxious expectation
+594,நிச்சயமில்லாத நிலை தொடருது,Fear,None,Ongoing uncertainty
+595,பயம் மெதுவாக சேருது,Fear,None,Accumulating fear
+596,மனசு ஓயாமல் சிந்திக்குது,Fear,Frustration,Overthinking stress
+597,எல்லாம் கைவிட்டுப் போகுமோ,Fear,Despair,Loss dread
+598,நம்பிக்கையுடன் பயமும்,Fear,Hope,Mixed anticipation
+599,யாராவது அருகில் இருந்தா,Fear,Hope,Need for presence
+600,இந்த நிலை மாறுமா,Fear,Hope,Change hope
+601,உள்ளம் மெதுவாக சோர்ந்து ஒளி இழந்ததை உணர்கிறேன்,Sadness,Despair,Gradual emotional depletion
+602,இதயம் ஏதோ சொல்ல முயன்று மௌனத்தில் மறைகிறது,Sadness,None,Silent emotional conflict
+603,எண்ணங்கள் சுமையாகி நாளெல்லாம் உடன் வருகின்றன,Sadness,Frustration,Accumulated mental weight
+604,உள்ளுக்குள் துக்கம் காரணமில்லாமல் பெருகுகிறது,Sadness,Despair,Unexplained sorrow
+605,நம்பிய உறவுகள் தூரமாகி வெறுமை அதிகரித்தது,Sadness,Despair,Relational disappointment
+606,சிரிப்பு முகத்தில் இருந்தாலும் உள்ளம் கனத்திருக்கிறது,Sadness,None,Masked sadness
+607,எதிர்பார்ப்புகள் சிதறி இதயம் சோர்வடைந்தது,Sadness,Despair,Expectation collapse
+608,எண்ணங்கள் ஒழுங்கின்றி ஓடி சோர்வை கூட்டுகின்றன,Sadness,Frustration,Cognitive overload
+609,இரவுகள் நீளமாகி தூக்கம் கூட மறுக்கிறது,Sadness,None,Disrupted rest
+610,சுற்றம் இருந்தும் தனித்திருப்பது போல உணர்வு,Sadness,None,Social isolation
+611,வாழ்வின் வேகம் என்னை முந்தி ஓடுகிறது,Sadness,Frustration,Life pace stress
+612,உள்ளம் தேடும் அமைதி எங்கும் கிடைக்கவில்லை,Sadness,Despair,Unmet inner needs
+613,நினைவுகள் மீண்டும் மீண்டும் காயத்தைத் திறக்கின்றன,Sadness,Frustration,Recurrent memories
+614,எதையும் பகிர முடியாத நிலை சுமையாகிறது,Sadness,None,Emotional inhibition
+615,நம்பிக்கை சற்றே மங்கியதாக இன்று தோன்றியது,Sadness,Despair,Fading optimism
+616,உணர்வுகளை அடக்கிக் கொள்ள பழகிவிட்டேன்,Sadness,None,Cultural suppression
+617,இதயம் ஓய்வு கேட்டும் சூழல் அனுமதிக்கவில்லை,Sadness,Frustration,Environmental pressure
+618,நாள்கள் ஒரே சாயலில் நகர்வது வேதனை,Sadness,None,Emotional monotony
+619,உள்ளுக்குள் கேள்விகள் பதிலின்றி சுழல்கின்றன,Sadness,Frustration,Unresolved doubts
+620,சில நாட்கள் சுமை தாங்கும் திறன் குறைகிறது,Sadness,Despair,Emotional exhaustion
+621,உணர்வு மெதுவாக குளிர்ந்து அமைதியாகிறது,Joy,None,Gentle contentment
+622,சாதாரண தருணம் இதயத்தில் இனிமை சேர்த்தது,Joy,None,Unexpected pleasure
+623,எண்ணங்கள் ஒழுங்காகி நாளுக்கு ஒளி வந்தது,Joy,None,Mental clarity
+624,சுற்றியவர்களின் சிரிப்பு உள்ளத்தை நெருங்கியது,Joy,None,Social warmth
+625,சிறு முயற்சி நல்ல பலன் தந்த சந்தோஷம்,Joy,Hope,Effort rewarded
+626,இன்றைய காலை இதயத்திற்கு நிம்மதி அளித்தது,Joy,None,Peaceful start
+627,நல்ல செய்தி கேட்டதும் உள்ளம் விரிந்தது,Joy,None,Positive stimulus
+628,எதிர்காலம் குறித்து சிறு நம்பிக்கை எழுந்தது,Joy,Hope,Renewed optimism
+629,சுமைகள் குறைந்த உணர்வு நாள் முழுதும் இருந்தது,Joy,None,Relief experience
+630,இதயம் இன்றைக்கு மென்மையாக துடித்தது,Joy,None,Inner ease
+631,நாளின் ஓசை இனிமையாக கேட்டது இன்று,Joy,None,Sensory pleasure
+632,எண்ணங்களில் நேர்மறை ஓட்டம் அதிகரித்தது,Joy,None,Positive cognition
+633,சிறு பாராட்டு மனநிலையை உயர்த்தியது,Joy,None,Social validation
+634,இன்று செய்த முடிவு உள்ளத்தை மகிழ்வித்தது,Joy,None,Self affirmation
+635,நல்ல நினைவு திடீரென முகத்தில் சிரிப்பு,Sadness,None,Mixed recollection
+636,சாதாரண வேலையும் இன்று இனிமையாக இருந்தது,Joy,None,Task enjoyment
+637,உள்ளம் லேசாகி சுவாசம் கூட சீரானது,Joy,None,Physiological calm
+638,எதிர்பாராத உதவி இதயத்தை தொட்ந்தது,Joy,Hope,Received support
+639,நாளின் முடிவில் திருப்தி உணர்ந்தேன்,Joy,None,Content closure
+640,இப்படி நாள்கள் தொடர வேண்டுமென ஆசை,Joy,Hope,Desire for continuity
+641,சுற்றிய சூழல் பொறுமையை சோதிப்பதாக உணர்வு,Anger,Frustration,Environmental strain
+642,சொன்ன கருத்து மதிக்கப்படாததால் கோபம்,Anger,Frustration,Disregarded opinion
+643,நியாயமற்ற நடைமுறை இதயத்தை எரிச்சலாக்கியது,Anger,None,Perceived injustice
+644,மீண்டும் மீண்டும் விளக்க வேண்டிய நிலை சலிப்பு,Anger,Frustration,Repetitive effort
+645,சிலர் அலட்சியமாக நடப்பது கடுப்பை உண்டாக்கியது,Anger,None,Social disrespect
+646,அமைதியாக இருந்தும் குற்றம் சுமத்தப்பட்டது,Anger,Frustration,Unfair blame
+647,எல்லாம் மேடையாக மாறிய உணர்வு வந்தது,Anger,Sarcasm,Performative society
+648,சொல்லாமல் தள்ளிவைக்கும் பழக்கம் எரிச்சல்,Anger,Frustration,Avoidance frustration
+649,எண்ணங்கள் கடுமையாகி வார்த்தைகள் கூர்மையானது,Anger,None,Escalating irritation
+650,பொறுமை எல்லையைத் தொட்டதாக உணர்கிறேன்,Anger,None,Threshold breach
+651,கேள்விகள் எழுந்தும் பதில் கிடைக்கவில்லை,Anger,Frustration,Accountability gap
+652,சில முடிவுகள் கட்டாயமாக திணிக்கப்பட்டன,Anger,None,Loss of agency
+653,நாடகமாய் சிரிக்கும் முகங்கள் எரிச்சல் தரும்,Anger,Sarcasm,Social pretense
+654,மதிப்பு இல்லாத பேச்சு கோபத்தை தூண்டியது,Anger,None,Disrespect reaction
+655,சூழ்நிலை மாறாதது எரிச்சலை கூட்டுகிறது,Anger,Frustration,Stagnation anger
+656,உள்ளுக்குள் தீப்பொறி போல கோபம்,Anger,None,Internal rage
+657,சொல்லிய வாக்குறுதி மறக்கப்பட்டது,Anger,Frustration,Broken promise
+658,சில விஷயங்கள் வேண்டுமென்றே தவிர்க்கப்படுகின்றன,Anger,None,Intentional neglect
+659,அமைதி காத்தாலும் சோதனை தொடர்கிறது,Anger,Frustration,Patience strain
+660,நியாயம் கேட்பதே தவறாக பார்க்கப்படுகிறது,Anger,None,Justice suppression
+661,எதிர்கால சிந்தனை உள்ளத்தை பதற்றமடைய செய்கிறது,Fear,None,Future uncertainty
+662,எண்ணங்கள் கட்டுப்பாட்டை இழந்து ஓடுகின்றன,Fear,Frustration,Overthinking anxiety
+663,நிலையற்ற சூழல் பாதுகாப்பு உணர்வை குலைத்தது,Fear,None,Environmental insecurity
+664,எதையும் தொடங்க தயக்கம் இன்று அதிகம்,Fear,None,Initiation fear
+665,நம்பிக்கையுடன் கூட அச்சம் சேர்ந்திருக்கிறது,Fear,Hope,Mixed anticipation
+666,மாறக்கூடிய முடிவுகள் பயத்தை வளர்க்கின்றன,Fear,None,Outcome anxiety
+667,உள்ளுக்குள் ஏதோ தவறு நடக்கும் உணர்வு,Fear,None,Anticipatory dread
+668,எதிர்பாராத மாற்றங்கள் இதயத்தை நடுங்க வைத்தது,Fear,None,Sudden change anxiety
+669,பாதுகாப்பு குறித்த எண்ணங்கள் தூக்கத்தை கெடுத்தது,Fear,Frustration,Security concerns
+670,நாளை பற்றிய கேள்விகள் பயத்தை தூண்டுகின்றன,Fear,None,Tomorrow worry
+671,உறுதி இல்லாத நிலை மனநிலையை குழப்புகிறது,Fear,None,Instability stress
+672,சில சத்தங்கள் கூட அச்சமாக உணரப்படுகிறது,Fear,None,Heightened sensitivity
+673,நம்பிக்கை இருந்தும் மனம் தயங்குகிறது,Fear,Hope,Conflicted courage
+674,எதையும் திட்டமிட முடியாத நிலை பயம்,Fear,None,Planning paralysis
+675,உள்ளுக்குள் கலக்கம் அடங்க மறுக்கிறது,Fear,Frustration,Persistent anxiety
+676,எதிர்காலம் மங்கலாக தெரிகிறது இன்று,Fear,None,Unclear vision
+677,சில பொறுப்புகள் அச்சத்தை அதிகரிக்கின்றன,Fear,None,Responsibility pressure
+678,பயம் காரணமில்லாமல் வந்து போகிறது,Fear,None,Free floating fear
+679,நம்பிக்கை தேடி உள்ளம் அலைகிறது,Fear,Hope,Seeking reassurance
+680,இந்த நிலை மாறுமா என்ற சந்தேகம்,Fear,None,Change doubt
+681,இன்றைய நாள் சாதாரணமாகவே முடிந்தது,Neutral,None,Plain daily closure
+682,வழக்கமான பணிகள் திட்டமிட்டபடி நடந்தது,Neutral,None,Routine execution
+683,நேரம் மெதுவாக நகர்ந்தது இன்று,Neutral,None,Time perception
+684,எதுவும் குறிப்பிடத்தக்கதாக இல்லை,Neutral,None,No notable event
+685,சாதாரண சிந்தனைகளுடன் நாள் சென்றது,Neutral,None,Neutral cognition
+686,பேச்சு குறைவான அமைதியான நாள்,Neutral,None,Quiet routine
+687,வழக்கம்போலவே செயல்கள் தொடர்ந்தன,Neutral,None,Regular flow
+688,இன்றைக்கு அதிகம் நினைக்கவில்லை,Neutral,None,Low rumination
+689,நாளின் வேகம் சமநிலையில் இருந்தது,Neutral,None,Balanced pace
+690,சாதாரண உணர்வுடன் வேலை முடிந்தது,Neutral,None,Task neutrality
+691,எதையும் பெரிதாக எடுத்துக்கொள்ளவில்லை,Neutral,None,Detached appraisal
+692,நாளை பற்றிய திட்டம் பின்னூட்டம்,Neutral,None,Deferred planning
+693,சூழல் மாற்றமின்றி இருந்தது,Neutral,None,Static environment
+694,வழக்கமான நேரத்தில் ஓய்வு எடுத்தேன்,Neutral,None,Routine rest
+695,பேச்சு கேள்விகள் எதுவும் இல்லை,Neutral,None,Low interaction
+696,நாளின் முடிவில் சமநிலை உணர்வு,Neutral,None,Emotional equilibrium
+697,சாதாரண வேலையுடன் நேரம் சென்றது,Neutral,None,Work routine
+698,எதுவும் சிரமமாக தோன்றவில்லை,Neutral,None,No strain
+699,நாளின் நிலை மாற்றமின்றி,Neutral,None,Status quo
+700,இன்றைய அனுபவம் சாதாரணம்,Neutral,None,Neutral experience
+701,உள்ளம் மீண்டும் சோர்வை நினைவூட்டியது,Sadness,Frustration,Recurring low mood
+702,நம்பிக்கை சிறிது தளர்ந்ததாக உணர்வு,Sadness,Despair,Weakening hope
+703,எண்ணங்கள் சுழன்று தீர்வு தரவில்லை,Sadness,Frustration,Problem rumination
+704,சில வார்த்தைகள் இதயத்தை காயப்படுத்தின,Sadness,None,Emotional hurt
+705,நாட்கள் கனமாக நகர்கின்றன,Sadness,Despair,Weighted time
+706,உள்ளுக்குள் வெறுமை இடம் பிடித்தது,Sadness,None,Inner void
+707,பகிர முடியாத உணர்வு சுமையாகிறது,Sadness,None,Unshared emotion
+708,எதிர்பாராத மௌனம் வலியை கூட்டியது,Sadness,Despair,Silent rejection
+709,நினைவுகள் ஓய்வெடுக்க விடவில்லை,Sadness,Frustration,Memory intrusion
+710,இதயம் அமைதி தேடி அலைகிறது,Sadness,Hope,Seeking calm
+711,சுற்றியவர்கள் புரியாதது வேதனை,Sadness,None,Social misunderstanding
+712,நம்பிய இடத்தில் ஏமாற்றம்,Sadness,Despair,Betrayal feeling
+713,உள்ளம் சோர்ந்து சக்தி குறைந்தது,Sadness,Frustration,Energy depletion
+714,நாளின் முடிவில் வெறுமை,Sadness,None,End day emptiness
+715,வார்த்தைகள் உள்ளத்தை அடைக்கின்றன,Sadness,None,Emotional blockage
+716,எண்ணங்கள் இருளில் சிக்கின,Sadness,Despair,Dark cognition
+717,சிரிப்பு தொலைந்ததை உணர்கிறேன்,Sadness,None,Loss of joy
+718,நம்பிக்கை தேடும் பயணம் நீளுகிறது,Sadness,Hope,Enduring search
+719,உள்ளுக்குள் கண்ணீர் அடங்கவில்லை,Sadness,Despair,Suppressed grief
+720,இன்று மனநிலை சோர்வாக இருந்தது,Sadness,None,Low affect
+721,சிறு வெற்றி உள்ளத்தை மகிழ்வித்தது,Joy,None,Minor achievement
+722,நல்ல செய்தி நாள் முழுதும் ஒளி,Joy,None,Positive carryover
+723,எண்ணங்கள் தெளிவடைந்து நிம்மதி,Sadness,None,Mixed clarity
+724,சுற்றியவர்களின் ஆதரவு சக்தி தந்தது,Joy,Hope,Social support
+725,இன்றைய அனுபவம் இனிமையாக இருந்தது,Joy,None,Pleasant experience
+726,உள்ளம் அமைதியாகி சுவாசம் சீரானது,Joy,None,Relaxation response
+727,சிறு பாராட்டு ஊக்கத்தை ஏற்படுத்தியது,Joy,None,Encouragement effect
+728,எதிர்காலம் சற்றே நம்பிக்கையுடன்,Joy,Hope,Optimistic shift
+729,சாதாரண தருணம் மகிழ்ச்சி தந்தது,Joy,None,Everyday joy
+730,நாளின் முடிவில் திருப்தி,Joy,None,Content ending
+731,முடிவெடுத்த தீர்மானம் நம்பிக்கை,Joy,Hope,Decisional confidence
+732,உள்ளுக்குள் சிரிப்பு எழுந்தது,Joy,None,Inner delight
+733,சுமை குறைந்த உணர்வு நாள் முழுதும்,Joy,None,Relief persistence
+734,நல்ல பழக்கம் மனநிலையை உயர்த்தியது,Joy,None,Positive habit
+735,இன்று செய்த உதவி உள்ளத்தை மகிழ்வித்தது,Joy,None,Altruistic joy
+736,சிறு மாற்றம் பெரிய சந்தோஷம்,Sadness,None,Mixed emotion
+737,உள்ளம் இன்று லேசாக இருந்தது,Joy,None,Light affect
+738,நல்ல நினைவுகள் மனதை நிரப்பின,Joy,None,Positive recollection
+739,எதிர்பாராத சிரிப்பு நாளை மாற்றியது,Joy,None,Surprise happiness
+740,இப்படி நாள்கள் தொடர ஆசை,Joy,Hope,Continuity wish
+741,சுற்றிய சூழல் எரிச்சலை தூண்டியது,Anger,Frustration,Contextual irritation
+742,சொன்னது தவறாக புரிந்துகொள்ளப்பட்டது,Anger,Frustration,Misinterpretation anger
+743,நியாயம் புறக்கணிக்கப்பட்டதாக உணர்வு,Anger,None,Injustice perception
+744,மீண்டும் மீண்டும் காத்திருக்க வேண்டியது,Anger,Frustration,Delay frustration
+745,அலட்சியமான அணுகுமுறை கோபம்,Sadness,None,Disappointment blend
+746,அமைதியை தவறாக எடுத்துக்கொண்டனர்,Anger,None,Assertiveness ignored
+747,சில வாக்குறுதிகள் காற்றாகின,Anger,Frustration,Promise failure
+748,முகத்தில் சிரிப்பு உள்ளுக்குள் கடுப்பு,Anger,Sarcasm,Surface politeness
+749,பொறுமை சோதனைக்கு உள்ளானது,Anger,None,Patience trial
+750,நியாயம் கேட்பது சிரமமானது,Anger,Frustration,Systemic resistance
+751,சூழல் மாற்றமின்றி கோபம் நீடித்தது,Anger,None,Stagnant anger
+752,சிலர் பொறுப்பை தவிர்ப்பது எரிச்சல்,Anger,Frustration,Responsibility avoidance
+753,வார்த்தைகள் கடினமாக மாறின,Anger,None,Harsh communication
+754,மதிப்பு குறைந்த அணுகுமுறை கோபம்,Sadness,None,Hurt pride
+755,நாடகமாய் நடந்துகொள்வது சலிப்பு,Anger,Sarcasm,Performative fatigue
+756,எல்லாம் என் மீது தள்ளப்பட்டது,Anger,Frustration,Unfair burden
+757,அமைதி காத்தாலும் சோதனை தொடர்ந்தது,Anger,Frustration,Persistence strain
+758,சில முடிவுகள் எரிச்சலை ஏற்படுத்தின,Anger,None,Decision anger
+759,உள்ளுக்குள் கோபம் குவிகிறது,Anger,None,Anger accumulation
+760,நியாயம் தொலைந்த உணர்வு,Sadness,None,Moral disappointment
+761,எதிர்பாராத மாற்றம் அச்சத்தை ஏற்படுத்தியது,Fear,None,Sudden uncertainty
+762,எண்ணங்கள் கட்டுப்பாட்டை இழந்தது,Fear,Frustration,Mental overwhelm
+763,நிலையற்ற சூழல் நிம்மதி குலைத்தது,Fear,None,Security loss
+764,தவறுகள் நடக்கும் என அச்சம்,Fear,None,Error anxiety
+765,நம்பிக்கை இருந்தும் தயக்கம்,Fear,Hope,Ambivalent courage
+766,எதிர்கால முடிவுகள் பயமூட்டின,Fear,None,Decision fear
+767,உள்ளுக்குள் கலக்கம் நீடித்தது,Fear,Frustration,Chronic anxiety
+768,பாதுகாப்பு குறித்த எண்ணங்கள் அதிகம்,Fear,None,Safety concern
+769,நாளை பற்றி சிந்திக்க மனம் தயங்குகிறது,Fear,None,Future avoidance
+770,எதிர்பாராத செய்தி அச்சம் தந்தது,Fear,None,Threat perception
+771,சில பொறுப்புகள் பயத்தை தூண்டின,Fear,None,Responsibility fear
+772,மாற்றம் வருமா என்ற சந்தேகம்,Fear,None,Change anxiety
+773,உறுதி இல்லாத நிலை மனதை குழப்பியது,Fear,None,Ambiguity stress
+774,எதையும் திட்டமிட முடியாத நிலை,Fear,None,Planning fear
+775,உள்ளம் பாதுகாப்பு தேடுகிறது,Fear,Hope,Seeking safety
+776,பயம் காரணமில்லாமல் எழுகிறது,Fear,None,Free anxiety
+777,எதிர்காலம் தெளிவில்லாமல் தெரிகிறது,Fear,None,Blurred future
+778,நம்பிக்கை தேடும் பயணம் தொடர்கிறது,Fear,Hope,Hopeful persistence
+779,இந்த நிலை மாற வேண்டுமென விருப்பம்,Fear,Hope,Desire for change
+780,அச்சம் அடங்காமல் உள்ளுக்குள்,Fear,Frustration,Unresolved fear
+781,இன்று வழக்கமான நாளாகவே இருந்தது,Neutral,None,Ordinary day
+782,வேலைகள் திட்டமிட்டபடி முடிந்தன,Neutral,None,Task completion
+783,நேரம் மெதுவாக சென்றது,Neutral,None,Time flow
+784,எதுவும் விசேஷமில்லை இன்று,Neutral,None,No event
+785,சாதாரண சிந்தனைகளுடன் நாள்,Neutral,None,Neutral mindset
+786,பேச்சு குறைவான அமைதி,Neutral,None,Quiet environment
+787,வழக்கம்போல செயல்கள் தொடர்ந்தன,Neutral,None,Routine continuation
+788,நாளை பற்றிய திட்டம் பின்னர்,Neutral,None,Deferred planning
+789,சூழல் மாற்றமின்றி இருந்தது,Neutral,None,Stable context
+790,சாதாரண உணர்வோடு வேலை,Neutral,None,Work neutrality
+791,எதையும் பெரிதாக எண்ணவில்லை,Neutral,None,Low appraisal
+792,நாளின் முடிவில் சமநிலை,Neutral,None,Balanced closure
+793,வழக்கமான நேரத்தில் ஓய்வு,Neutral,None,Routine rest
+794,பேச்சு கேள்விகள் இல்லை,Neutral,None,Low interaction
+795,நாள் சீராக முடிந்தது,Neutral,None,Smooth ending
+796,சாதாரண வேகம் தொடர்ந்தது,Neutral,None,Steady pace
+797,எதுவும் சிரமமாக இல்லை,Neutral,None,No difficulty
+798,நாளின் நிலை மாறவில்லை,Neutral,None,Status quo
+799,இன்றைய அனுபவம் சாதாரணம்,Neutral,None,Neutral experience
+800,வேலை முடிந்து அமைதி,Neutral,None,Post work calm
+801,உள்ளம் மீண்டும் சோர்வை நினைத்தது,Sadness,Frustration,Relapse mood
+802,நம்பிக்கை தளர்ந்ததாக தோன்றியது,Sadness,Despair,Hope dip
+803,எண்ணங்கள் சிக்கி வெளியே வரவில்லை,Sadness,Frustration,Thought entrapment
+804,சில வார்த்தைகள் ஆழமாக காயப்படுத்தின,Sadness,None,Emotional wound
+805,நாட்கள் கனமாக நகர்கின்றன,Sadness,Despair,Heavy time
+806,உள்ளுக்குள் வெறுமை நிரம்பியது,Sadness,None,Inner emptiness
+807,பகிர முடியாத உணர்வு சுமை,Sadness,None,Unexpressed emotion
+808,எதிர்பாராத மௌனம் துக்கம்,Sadness,Despair,Silent loss
+809,நினைவுகள் மீண்டும் தொந்தரவு,Sadness,Frustration,Memory disturbance
+810,இதயம் அமைதி தேடுகிறது,Sadness,Hope,Seeking peace
+811,சுற்றியவர்கள் புரியாதது,Sadness,None,Social disconnect
+812,நம்பிய இடத்தில் ஏமாற்றம்,Sadness,Despair,Broken trust
+813,உள்ளம் சோர்ந்து சக்தி குறைந்தது,Sadness,Frustration,Energy drain
+814,நாளின் முடிவில் வெறுமை,Sadness,None,Empty closure
+815,வார்த்தைகள் உள்ளத்தை அடைத்தன,Sadness,None,Emotional blockage
+816,எண்ணங்கள் இருளில் சிக்கின,Sadness,Despair,Dark rumination
+817,சிரிப்பு தொலைந்தது,Sadness,None,Joy absence
+818,நம்பிக்கை தேடும் பயணம் நீளம்,Sadness,Hope,Endurance
+819,உள்ளுக்குள் கண்ணீர்,Sadness,Despair,Suppressed grief
+820,இன்று மனநிலை சோர்வு,Sadness,None,Low affect
+821,சிறு வெற்றி மகிழ்ச்சி,Sadness,None,Bittersweet win
+822,நல்ல செய்தி ஒளி,Sadness,None,Mixed uplift
+823,எண்ணங்கள் தெளிவடைந்தன,Sadness,None,Clarity relief
+824,ஆதரவு சக்தி,Sadness,None,Support felt
+825,இன்றைய அனுபவம் இனிமை,Joy,None,Pleasant moment
+826,உள்ளம் அமைதி,Joy,None,Calm heart
+827,பாராட்டு ஊக்கம்,Joy,None,Encouragement
+828,எதிர்காலம் நம்பிக்கை,Joy,Hope,Optimism rise
+829,சாதாரண தருணம் மகிழ்ச்சி,Joy,None,Everyday joy
+830,திருப்தி,Sadness,None,Content sadness
+831,தீர்மானம் நம்பிக்கை,Joy,Hope,Decision confidence
+832,உள்ளுக்குள் சிரிப்பு,Joy,None,Inner smile
+833,சுமை குறைவு,Joy,None,Relief
+834,நல்ல பழக்கம்,Sadness,None,Reflective calm
+835,உதவி மகிழ்ச்சி,Joy,None,Helping joy
+836,மாற்றம்,Sadness,None,Ambivalence
+837,லேசு,Joy,None,Light mood
+838,நல்ல நினைவு,Joy,None,Positive recall
+839,எதிர்பாராத சிரிப்பு,Joy,None,Surprise joy
+840,ஆசை,Joy,Hope,Future wish
+841,எரிச்சல்,Sadness,None,Low anger
+842,தவறான புரிதல்,Anger,Frustration,Misunderstanding
+843,நியாயமின்மை,Anger,None,Injustice
+844,காத்திருப்பு,Anger,Frustration,Delay
+845,அலட்சியம்,Sadness,None,Neglect
+846,அமைதி தவறாக,Anger,None,Silence misread
+847,வாக்குறுதி மறைவு,Anger,Frustration,Broken promise
+848,முகமூடி,Sadness,None,Masked feeling
+849,பொறுமை சோதனை,Anger,None,Patience test
+850,நியாயம் கேள்வி,Anger,Frustration,Justice doubt
+851,நிலைத்த கோபம்,Anger,None,Chronic anger
+852,பொறுப்பு தவிர்ப்பு,Anger,Frustration,Avoidance
+853,கூர்மை,Sadness,None,Sharp words
+854,மதிப்பு குறைவு,Sadness,None,Hurt pride
+855,நாடகம்,Anger,Sarcasm,Pretence
+856,சுமை,Sadness,None,Overload
+857,சோதனை,Anger,Frustration,Endurance strain
+858,முடிவு,Sadness,None,Resignation
+859,குவிப்பு,Anger,None,Anger build
+860,நெறி ஏமாற்றம்,Sadness,None,Moral letdown
+861,மாற்றம் அச்சம்,Fear,None,Change fear
+862,அதிக சிந்தனை,Fear,Frustration,Overthinking
+863,பாதுகாப்பு இழப்பு,Fear,None,Security loss
+864,தவறு அச்சம்,Fear,None,Error fear
+865,தயக்கம்,Fear,Hope,Uncertain courage
+866,முடிவு பயம்,Fear,None,Decision anxiety
+867,கலக்கம்,Fear,Frustration,Inner turmoil
+868,பாதுகாப்பு எண்ணம்,Fear,None,Safety focus
+869,நாளை தயக்கம்,Fear,None,Future avoidance
+870,அச்ச செய்தி,Fear,None,Threat cue
+871,பொறுப்பு பயம்,Fear,None,Responsibility fear
+872,சந்தேகம்,Fear,None,Doubt
+873,அம்பிக்யூட்டி,Fear,None,Ambiguity stress
+874,திட்டமிடல் பயம்,Fear,None,Planning fear
+875,பாதுகாப்பு தேடல்,Fear,Hope,Seeking safety
+876,காரணமில்லா பயம்,Fear,None,Free fear
+877,மங்கல எதிர்காலம்,Fear,None,Unclear future
+878,நம்பிக்கை பயணம்,Fear,Hope,Hope pursuit
+879,மாற்ற விருப்பு,Fear,Hope,Change wish
+880,அச்சம் நீடிப்பு,Fear,Frustration,Persistent fear
+881,சாதாரண நாள்,Neutral,None,Ordinary
+882,வேலை முடிவு,Neutral,None,Task end
+883,நேர ஓட்டம்,Neutral,None,Time flow
+884,விசேஷம் இல்லை,Neutral,None,No event
+885,சாதாரண சிந்தனை,Neutral,None,Neutral thought
+886,அமைதி,Neutral,None,Quiet
+887,வழக்கம்,Neutral,None,Routine
+888,பின்னர் திட்டம்,Neutral,None,Deferred plan
+889,மாற்றமில்லை,Neutral,None,No change
+890,வேலை உணர்வு,Neutral,None,Work state
+891,அலட்சியம் இல்லை,Neutral,None,No stress
+892,சமநிலை,Neutral,None,Balance
+893,ஓய்வு,Neutral,None,Rest
+894,பேச்சு இல்லை,Neutral,None,Silence
+895,சீரான முடிவு,Neutral,None,Smooth end
+896,வேகம்,Neutral,None,Pace
+897,சிரமமில்லை,Neutral,None,No difficulty
+898,நிலை,Neutral,None,Status
+899,அனுபவம்,Neutral,None,Experience
+900,அமைதி முடிவு,Neutral,None,Calm closure
+901,உள்ளம் கனமாய்,Sadness,Frustration,Heavy mood
+902,நம்பிக்கை தளர்வு,Sadness,Despair,Hope weakening
+903,எண்ண சிக்கல்,Sadness,Frustration,Thought trap
+904,வலி வார்த்தை,Sadness,None,Hurtful speech
+905,கனமான நாள்,Sadness,Despair,Heavy day
+906,வெறுமை,Sadness,None,Emptiness
+907,பகிராமை,Sadness,None,Unshared feeling
+908,மௌனம்,Sadness,Despair,Silent pain
+909,நினைவு தொல்லை,Sadness,Frustration,Memory bother
+910,அமைதி தேடல்,Sadness,Hope,Seeking calm
+911,புரியாமை,Sadness,None,Misunderstood
+912,ஏமாற்றம்,Sadness,Despair,Disappointment
+913,சக்தி குறைவு,Sadness,Frustration,Low energy
+914,வெறுமை முடிவு,Sadness,None,Empty end
+915,அடைப்பு,Sadness,None,Emotional block
+916,இருள்,Sadness,Despair,Dark mood
+917,சிரிப்பு இழப்பு,Sadness,None,Lost joy
+918,தேடல்,Sadness,Hope,Searching hope
+919,கண்ணீர்,Sadness,Despair,Grief
+920,சோர்வு,Sadness,None,Fatigue
+921,சிறு மகிழ்ச்சி,Joy,None,Small joy
+922,நல்ல செய்தி,Joy,None,Good news
+923,தெளிவு,Sadness,None,Clarity sadness
+924,ஆதரவு,Sadness,None,Support felt
+925,இனிமை,Joy,None,Pleasure
+926,அமைதி,Joy,None,Peace
+927,ஊக்கம்,Joy,None,Encouragement
+928,நம்பிக்கை,Joy,Hope,Hope rise
+929,மகிழ்ச்சி,Joy,None,Happiness
+930,திருப்தி,Sadness,None,Content sadness
+931,தீர்மானம்,Joy,Hope,Decision hope
+932,சிரிப்பு,Joy,None,Smile
+933,இலகு,Joy,None,Lightness
+934,பழக்கம்,Sadness,None,Reflective habit
+935,உதவி,Joy,None,Helping
+936,மாற்றம்,Sadness,None,Transition
+937,லேசு,Joy,None,Light mood
+938,நினைவு,Joy,None,Memory joy
+939,ஆச்சரியம்,Joy,None,Surprise
+940,ஆசை,Joy,Hope,Wish
+941,எரிச்சல்,Sadness,None,Irritation
+942,புரிதல் குறைவு,Anger,Frustration,Misunderstanding
+943,அநியாயம்,Anger,None,Injustice
+944,காத்திருப்பு,Anger,Frustration,Waiting
+945,அலட்சியம்,Sadness,None,Neglect
+946,அமைதி தவறு,Anger,None,Silence misread
+947,வாக்குறுதி,Sadness,None,Promise loss
+948,முகமூடி,Sadness,None,Mask
+949,பொறுமை,Anger,None,Patience
+950,நியாயம்,Anger,Frustration,Justice issue
+951,நிலைத்த கோபம்,Anger,None,Chronic anger
+952,தவிர்ப்பு,Anger,Frustration,Avoidance
+953,கூர்மை,Sadness,None,Sharpness
+954,மதிப்பு,Sadness,None,Pride hurt
+955,நாடகம்,Anger,Sarcasm,Pretence
+956,சுமை,Sadness,None,Burden
+957,சோதனை,Anger,Frustration,Test
+958,முடிவு,Sadness,None,Ending
+959,குவிப்பு,Anger,None,Accumulation
+960,நெறி,Sadness,None,Moral pain
+961,மாற்றம் அச்சம்,Fear,None,Change fear
+962,அதிக சிந்தனை,Fear,Frustration,Overthinking
+963,பாதுகாப்பு,Fear,None,Security worry
+964,தவறு,Fear,None,Mistake fear
+965,தயக்கம்,Fear,Hope,Hesitant hope
+966,முடிவு,Fear,None,Decision fear
+967,கலக்கம்,Fear,Frustration,Turmoil
+968,பாதுகாப்பு எண்ணம்,Fear,None,Safety focus
+969,நாளை,Fear,None,Tomorrow fear
+970,செய்தி,Fear,None,Threat cue
+971,பொறுப்பு,Fear,None,Responsibility fear
+972,சந்தேகம்,Fear,None,Doubt
+973,அம்பிக்யூட்டி,Fear,None,Ambiguity
+974,திட்டம்,Fear,None,Planning fear
+975,தேடல்,Fear,Hope,Seeking safety
+976,காரணமில்லா,Fear,None,Free fear
+977,மங்கல்,Fear,None,Blurred future
+978,பயணம்,Fear,Hope,Hope journey
+979,விருப்பு,Fear,Hope,Desire change
+980,நீடிப்பு,Fear,Frustration,Persistence fear
+981,சாதாரணம்,Neutral,None,Ordinary
+982,வேலை,Neutral,None,Work
+983,நேரம்,Neutral,None,Time
+984,இல்லை,Neutral,None,Nonevent
+985,சிந்தனை,Neutral,None,Thought
+986,அமைதி,Neutral,None,Quiet
+987,வழக்கம்,Neutral,None,Routine
+988,பின்னர்,Neutral,None,Later
+989,மாற்றமில்லை,Neutral,None,No change
+990,வேலைநிலை,Neutral,None,Work state
+991,அலட்சியம் இல்லை,Neutral,None,No stress
+992,சமநிலை,Neutral,None,Balance
+993,ஓய்வு,Neutral,None,Rest
+994,பேச்சு இல்லை,Neutral,None,Silence
+995,சீரான முடிவு,Neutral,None,Smooth end
+996,வேகம்,Neutral,None,Pace
+997,சிரமமில்லை,Neutral,None,No difficulty
+998,நிலை,Neutral,None,Status
+999,அனுபவம்,Neutral,None,Experience
+1000,அமைதி முடிவு,Neutral,None,Calm closure
+1001,உள்ளம் சோர்ந்து நிற்கும் தருணம் இன்று அதிகமாக உணரப்பட்டது,Sadness,Frustration,Emotional fatigue
+1002,எண்ணங்கள் ஒன்றோடொன்று மோதிக் குழப்பத்தை உருவாக்கின,Sadness,Frustration,Cognitive conflict
+1003,நம்பிய விஷயம் கையில் இருந்து வழுக்கியது போல,Sadness,Despair,Loss of certainty
+1004,சுற்றம் மாறினாலும் உள்ளுக்குள் வெறுமை நிலைத்தது,Sadness,None,Inner emptiness
+1005,சொல்ல முடியாத பாரம் இதயத்தில் தங்கியது,Sadness,Despair,Suppressed burden
+1006,நாட்கள் அர்த்தமில்லாமல் ஓடிக்கொண்டிருக்கின்றன,Sadness,Despair,Existential weariness
+1007,உணர்வுகளை மறைக்க பழகியதால் சோர்வு அதிகரித்தது,Sadness,None,Emotional suppression
+1008,எதிர்பாராத மௌனம் வலியை இன்னும் ஆழமாக்கியது,Sadness,Despair,Silent rejection
+1009,நினைவுகள் பின்னால் இழுத்து சக்தியை குறைத்தன,Sadness,Frustration,Past rumination
+1010,இதயம் தேடும் அமைதி இன்னும் தூரமாக உள்ளது,Sadness,Despair,Unmet inner peace
+1011,சிறிய சாதனை இன்று பெரிய நிம்மதி கொடுத்தது,Joy,None,Personal achievement
+1012,நல்ல செய்தி கேட்டதும் உள்ளம் விரிந்தது,Joy,None,Positive stimulus
+1013,சுற்றியவர்களின் ஆதரவு உள்ளத்தை உற்சாகப்படுத்தியது,Joy,Hope,Social encouragement
+1014,சாதாரண தருணம் கூட இனிமையாக உணரப்பட்டது,Joy,None,Everyday joy
+1015,எண்ணங்கள் தெளிவடைந்து செயல்கள் எளிதானது,Joy,None,Mental clarity
+1016,இன்றைய நாள் எதிர்பாராத மகிழ்ச்சி தந்தது,Joy,None,Unexpected happiness
+1017,இதயம் லேசாகி சுவாசம் சீரானது,Joy,None,Physiological calm
+1018,நல்ல வார்த்தை முழு நாளையும் மாற்றியது,Joy,None,Verbal affirmation
+1019,எதிர்காலம் குறித்து சிறு நம்பிக்கை பிறந்தது,Joy,Hope,Emerging optimism
+1020,நாளின் முடிவில் திருப்தி உணர்ந்தேன்,Joy,None,Content closure
+1021,சுற்றிய சூழல் பொறுமையை சோதிப்பதாக இருந்தது,Anger,Frustration,Environmental pressure
+1022,சொன்ன கருத்து அலட்சியமாக புறக்கணிக்கப்பட்டது,Anger,Frustration,Ignored opinion
+1023,நியாயமற்ற நடைமுறை எரிச்சலை ஏற்படுத்தியது,Anger,None,Perceived injustice
+1024,மீண்டும் மீண்டும் விளக்கம் கேட்க வேண்டியது சலிப்பு,Anger,Frustration,Repetitive demand
+1025,அமைதியை பலவீனமாக எடுத்துக்கொண்டனர்,Anger,None,Assertiveness misread
+1026,வாக்குறுதி காக்கப்படாதது கோபத்தை தூண்டியது,Anger,Frustration,Broken commitment
+1027,முகத்தில் சிரிப்பு உள்ளுக்குள் கடுப்பு,Sadness,None,Masked irritation
+1028,சிலர் பொறுப்பை தவிர்ப்பது எரிச்சலாக இருந்தது,Anger,Frustration,Avoidance behavior
+1029,பொறுமை எல்லையை நெருங்கியதாக உணர்ந்தேன்,Anger,None,Threshold nearing
+1030,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்டது,Anger,None,Justice suppression
+1031,எதிர்கால சிந்தனை உள்ளத்தை பதற்றமடைய செய்தது,Fear,None,Future uncertainty
+1032,எண்ணங்கள் கட்டுப்பாட்டை இழந்து ஓடின,Fear,Frustration,Overthinking anxiety
+1033,நிலையற்ற சூழல் பாதுகாப்பு உணர்வை குலைத்தது,Fear,None,Environmental insecurity
+1034,எதையும் தொடங்க தயக்கம் இன்று அதிகமாக இருந்தது,Fear,None,Initiation fear
+1035,நம்பிக்கையுடன் கூட அச்சம் கலந்திருந்தது,Fear,Hope,Mixed anticipation
+1036,எதிர்பாராத மாற்றம் இதயத்தை நடுங்க வைத்தது,Fear,None,Sudden change anxiety
+1037,நாளை பற்றிய கேள்விகள் தூக்கத்தை கலைத்தன,Fear,Frustration,Anxious rumination
+1038,சில பொறுப்புகள் பயத்தை அதிகரித்தன,Fear,None,Responsibility pressure
+1039,மனநிலை பாதுகாப்பை தேடியது,Fear,Hope,Seeking reassurance
+1040,இந்த நிலை மாறுமா என்ற சந்தேகம் இருந்தது,Fear,None,Change uncertainty
+1041,இன்று வழக்கமான நாளாகவே முடிந்தது,Neutral,None,Ordinary routine
+1042,வேலைகள் திட்டமிட்டபடி சீராக நடந்தன,Neutral,None,Task completion
+1043,நேரம் மெதுவாக நகர்ந்தது போல தோன்றியது,Neutral,None,Time perception
+1044,எதுவும் குறிப்பிடத்தக்கதாக நடக்கவில்லை,Neutral,None,No notable event
+1045,சாதாரண சிந்தனைகளுடன் நாள் கழிந்தது,Neutral,None,Neutral cognition
+1046,பேச்சு குறைந்த அமைதியான சூழல் இருந்தது,Neutral,None,Quiet environment
+1047,வழக்கம்போல செயல்கள் தொடர்ந்தன,Neutral,None,Routine continuity
+1048,நாளை பற்றிய திட்டம் பின்னர் பார்க்கலாம்,Neutral,None,Deferred planning
+1049,சூழல் மாற்றமின்றி இருந்தது,Neutral,None,Stable context
+1050,சாதாரண உணர்வுடன் வேலை முடிந்தது,Neutral,None,Work neutrality
+1051,உள்ளம் மீண்டும் சோர்வை நினைவூட்டியது,Sadness,Frustration,Recurring low mood
+1052,நம்பிக்கை சற்றே தளர்ந்ததாக தோன்றியது,Sadness,Despair,Weakening hope
+1053,எண்ணங்கள் சிக்கி தீர்வு கிடைக்கவில்லை,Sadness,Frustration,Problem rumination
+1054,சில வார்த்தைகள் ஆழமாக காயப்படுத்தின,Sadness,None,Emotional hurt
+1055,நாட்கள் கனமாக நகர்வது போல இருந்தது,Sadness,Despair,Heavy time perception
+1056,உள்ளுக்குள் வெறுமை அதிகரித்தது,Sadness,None,Inner void
+1057,பகிர முடியாத உணர்வு சுமையாக இருந்தது,Sadness,None,Unshared emotion
+1058,எதிர்பாராத மௌனம் துக்கத்தை அதிகரித்தது,Sadness,Despair,Silent pain
+1059,நினைவுகள் மீண்டும் மீண்டும் தொந்தரவு செய்தன,Sadness,Frustration,Memory intrusion
+1060,இதயம் அமைதி தேடி அலைந்தது,Sadness,Hope,Seeking calm
+1061,சிறு முன்னேற்றம் உள்ளத்தை மகிழ்வித்தது,Joy,None,Incremental success
+1062,நல்ல உரையாடல் மனநிலையை உயர்த்தியது,Joy,None,Positive interaction
+1063,சுற்றியவர்களின் சிரிப்பு சக்தி தந்தது,Joy,None,Emotional contagion
+1064,சாதாரண வேலை இன்று இனிமையாக இருந்தது,Joy,None,Task enjoyment
+1065,எதிர்பாராத உதவி நம்பிக்கையை வளர்த்தது,Joy,Hope,Received support
+1066,உள்ளம் லேசாகி நாளை ரசித்தேன்,Joy,None,Lighthearted state
+1067,நல்ல நினைவு திடீரென சிரிப்பை கொண்டுவந்தது,Joy,None,Positive recall
+1068,சிறு பாராட்டு ஊக்கமாக இருந்தது,Joy,None,Encouragement effect
+1069,எதிர்காலம் குறித்து நேர்மறை எண்ணம் வந்தது,Joy,Hope,Optimistic outlook
+1070,நாளின் முடிவில் மனநிறைவு ஏற்பட்டது,Joy,None,Satisfied closure
+1071,சுற்றிய சூழல் எரிச்சலை தூண்டியது,Anger,Frustration,Contextual irritation
+1072,சொல்லியும் புரியாத நிலை கோபம் தந்தது,Anger,Frustration,Misunderstanding anger
+1073,நியாயம் புறக்கணிக்கப்பட்டதாக உணர்ந்தேன்,Anger,None,Injustice perception
+1074,மீண்டும் காத்திருக்க வேண்டியது சலிப்பை ஏற்படுத்தியது,Anger,Frustration,Delay frustration
+1075,அலட்சியமான அணுகுமுறை கடுப்பை உண்டாக்கியது,Anger,None,Disrespect reaction
+1076,அமைதியை தவறாக எடுத்துக்கொண்டனர்,Anger,None,Silence misinterpretation
+1077,வாக்குறுதி நிறைவேறாதது எரிச்சல்,Sadness,None,Disappointed trust
+1078,நாடகமாய் நடந்துகொள்ளல் சலிப்பை ஏற்படுத்தியது,Anger,Sarcasm,Social pretense
+1079,பொறுமை சோதனைக்கு உள்ளானது,Anger,None,Patience strain
+1080,நியாயம் கேட்பது சிரமமாக இருந்தது,Anger,Frustration,Systemic resistance
+1081,எதிர்பாராத செய்தி அச்சத்தை ஏற்படுத்தியது,Fear,None,Threat perception
+1082,எண்ணங்கள் கட்டுப்பாட்டை இழந்தன,Fear,Frustration,Mental overwhelm
+1083,நிலையற்ற சூழல் நிம்மதியை குலைத்தது,Fear,None,Security loss
+1084,தவறு நடக்கும் என்ற பயம் இருந்தது,Fear,None,Error anxiety
+1085,நம்பிக்கை இருந்தும் தயக்கம் இருந்தது,Fear,Hope,Conflicted courage
+1086,எதிர்கால முடிவுகள் பயமூட்டின,Fear,None,Decision fear
+1087,உள்ளுக்குள் கலக்கம் நீடித்தது,Fear,Frustration,Persistent anxiety
+1088,பாதுகாப்பு குறித்த எண்ணங்கள் அதிகரித்தன,Fear,None,Safety concern
+1089,நாளை பற்றி சிந்திக்க மனம் தயங்கியது,Fear,None,Future avoidance
+1090,இந்த நிலை மாறுமா என்ற அச்சம்,Fear,None,Change anxiety
+1091,இன்று சாதாரண நாளாகவே கடந்தது,Neutral,None,Plain daily update
+1092,வேலைகள் வழக்கம்போல முடிந்தன,Neutral,None,Routine execution
+1093,நேரம் மெதுவாக ஓடியது போல,Neutral,None,Time flow perception
+1094,எதுவும் விசேஷமில்லை இன்று,Neutral,None,No highlight
+1095,சாதாரண சிந்தனைகளுடன் நாள் சென்றது,Neutral,None,Neutral mindset
+1096,அமைதியான சூழலில் நேரம் கழிந்தது,Neutral,None,Quiet routine
+1097,வழக்கமான செயல்களில் மாற்றமில்லை,Neutral,None,Status quo
+1098,நாளை பற்றிய முடிவு பின்னர்,Neutral,None,Deferred decision
+1099,சூழல் நிலைத்திருந்தது,Neutral,None,Stable environment
+1100,இன்றைய அனுபவம் சாதாரணமாக இருந்தது,Neutral,None,Neutral experience
+1101,வாழ்க்கை திசை மாறியது என்ற பயம் வருது,Fear,None,Direction change anxiety
+1102,உறவுகள் உடைஞ்சு போன வலி மறக்க முடியல,Sadness,Despair,Relational fracture pain
+1103,சின்ன வெற்றி கூட பெரிய மகிழ்ச்சி தருது,Joy,Hope,Small victory celebration
+1104,எல்லாரும் என்னை தவறா புரிஞ்சுக்கிறாங்க,Anger,Frustration,Chronic misunderstanding anger
+1105,நடக்கப்போறதை யோசிச்சு தூக்கம் வரல,Fear,Frustration,Pre-event insomnia
+1106,இன்னிக்கு வேலை சுமூதா முடிஞ்சது,Neutral,None,Smooth work completion
+1107,உள்ளுக்குள்ள அழுகை அடங்கவே மாட்டேங்குது,Sadness,Despair,Internal crying persistence
+1108,பாராட்டு வார்த்தை கேட்டதும் உள்ளம் மலர்ந்தது,Joy,None,Verbal appreciation impact
+1109,நியாயம் கேட்டா கோபம் வரது தப்பா,Anger,Frustration,Justice seeking anger
+1110,எதிர்பார்ப்பு தவறினா மனசு உடையுது,Sadness,Despair,Expectation shatter pain
+1111,நாளைய சூழல் குழப்பமா தெரியுது,Fear,None,Environmental uncertainty fear
+1112,வழக்கமான பயணம் இன்று முடிந்தது,Neutral,None,Regular commute note
+1113,உணர்வுகள் சரியா சொல்ல வார்த்தை இல்ல,Sadness,None,Emotional inexpressibility
+1114,நல்ல செய்தி கேட்டு உள்ளம் குளிர்ந்தது,Joy,None,Good news cooling effect
+1115,மதிக்காம பேசுனா கோபம் அதிகமாகுது,Anger,None,Disrespect escalation anger
+1116,திடீர் மாற்றம் மனதை குழப்புது,Fear,None,Sudden change confusion
+1117,பணி நேரம் சாதாரணமாக கழிந்தது,Neutral,None,Work time neutrality
+1118,உள்ளத்துள் சோகம் குவிந்து கிடக்குது,Sadness,Despair,Accumulated internal sorrow
+1119,சிரிப்பு திரும்ப வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1120,பொறுமை எல்லையை தாண்டிட்டேன் போல,Anger,None,Patience boundary crossed
+1121,பயம் காரணம் புரியாம வருது,Fear,None,Inexplicable fear arrival
+1122,நேரம் வழக்கம்போல் கழிந்தது,Neutral,None,Time routine passage
+1123,தனிமை உணர்வு நாளுக்கு நாள் அதிகமாகுது,Sadness,None,Increasing isolation feeling
+1124,உதவி கிடைச்சதுக்கு நன்றியோடு இருக்கேன்,Joy,None,Received help gratitude
+1125,சொன்னதை செய்யாததுக்கு கோபம் வருது,Anger,Frustration,Unmet commitment anger
+1126,எதிர்காலத்தை நினைச்சா பயம் தொடருது,Fear,None,Persistent future fear
+1127,வழக்கமான வேலைகள் இன்று செய்தேன்,Neutral,None,Regular task execution
+1128,உள்ளம் ஒடிஞ்சு போன உணர்வு,Sadness,Despair,Broken heart sensation
+1129,சின்ன சந்தோஷம் கூட போதும் இன்று,Joy,None,Sufficient small happiness
+1130,நியாயத்திற்காக குரல் எழுப்பணும்,Anger,None,Justice voice demand
+1131,நம்பிக்கை தொலைஞ்சு போகுமோ பயமா இருக்கு,Fear,Despair,Hope loss dread
+1132,நாள் சாதாரணமாகவே கடந்தது,Neutral,None,Ordinary day passage
+1133,உறவுகள் தூரமாகும் வேதனை தாங்கல,Sadness,None,Relationship distance pain
+1134,நல்லது நடந்ததுக்கு மனம் நிறைவு,Joy,None,Positive event satisfaction
+1135,அநியாயத்துக்கு எதிராக போராடணும்,Anger,None,Injustice resistance urge
+1136,பாதுகாப்பு உணர்வு குறைஞ்சு போயிடுச்சு,Fear,None,Security reduction feeling
+1137,வேலை முடிந்து வீட்டுக்கு வந்தேன்,Neutral,None,Work completion return
+1138,மனம் கனத்து மூச்சு விட முடியல,Sadness,Frustration,Breathing difficulty sadness
+1139,நம்பிக்கை ஒளி மீண்டும் வந்தது போல,Joy,Hope,Hope light return
+1140,கோபம் அடக்க முடியாம வெடிக்குது,Anger,None,Uncontrollable anger explosion
+1141,நாளை என்ன நடக்கும் தெரியாம அலைஞ்சேன்,Fear,None,Tomorrow unknowability anxiety
+1142,நேரம் சாதாரணமாக செலவானது,Neutral,None,Time expenditure neutrality
+1143,உள்ளம் சோர்ந்து எழுந்திரிக்க சக்தி இல்ல,Sadness,Frustration,Exhaustion immobility
+1144,சந்தோஷம் சின்னதாக கிடைச்சாலும் பெரிசு,Joy,None,Small joy significance
+1145,மதிப்பு இல்லாம நடத்தறாங்க கோபமா,Anger,Frustration,Valueless treatment anger
+1146,எதிர்பாராத சூழல் பயத்தை கூட்டுது,Fear,None,Unexpected context fear
+1147,வழக்கம்போல் காலை தொடங்கியது,Neutral,None,Morning routine start
+1148,நினைவுகள் வலியை திரும்ப கொண்டுவருது,Sadness,Frustration,Memory pain retrieval
+1149,நல்ல நாள் வரும் நம்பிக்கையோடு,Joy,Hope,Good day anticipation
+1150,பொய் சொல்லிட்டாங்க கோபம் கட்டுப்படல,Anger,None,Lie reaction anger
+1151,நிச்சயமற்ற நிலை மனதை குலுக்குது,Fear,None,Uncertainty mental shake
+1152,பணி நேரம் வழக்கம்போல் முடிந்தது,Neutral,None,Work time routine end
+1153,உள்ளத்தில் வெறுமை பரவிக்கிடக்குது,Sadness,None,Heart emptiness spread
+1154,நன்றி சொன்னதுக்கு மனம் மகிழ்ந்தது,Joy,None,Gratitude expression joy
+1155,நியாயமற்ற நடத்தை கோபத்தை தூண்டுது,Anger,Frustration,Unjust behavior trigger
+1156,பயம் மனதில் வேரூன்றி வளருது,Fear,None,Fear root growth
+1157,சாதாரண நாள் இன்று கழிந்தது,Neutral,None,Ordinary day closure
+1158,உறவுகள் பலவீனமாகும் துக்கம்,Sadness,None,Relationship weakening grief
+1159,சிறு சிரிப்பு கூட மனதை மாற்றுது,Joy,None,Tiny smile mood change
+1160,அவமானப்படுத்தினா கோபம் வெடிக்கும்,Anger,None,Humiliation anger explosion
+1161,எதிர்காலம் தெளிவில்லாம பயமூட்டுது,Fear,None,Unclear future fright
+1162,வேலை வழக்கம்போல் செய்தேன்,Neutral,None,Work routine execution
+1163,மனதில் சோகம் படிந்து கிடக்குது,Sadness,Despair,Mind sorrow layering
+1164,நல்ல முடிவுக்கு நன்றி உணர்வு,Joy,None,Good outcome gratitude
+1165,நியாயம் கேட்பதற்கு கோபம் எழுது,Anger,Frustration,Justice demand anger
+1166,பயம் தொடர்ந்து வந்துகிட்டே இருக்கு,Fear,None,Continuous fear arrival
+1167,நாள் சாதாரணமாக முடிந்தது,Neutral,None,Day ordinary ending
+1168,உள்ளம் சோர்ந்து தளர்ந்து போயிடுச்சு,Sadness,Frustration,Heart fatigue collapse
+1169,சந்தோஷம் கொஞ்சம் கிடைச்சாலே போதும்,Joy,None,Minimal happiness sufficiency
+1170,மதிப்பிழந்த உணர்வு கோபம் கூட்டுது,Anger,None,Lost respect anger
+1171,நாளை பற்றிய சிந்தனை பயம் தருது,Fear,None,Tomorrow thought fear
+1172,வழக்கமான வாழ்க்கை தொடர்கிறது,Neutral,None,Life routine continuation
+1173,தனிமையில் மூழ்கும் வேதனை,Sadness,None,Loneliness drowning pain
+1174,நல்ல செய்தியால் மனம் லேசானது,Joy,None,Good news lightness
+1175,அநியாயத்தை எதிர்க்க கோபம் வேணும்,Anger,None,Injustice opposition anger
+1176,பாதுகாப்பு இல்லாம பயம் அதிகமாகுது,Fear,None,Safety absence fear
+1177,சாதாரண பணி இன்று முடிந்தது,Neutral,None,Regular work completion
+1178,உள்ளத்தில் துயரம் குவிந்திருக்குது,Sadness,Despair,Heart grief accumulation
+1179,சிரிப்பு திரும்ப வந்ததில் நிம்மதி,Joy,None,Laughter return relief
+1180,பொறுமை முடிந்து கோபம் வெளிவருது,Anger,None,Patience exhaustion anger
+1181,எதிர்பார்ப்பு பயத்தோடு கலந்திருக்குது,Fear,Hope,Expectation fear blend
+1182,நேரம் வழக்கமாக கழிந்தது,Neutral,None,Time routine flow
+1183,மனதில் வெறுமை உணர்வு பரவுது,Sadness,None,Mind emptiness spread
+1184,நன்றி உணர்வோடு இன்று முடிந்தது,Joy,None,Gratitude day closure
+1185,நியாயமின்மை கோபத்தை அதிகமாக்குது,Anger,Frustration,Injustice anger increase
+1186,பயம் உள்ளத்தை பிடித்துக்கொண்டிருக்குது,Fear,None,Fear heart grip
+1187,வழக்கம்போல் வேலை முடிந்தது,Neutral,None,Work usual completion
+1188,உறவுகள் உடைவது வலியாக உள்ளது,Sadness,None,Relationship breaking pain
+1189,சிறு மகிழ்ச்சி போதுமானது இன்று,Joy,None,Small joy adequacy
+1190,அவமதிப்பு கோபத்தை தூண்டுகிறது,Anger,None,Disrespect anger trigger
+1191,நாளை குறித்த பயம் நீடிக்கிறது,Fear,None,Tomorrow fear persistence
+1192,சாதாரண நாள் கடந்தது,Neutral,None,Ordinary day passage
+1193,உள்ளம் உடைந்த உணர்வில் இருக்கிறேன்,Sadness,Despair,Broken heart state
+1194,நல்லது நடந்ததற்கு மகிழ்ச்சி,Joy,None,Positive event happiness
+1195,நியாயத்திற்கு போராட கோபம் வேண்டும்,Anger,None,Justice fight anger
+1196,எதிர்காலம் பயமூட்டுகிறது,Fear,None,Future frightening
+1197,வேலை நேரம் வழக்கமாக முடிந்தது,Neutral,None,Work time routine end
+1198,மனதில் சோர்வு குவிந்திருக்கிறது,Sadness,Frustration,Mind fatigue pile
+1199,சந்தோஷம் கொஞ்சம் கிடைத்தது,Joy,None,Small happiness received
+1200,மதிப்பின்மை கோபத்தை வளர்க்கிறது,Anger,Frustration,Disrespect anger growth
+1201,உணர்வுகள் முரண்பாடாக இருக்கு,Sadness,None,Emotional contradiction state
+1202,புதிய வாய்ப்பு மனதை தட்டி எழுப்புது,Joy,Hope,New opportunity awakening
+1203,அநீதியான சூழல் கோபத்தை உண்டாக்குது,Anger,Frustration,Unjust environment anger
+1204,தெரியாத பாதை பயத்தை கொடுக்குது,Fear,None,Unknown path fear
+1205,இன்றைய பணி முடிவு சாதாரணம்,Neutral,None,Today work ending ordinary
+1206,நம்பிக்கை கைவிட்ட உணர்வு வருது,Sadness,Despair,Hope abandonment feeling
+1207,ஆதரவு கிடைச்சதுக்கு மனம் நிறைவு,Joy,None,Support received fullness
+1208,வாக்குறுதி மீறல் கோபத்தை தூண்டுது,Anger,Frustration,Promise breach anger
+1209,நிலையற்ற தன்மை பயத்தை வளர்க்குது,Fear,None,Instability fear growth
+1210,வழக்கமான நாள் நடைபெற்றது,Neutral,None,Routine day occurrence
+1211,உள்ளத்து வலி சொல்ல முடியல,Sadness,None,Heart pain inexpressibility
+1212,நல்ல விளைவு மகிழ்ச்சி தருது,Joy,None,Good result happiness
+1213,அநியாயம் கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increase
+1214,எதிர்காலம் குழப்பமாக தெரியுது,Fear,None,Future confusion appearance
+1215,சாதாரண வேலை நடந்தது,Neutral,None,Ordinary work happened
+1216,மனதில் துக்கம் நிலைத்திருக்குது,Sadness,Despair,Mind grief persistence
+1217,சிரிப்பு மீண்டும் வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1218,மரியாதை இன்மை கோபத்தை உண்டாக்குது,Anger,None,Respect absence anger
+1219,நாளை பற்றி பயம் தொடருது,Fear,None,Tomorrow fear continuation
+1220,வேலை வழக்கம்போல் முடிந்தது,Neutral,None,Work routine completion
+1221,உறவுகள் விலகும் வேதனை,Sadness,None,Relationship departure pain
+1222,நன்றி உணர்வு மனதை நிரப்புது,Joy,None,Gratitude feeling filling
+1223,நியாயம் கேட்டு கோபம் வருது,Anger,Frustration,Justice demand anger
+1224,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possession
+1225,நாள் சாதாரணமாக கழிந்தது,Neutral,None,Day ordinary passing
+1226,உள்ளம் சோர்வடைந்து இருக்குது,Sadness,Frustration,Heart fatigue existence
+1227,சந்தோஷம் சிறுதாக கிடைத்தது,Joy,None,Small happiness obtained
+1228,அவமானம் கோபத்தை தூண்டுது,Anger,None,Insult anger provocation
+1229,எதிர்பார்ப்பு பயத்தை கூட்டுது,Fear,None,Expectation fear addition
+1230,வழக்கமான நாள் முடிந்தது,Neutral,None,Routine day finished
+1231,மனதில் வெறுமை நிலவுது,Sadness,None,Mind emptiness prevailing
+1232,நல்ல செய்தி மகிழ்ச்சி தருது,Joy,None,Good news happiness giving
+1233,நியாயமின்மை கோபத்தை வளர்க்குது,Anger,Frustration,Injustice anger nurturing
+1234,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1235,சாதாரண பணி முடிந்தது,Neutral,None,Ordinary task finished
+1236,உள்ளத்தில் துயரம் தங்கியிருக்குது,Sadness,Despair,Heart sorrow dwelling
+1237,சிரிப்பு திரும்ப வந்ததில் மகிழ்ச்சி,Joy,None,Laughter return joy
+1238,பொறுமை தீர்ந்து கோபம் வெடிக்குது,Anger,None,Patience depletion anger
+1239,நாளை குறித்த பயம் உள்ளது,Fear,None,Tomorrow fear existence
+1240,நேரம் வழக்கமாக சென்றது,Neutral,None,Time routine passage
+1241,மனதில் சோகம் குவிந்திருக்குது,Sadness,Despair,Mind sadness accumulation
+1242,நன்றி உணர்வு வந்தது,Joy,None,Gratitude feeling arrival
+1243,அநியாயம் கோபத்தை உண்டாக்குது,Anger,Frustration,Injustice anger creation
+1244,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1245,வழக்கம்போல் வேலை நடந்தது,Neutral,None,Work routine happening
+1246,உறவுகள் பலவீனம் வலியாக உள்ளது,Sadness,None,Relationship weakness pain
+1247,சிறு சந்தோஷம் போதுமானது,Joy,None,Small happiness sufficient
+1248,மதிப்பின்மை கோபத்தை தூண்டுது,Anger,None,Disrespect anger provocation
+1249,எதிர்காலம் பயமூட்டும் வகையில் உள்ளது,Fear,None,Future frightening manner
+1250,சாதாரண நாள் கடந்தது,Neutral,None,Ordinary day passed
+1251,வாழ்வின் பாரம் தூக்க முடியல,Sadness,Despair,Life burden unbearable
+1252,புதிய தொடக்கம் நம்பிக்கை அளிக்குது,Joy,Hope,New beginning hope giving
+1253,நியாயம் மறுக்கப்பட்டால் கோபம்,Anger,Frustration,Justice denial anger
+1254,தெரியாத விஷயங்கள் பயமூட்டுது,Fear,None,Unknown things frightening
+1255,வேலை நேரம் சாதாரணமாக முடிந்தது,Neutral,None,Work time ordinary ending
+1256,உள்ளம் உடைந்து சிதறுது,Sadness,Despair,Heart breaking scattering
+1257,ஆதரவு வார்த்தை மகிழ்ச்சி தருது,Joy,None,Support word happiness
+1258,வாக்குறுதி தவறினால் கோபம்,Anger,Frustration,Promise failure anger
+1259,நிச்சயமற்ற நிலை பயத்தை தருது,Fear,None,Uncertain state fear
+1260,நாள் வழக்கம்போல் கழிந்தது,Neutral,None,Day routine passing
+1261,மனதில் வெறுமை உணர்வு ஆழமாகுது,Sadness,None,Mind emptiness deepening
+1262,நல்ல முடிவு மனதை லேசாக்குது,Joy,None,Good outcome lightening
+1263,அநீதி கோபத்தை வளர்க்குது,Anger,Frustration,Injustice anger growing
+1264,பயம் மனதை ஆக்கிரமிக்குது,Fear,None,Fear mind occupying
+1265,வழக்கமான பணி முடிந்தது,Neutral,None,Routine work finished
+1266,உறவுகள் தூரம் வேதனை தருது,Sadness,None,Relationship distance pain
+1267,சிரிப்பு திரும்பவும் வந்தது,Joy,None,Laughter return happened
+1268,மரியாதை குறைவு கோபமூட்டுது,Anger,None,Respect reduction anger
+1269,நாளை குறித்து பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1270,சாதாரண நாள் நடந்தது,Neutral,None,Ordinary day occurred
+1271,உள்ளத்தில் சோர்வு நிரம்பியிருக்குது,Sadness,Frustration,Heart fatigue fullness
+1272,நன்றி சொல்ல மனம் விரும்புது,Joy,None,Gratitude desire feeling
+1273,நியாயமின்மை கோபத்தை தூண்டுது,Anger,Frustration,Injustice anger provocation
+1274,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1275,வேலை வழக்கம்போல் முடிந்தது,Neutral,None,Work routine completion
+1276,மனதில் துக்கம் படிந்திருக்குது,Sadness,Despair,Mind grief layering
+1277,சந்தோஷம் கிடைத்ததில் மகிழ்ச்சி,Joy,None,Happiness obtained joy
+1278,அவமானம் கோபத்தை உண்டாக்குது,Anger,None,Humiliation anger creation
+1279,எதிர்காலம் பயமாக இருக்குது,Fear,None,Future fearful existing
+1280,நாள் சாதாரணமாக முடிந்தது,Neutral,None,Day ordinary ending
+1281,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1282,நல்ல செய்தி ஆறுதல் தருது,Joy,None,Good news comfort giving
+1283,அநியாயம் கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increasing
+1284,பயம் மனதை கட்டுப்படுத்துது,Fear,None,Fear mind controlling
+1285,வழக்கமான வேலை நடந்தது,Neutral,None,Routine work happened
+1286,உறவுகள் பிரிவு வலி தருது,Sadness,None,Relationship separation pain
+1287,சிரிப்பு மீண்டும் வந்தது,Joy,None,Laughter return occurred
+1288,மதிப்பின்மை கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1289,நாளை பற்றி பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1290,சாதாரண பணி முடிந்தது,Neutral,None,Ordinary task completed
+1291,மனதில் சோகம் நிலைத்திருக்குது,Sadness,Despair,Mind sadness persisting
+1292,நன்றி உணர்வு மகிழ்ச்சி தருது,Joy,None,Gratitude feeling happiness
+1293,நியாயம் கேட்பது கோபமூட்டுது,Anger,Frustration,Justice asking anger
+1294,பயம் உள்ளத்தை ஆட்கொள்ளுது,Fear,None,Fear heart possessing
+1295,நேரம் வழக்கமாக கடந்தது,Neutral,None,Time routine passing
+1296,உள்ளத்தில் வெறுமை பரவுது,Sadness,None,Heart emptiness spreading
+1297,சந்தோஷம் சிறுதாக வந்தது,Joy,None,Small happiness arrived
+1298,அவமதிப்பு கோபத்தை தூண்டுது,Anger,None,Disrespect anger provoking
+1299,எதிர்பார்ப்பு பயத்தை கொடுக்குது,Fear,None,Expectation fear giving
+1300,வழக்கம்போல் நாள் முடிந்தது,Neutral,None,Routine day finished
+1301,சூழல் மாற்றம் மனதை குழப்புது,Fear,None,Environment change confusion
+1302,வலியோடு போராடும் தைரியம் வேணும்,Sadness,Hope,Pain fighting courage
+1303,சின்ன வெற்றிகள் மனதை உற்சாகப்படுத்துது,Joy,Hope,Small victories motivation
+1304,நேர்மை மீறல் கோபத்தை கொண்டுவருது,Anger,Frustration,Honesty breach anger
+1305,தெரியாத சூழல் பயத்தை அதிகரிக்குது,Fear,None,Unknown environment fear
+1306,பணி முடிந்து ஓய்வெடுத்தேன்,Neutral,None,Work finished rested
+1307,நம்பிக்கை மெல்ல மங்கிப்போகுது,Sadness,Despair,Hope gradual fading
+1308,உதவி கிடைச்சதுக்கு நன்றி உணர்வு,Joy,None,Help received gratitude
+1309,வார்த்தை காயப்படுத்தினா கோபம்,Anger,None,Word hurt anger
+1310,நிலையான வேலை இல்லாம பயம்,Fear,None,Stable job absence fear
+1311,வழக்கமான காலை தொடங்கியது,Neutral,None,Routine morning started
+1312,உள்ளத்து போராட்ட வார்த்தைகள் இல்ல,Sadness,None,Inner struggle wordlessness
+1313,நல்ல தருணம் மகிழ்ச்சி கொடுக்குது,Joy,None,Good moment happiness
+1314,நியாயமான நடத்தை இல்லாம கோபம்,Anger,Frustration,Fair treatment absence anger
+1315,எதிர்பார்ப்புகள் பயத்தை சுமக்குது,Fear,None,Expectations fear carrying
+1316,நாள் வழக்கம்போல் ஓடுது,Neutral,None,Day routine running
+1317,உறவுகள் நொறுங்கும் வேதனை,Sadness,None,Relationship crumbling pain
+1318,சிரிப்பு மனதை லேசாக்குது,Joy,None,Laughter lightening mind
+1319,பொறுமை வரம்பை தாண்டினா கோபம்,Anger,None,Patience limit crossing anger
+1320,நாளை பற்றிய சிந்தனை பயமூட்டுது,Fear,None,Tomorrow thought frightening
+1321,சாதாரண வேலை தொடர்ந்தது,Neutral,None,Ordinary work continued
+1322,மனதில் அழுத்தம் குவிந்திருக்குது,Sadness,Frustration,Mind pressure accumulation
+1323,நன்றி சொல்ல வார்த்தை தேவை,Joy,None,Gratitude word need
+1324,அநீதியான முடிவு கோபமூட்டுது,Anger,Frustration,Unjust decision anger
+1325,பயம் மனதை சூழ்ந்திருக்குது,Fear,None,Fear mind surrounding
+1326,வழக்கமான நாள் கடந்தது,Neutral,None,Routine day passed
+1327,உள்ளம் சோர்ந்து வாடுது,Sadness,Frustration,Heart fatigue wilting
+1328,சந்தோஷம் மனதை நிரப்புது,Joy,None,Happiness mind filling
+1329,மரியாதையின்மை கோபத்தை தூண்டுது,Anger,None,Respect absence anger
+1330,எதிர்காலம் குழப்பமாக உள்ளது,Fear,None,Future confusion existing
+1331,பணி நேரம் சாதாரணமாக முடிந்தது,Neutral,None,Work time ordinary ending
+1332,உறவுகள் வலுவிழந்து போகுது,Sadness,None,Relationship weakening going
+1333,நல்ல செய்தி மகிழ்ச்சி கொடுக்குது,Joy,None,Good news happiness giving
+1334,நியாயமின்மை கோபத்தை கொண்டுவருது,Anger,Frustration,Injustice anger bringing
+1335,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1336,வேலை வழக்கம்போல் நடந்தது,Neutral,None,Work routine happened
+1337,மனதில் துயரம் தங்கியிருக்குது,Sadness,Despair,Mind grief dwelling
+1338,சிரிப்பு திரும்ப வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1339,அவமானம் கோபத்தை வளர்க்குது,Anger,None,Insult anger growing
+1340,நாளை குறித்த பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1341,சாதாரண நாள் முடிந்தது,Neutral,None,Ordinary day finished
+1342,உள்ளத்தில் வெறுமை நிலவுது,Sadness,None,Heart emptiness prevailing
+1343,நன்றி உணர்வு மனதை மாற்றுது,Joy,None,Gratitude feeling mind changing
+1344,அநியாயம் கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increasing
+1345,பயம் மனதை கட்டுப்படுத்துது,Fear,None,Fear mind controlling
+1346,வழக்கமான வேலை முடிந்தது,Neutral,None,Routine work finished
+1347,உறவுகள் பிரிவு வலியாக உள்ளது,Sadness,None,Relationship separation painful
+1348,சந்தோஷம் சிறுதாக கிடைத்தது,Joy,None,Small happiness obtained
+1349,மதிப்பின்மை கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1350,எதிர்பார்ப்பு பயத்தை தருது,Fear,None,Expectation fear giving
+1351,நாள் வழக்கம்போல் கழிந்தது,Neutral,None,Day routine passing
+1352,மனதில் சோகம் குவிந்திருக்குது,Sadness,Despair,Mind sadness piling
+1353,நல்ல முடிவு மகிழ்ச்சி தருது,Joy,None,Good outcome happiness giving
+1354,நியாயம் கேட்பது கோபமூட்டுது,Anger,Frustration,Justice asking anger
+1355,பயம் உள்ளத்தை ஆக்கிரமிக்குது,Fear,None,Fear heart occupying
+1356,வேலை நேரம் சாதாரணமாக கடந்தது,Neutral,None,Work time ordinary passing
+1357,உள்ளம் சோர்ந்து தளர்ந்திருக்குது,Sadness,Frustration,Heart fatigue slackening
+1358,சிரிப்பு மீண்டும் வந்ததில் நிம்மதி,Joy,None,Laughter return peace
+1359,அவமதிப்பு கோபத்தை தூண்டுது,Anger,None,Disrespect anger provoking
+1360,நாளை பற்றி பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1361,சாதாரண பணி முடிந்தது,Neutral,None,Ordinary task finished
+1362,மனதில் வெறுமை பரவுது,Sadness,None,Mind emptiness spreading
+1363,நன்றி உணர்வு வந்ததில் மகிழ்ச்சி,Joy,None,Gratitude feeling joy
+1364,அநீதி கோபத்தை உண்டாக்குது,Anger,Frustration,Injustice anger creating
+1365,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1366,வழக்கமான நாள் கடந்தது,Neutral,None,Routine day passed
+1367,உறவுகள் தூரம் வேதனை,Sadness,None,Relationship distance pain
+1368,சந்தோஷம் மனதை லேசாக்குது,Joy,None,Happiness mind lightening
+1369,மரியாதை குறைவு கோபமூட்டுது,Anger,None,Respect reduction anger
+1370,எதிர்காலம் பயமூட்டுது,Fear,None,Future frightening
+1371,நேரம் வழக்கமாக சென்றது,Neutral,None,Time routine going
+1372,உள்ளத்தில் துக்கம் தங்கியிருக்குது,Sadness,Despair,Heart grief dwelling
+1373,நல்ல செய்தி ஆறுதல் தருது,Joy,None,Good news comfort giving
+1374,நியாயமின்மை கோபத்தை வளர்க்குது,Anger,Frustration,Injustice anger growing
+1375,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1376,வேலை வழக்கம்போல் முடிந்தது,Neutral,None,Work routine finished
+1377,மனதில் சோர்வு குவிந்திருக்குது,Sadness,Frustration,Mind fatigue piling
+1378,சிரிப்பு திரும்பவும் வந்தது,Joy,None,Laughter return occurred
+1379,அவமானம் கோபத்தை தூண்டுது,Anger,None,Humiliation anger provoking
+1380,நாளை குறித்து பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1381,சாதாரண நாள் முடிந்தது,Neutral,None,Ordinary day finished
+1382,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1383,நன்றி சொல்ல மகிழ்ச்சி,Joy,None,Gratitude saying happiness
+1384,அநியாயம் கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increasing
+1385,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possessing
+1386,வழக்கமான வேலை நடந்தது,Neutral,None,Routine work happened
+1387,உறவுகள் பிரிவு வலி,Sadness,None,Relationship separation pain
+1388,சந்தோஷம் சிறுதாக வந்தது,Joy,None,Small happiness came
+1389,மதிப்பின்மை கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1390,எதிர்பார்ப்பு பயத்தை கொடுக்குது,Fear,None,Expectation fear giving
+1391,நாள் வழக்கம்போல் கழிந்தது,Neutral,None,Day routine passing
+1392,மனதில் சோகம் நிலைத்திருக்குது,Sadness,Despair,Mind sadness persisting
+1393,நல்ல முடிவு மகிழ்ச்சி,Joy,None,Good outcome happiness
+1394,நியாயம் கேட்பது கோபம்,Anger,Frustration,Justice asking anger
+1395,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1396,வேலை நேரம் சாதாரணமாக முடிந்தது,Neutral,None,Work time ordinary ending
+1397,உள்ளத்தில் சோர்வு நிரம்பியிருக்குது,Sadness,Frustration,Heart fatigue fullness
+1398,சிரிப்பு மீண்டும் வந்ததில் மகிழ்ச்சி,Joy,None,Laughter return happiness
+1399,அவமதிப்பு கோபத்தை உண்டாக்குது,Anger,None,Disrespect anger creating
+1400,நாளை பற்றிய பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1401,திசை தெரியாம அலையும் உணர்வு,Fear,None,Directionless wandering feeling
+1402,நினைவுகள் மனதை கிழிக்குது,Sadness,Frustration,Memories mind tearing
+1403,புது வாசல் திறந்ததில் நம்பிக்கை,Joy,Hope,New door opening hope
+1404,பொய்யான நடிப்பு கோபத்தை கொடுக்குது,Anger,Sarcasm,False pretense anger
+1405,முடிவெடுக்க தயக்கம் பயமூட்டுது,Fear,None,Decision hesitation frightening
+1406,காலை சூரியன் வழக்கமாக உதித்தது,Neutral,None,Morning sun routine rising
+1407,வார்த்தைகள் உள்ளத்தை துளைக்குது,Sadness,None,Words heart piercing
+1408,சின்ன சாதனை பெருமை தருது,Joy,None,Small achievement pride
+1409,நேர்மையின்மை கோபத்தை உண்டாக்குது,Anger,Frustration,Dishonesty anger creation
+1410,பாதுகாப்பு உணர்வு நழுவுது,Fear,None,Security feeling slipping
+1411,மாலை நேரம் அமைதியாக கழிந்தது,Neutral,None,Evening time peaceful passing
+1412,நம்பிக்கை நூல் அறுந்து போகுது,Sadness,Despair,Hope thread breaking
+1413,பாராட்டு மனதை உயர்த்துது,Joy,None,Praise mind elevating
+1414,அநீதியான தண்டனை கோபம் கொடுக்குது,Anger,Frustration,Unjust punishment anger
+1415,தெரியாத பயணம் பயத்தை சுமக்குது,Fear,None,Unknown journey fear carrying
+1416,நாள் நடைமுறை போல் ஓடியது,Neutral,None,Day routine running
+1417,உள்ளம் நொறுங்கி சிதறுது,Sadness,Despair,Heart crumbling scattering
+1418,நன்றி வார்த்தை மகிழ்ச்சி அளிக்குது,Joy,None,Gratitude word happiness giving
+1419,நியாயம் மறுப்பு கோபமூட்டுது,Anger,Frustration,Justice refusal anger
+1420,எதிர்பார்ப்பு பயத்தோடு வருது,Fear,Hope,Expectation fear coming
+1421,வேலை பட்டியல் சாதாரணமாக நடந்தது,Neutral,None,Work list ordinary happening
+1422,வலி உள்ளத்தை வாட்டுது,Sadness,None,Pain heart afflicting
+1423,உதவி கிடைச்சதுக்கு நன்றி,Joy,None,Help received gratitude
+1424,வார்த்தை தாக்குதல் கோபத்தை தூண்டுது,Anger,None,Word attack anger provoking
+1425,நிலையான வருமானம் இல்லாம பயம்,Fear,None,Stable income absence fear
+1426,மதிய உணவு நேரம் கடந்தது,Neutral,None,Lunch time passed
+1427,உறவுகள் பலவீனம் வலிக்குது,Sadness,None,Relationship weakness hurting
+1428,சிரிப்பு மனதை தேற்றுது,Joy,None,Laughter mind soothing
+1429,பொறுமை முடிவு கோபத்தை கொண்டுவருது,Anger,None,Patience ending anger bringing
+1430,நாளை சூழல் பயமூட்டுது,Fear,None,Tomorrow environment frightening
+1431,பயண நேரம் சாதாரணமாக முடிந்தது,Neutral,None,Travel time ordinary ending
+1432,மனதில் காயம் ஆறவில்லை,Sadness,None,Mind wound not healing
+1433,நல்ல முடிவு நிம்மதி தருது,Joy,None,Good outcome peace giving
+1434,அநியாயமான குற்றச்சாட்டு கோபம்,Anger,Frustration,Unjust accusation anger
+1435,பயம் உள்ளத்தை சூழ்ந்திருக்குது,Fear,None,Fear heart surrounding
+1436,மாலை வேலை வழக்கம்போல் முடிந்தது,Neutral,None,Evening work routine finished
+1437,நம்பிக்கை தளர்ந்து போகுது,Sadness,Despair,Hope weakening going
+1438,சந்தோஷம் சிறிதாக கிடைத்தது,Joy,None,Small happiness obtained
+1439,மரியாதையின்மை கோபத்தை வளர்க்குது,Anger,None,Respect absence anger growing
+1440,எதிர்காலம் தெளிவற்று பயமூட்டுது,Fear,None,Future unclear frightening
+1441,இரவு நேரம் அமைதியாக வந்தது,Neutral,None,Night time peaceful arrival
+1442,உள்ளத்து போராட்டம் சொல்ல முடியல,Sadness,None,Inner struggle inexpressibility
+1443,நன்றி உணர்வு மனதை நிரப்புது,Joy,None,Gratitude feeling mind filling
+1444,நியாயமான கோரிக்கை மறுப்பு கோபம்,Anger,Frustration,Fair demand refusal anger
+1445,பயம் மனதை ஆட்டிப்படைக்குது,Fear,None,Fear mind shaking
+1446,உணவு நேரம் வழக்கமாக கடந்தது,Neutral,None,Meal time routine passing
+1447,உறவுகள் உடைவு வேதனை தருது,Sadness,None,Relationship breaking pain giving
+1448,சிரிப்பு திரும்ப வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1449,அவமானப்படுத்தல் கோபமூட்டுது,Anger,None,Humiliation anger provoking
+1450,நாளை நிகழ்வு பயத்தை கொடுக்குது,Fear,None,Tomorrow event fear giving
+1451,இரவு உறக்கம் சாதாரணமாக வந்தது,Neutral,None,Night sleep ordinary arrival
+1452,மனதில் வெறுமை ஆழமாகுது,Sadness,None,Mind emptiness deepening
+1453,நல்ல செய்தி மகிழ்ச்சி கொடுக்குது,Joy,None,Good news happiness giving
+1454,அநீதியான தீர்ப்பு கோபத்தை தூண்டுது,Anger,Frustration,Unjust verdict anger provoking
+1455,பயம் உள்ளத்தை கட்டுப்படுத்துது,Fear,None,Fear heart controlling
+1456,காலை காபி நேரம் கடந்தது,Neutral,None,Morning coffee time passed
+1457,உள்ளம் சோர்ந்து தளர்ந்திருக்குது,Sadness,Frustration,Heart fatigue slackening
+1458,சந்தோஷம் மனதை மாற்றுது,Joy,None,Happiness mind changing
+1459,மதிப்பு குறைவு கோபமூட்டுது,Anger,None,Value reduction anger provoking
+1460,எதிர்பார்ப்பு பயத்தை சுமக்குது,Fear,None,Expectation fear carrying
+1461,மதிய ஓய்வு சாதாரணமாக எடுத்தேன்,Neutral,None,Afternoon rest ordinary taking
+1462,மனதில் துயரம் குவிந்திருக்குது,Sadness,Despair,Mind grief piling
+1463,நன்றி சொல்ல வாய்ப்பு கிடைத்தது,Joy,None,Gratitude saying opportunity obtained
+1464,நியாயம் கேட்டு கோபம் வருது,Anger,Frustration,Justice asking anger coming
+1465,பயம் மனதை நிரப்பிக்கொண்டிருக்குது,Fear,None,Fear mind filling continuing
+1466,வேலை இடைவேளை வழக்கம்போல் முடிந்தது,Neutral,None,Work break routine finished
+1467,உறவுகள் தூரம் வலிக்குது,Sadness,None,Relationship distance hurting
+1468,சிரிப்பு மீண்டும் வந்ததில் நிம்மதி,Joy,None,Laughter return peace
+1469,அவமதிப்பு கோபத்தை உண்டாக்குது,Anger,None,Disrespect anger creating
+1470,நாளை குறித்த பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1471,மாலை தேநீர் நேரம் கழிந்தது,Neutral,None,Evening tea time passing
+1472,உள்ளத்தில் வெறுமை நிலவுது,Sadness,None,Heart emptiness prevailing
+1473,நல்ல முடிவு மனதை லேசாக்குது,Joy,None,Good outcome mind lightening
+1474,அநியாயம் கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increasing
+1475,பயம் உள்ளத்தை ஆக்கிரமிக்குது,Fear,None,Fear heart occupying
+1476,மாலை நடைப்பயிற்சி வழக்கம்போல் முடிந்தது,Neutral,None,Evening walk routine finished
+1477,மனதில் சோர்வு குவிந்திருக்குது,Sadness,Frustration,Mind fatigue piling
+1478,சந்தோஷம் சிறுதாக கிடைத்தது,Joy,None,Small happiness obtained
+1479,மரியாதை இல்லாமை கோபமூட்டுது,Anger,None,Respect absence anger provoking
+1480,எதிர்காலம் பயமூட்டும் வகையில் உள்ளது,Fear,None,Future frightening manner existing
+1481,இரவு உணவு நேரம் வந்தது,Neutral,None,Dinner time arrival
+1482,உள்ளம் உடைந்து சிதறுது,Sadness,Despair,Heart breaking scattering
+1483,நன்றி உணர்வு மகிழ்ச்சி தருது,Joy,None,Gratitude feeling happiness giving
+1484,நியாயமின்மை கோபத்தை தூண்டுது,Anger,Frustration,Injustice anger provoking
+1485,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1486,இரவு வேலை வழக்கம்போல் முடிந்தது,Neutral,None,Night work routine finished
+1487,உறவுகள் பிரிவு வலியாக உள்ளது,Sadness,None,Relationship separation painful
+1488,சிரிப்பு திரும்பவும் வந்தது,Joy,None,Laughter return occurred
+1489,அவமானம் கோபத்தை வளர்க்குது,Anger,None,Humiliation anger growing
+1490,நாளை பற்றி பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1491,தூக்க நேரம் வழக்கமாக வந்தது,Neutral,None,Sleep time routine arrival
+1492,மனதில் சோகம் நிலைத்திருக்குது,Sadness,Despair,Mind sadness persisting
+1493,நல்ல செய்தி ஆறுதல் தருது,Joy,None,Good news comfort giving
+1494,அநீதி கோபத்தை உண்டாக்குது,Anger,Frustration,Injustice anger creating
+1495,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1496,காலை எழுந்திரிக்கும் நேரம் கடந்தது,Neutral,None,Morning waking time passed
+1497,உள்ளத்தில் துக்கம் தங்கியிருக்குது,Sadness,Despair,Heart grief dwelling
+1498,சந்தோஷம் மனதை நிரப்புது,Joy,None,Happiness mind filling
+1499,மதிப்பின்மை கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1500,எதிர்பார்ப்பு பயத்தை தருது,Fear,None,Expectation fear giving
+1501,வழக்கமான காலை நடைமுறை தொடங்கியது,Neutral,None,Routine morning procedure started
+1502,உள்ளம் சோர்ந்து வாடுது,Sadness,Frustration,Heart fatigue wilting
+1503,நன்றி சொல்ல மகிழ்ச்சி,Joy,None,Gratitude saying happiness
+1504,நியாயம் கேட்பது கோபம்,Anger,Frustration,Justice asking anger
+1505,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possessing
+1506,பகல் நேரம் வழக்கமாக கழிந்தது,Neutral,None,Daytime routine passing
+1507,மனதில் வெறுமை பரவுது,Sadness,None,Mind emptiness spreading
+1508,சிரிப்பு மீண்டும் வந்ததில் மகிழ்ச்சி,Joy,None,Laughter return happiness
+1509,அவமதிப்பு கோபத்தை தூண்டுது,Anger,None,Disrespect anger provoking
+1510,நாளை குறித்து பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1511,மதிய உணவு தயாரிப்பு முடிந்தது,Neutral,None,Lunch preparation finished
+1512,உறவுகள் தூரம் வேதனை,Sadness,None,Relationship distance pain
+1513,நல்ல முடிவு மகிழ்ச்சி,Joy,None,Good outcome happiness
+1514,மரியாதை குறைவு கோபம்,Anger,None,Respect reduction anger
+1515,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1516,மாலை சமையல் வழக்கம்போல் முடிந்தது,Neutral,None,Evening cooking routine finished
+1517,உள்ளத்தில் சோர்வு நிரம்பியிருக்குது,Sadness,Frustration,Heart fatigue fullness
+1518,சந்தோஷம் சிறுதாக வந்தது,Joy,None,Small happiness came
+1519,அநியாயம் கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increasing
+1520,எதிர்காலம் பயமூட்டுது,Fear,None,Future frightening
+1521,இரவு ஓய்வு நேரம் வந்தது,Neutral,None,Night rest time arrival
+1522,மனதில் துயரம் குவிந்திருக்குது,Sadness,Despair,Mind grief piling
+1523,நன்றி உணர்வு வந்தது,Joy,None,Gratitude feeling arrived
+1524,நியாயமின்மை கோபமூட்டுது,Anger,Frustration,Injustice anger provoking
+1525,பயம் மனதை கட்டுப்படுத்துது,Fear,None,Fear mind controlling
+1526,காலை தயாரிப்பு வழக்கம்போல் முடிந்தது,Neutral,None,Morning preparation routine finished
+1527,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1528,சிரிப்பு திரும்ப வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1529,அவமானம் கோபத்தை உண்டாக்குது,Anger,None,Humiliation anger creating
+1530,நாளை பற்றிய பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1531,மதிய ஓய்வு நேரம் கழிந்தது,Neutral,None,Afternoon rest time passing
+1532,உறவுகள் பிரிவு வலி,Sadness,None,Relationship separation pain
+1533,நல்ல செய்தி மகிழ்ச்சி கொடுக்குது,Joy,None,Good news happiness giving
+1534,மதிப்பின்மை கோபத்தை தூண்டுது,Anger,None,Disrespect anger provoking
+1535,பயம் உள்ளத்தை ஆக்கிரமிக்குது,Fear,None,Fear heart occupying
+1536,மாலை வேலை நேரம் முடிந்தது,Neutral,None,Evening work time finished
+1537,மனதில் சோகம் நிலைத்திருக்குது,Sadness,Despair,Mind sadness persisting
+1538,சந்தோஷம் மனதை லேசாக்குது,Joy,None,Happiness mind lightening
+1539,அநீதி கோபத்தை வளர்க்குது,Anger,Frustration,Injustice anger growing
+1540,எதிர்பார்ப்பு பயத்தை கொடுக்குது,Fear,None,Expectation fear giving
+1541,இரவு உணவு தயாரிப்பு முடிந்தது,Neutral,None,Dinner preparation finished
+1542,உள்ளத்தில் வெறுமை நிலவுது,Sadness,None,Heart emptiness prevailing
+1543,நன்றி சொல்ல வாய்ப்பு கிடைத்தது,Joy,None,Gratitude saying opportunity obtained
+1544,நியாயம் கேட்பது கோபம்,Anger,Frustration,Justice asking anger
+1545,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1546,தூக்க தயாரிப்பு வழக்கம்போல் நடந்தது,Neutral,None,Sleep preparation routine happened
+1547,உறவுகள் தூரம் வலிக்குது,Sadness,None,Relationship distance hurting
+1548,சிரிப்பு மீண்டும் வந்ததில் நிம்மதி,Joy,None,Laughter return peace
+1549,மரியாதையின்மை கோபமூட்டுது,Anger,None,Respect absence anger provoking
+1550,நாளை குறித்த பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1551,காலை எழுதல் வழக்கமாக நடந்தது,Neutral,None,Morning waking routine happened
+1552,மனதில் சோர்வு குவிந்திருக்குது,Sadness,Frustration,Mind fatigue piling
+1553,நல்ல முடிவு மனதை மாற்றுது,Joy,None,Good outcome mind changing
+1554,அவமதிப்பு கோபத்தை தூண்டுது,Anger,None,Disrespect anger provoking
+1555,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1556,பகல் பணி வழக்கம்போல் முடிந்தது,Neutral,None,Daytime work routine finished
+1557,உள்ளம் சோர்ந்து தளர்ந்திருக்குது,Sadness,Frustration,Heart fatigue slackening
+1558,சந்தோஷம் சிறுதாக கிடைத்தது,Joy,None,Small happiness obtained
+1559,அநியாயம் கோபத்தை உண்டாக்குது,Anger,Frustration,Injustice anger creating
+1560,எதிர்காலம் பயமூட்டும் வகையில் உள்ளது,Fear,None,Future frightening manner existing
+1561,மதிய உணவு நேரம் வழக்கமாக கடந்தது,Neutral,None,Lunch time routine passing
+1562,மனதில் வெறுமை பரவுது,Sadness,None,Mind emptiness spreading
+1563,நன்றி உணர்வு மகிழ்ச்சி தருது,Joy,None,Gratitude feeling happiness giving
+1564,நியாயமின்மை கோபமூட்டுது,Anger,Frustration,Injustice anger provoking
+1565,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possessing
+1566,மாலை தேநீர் தயாரிப்பு முடிந்தது,Neutral,None,Evening tea preparation finished
+1567,உறவுகள் பிரிவு வேதனை,Sadness,None,Relationship separation pain
+1568,சிரிப்பு திரும்பவும் வந்தது,Joy,None,Laughter return occurred
+1569,மதிப்பு குறைவு கோபத்தை தூண்டுது,Anger,None,Value reduction anger provoking
+1570,நாளை பற்றி பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1571,இரவு வேலை தயாரிப்பு நடந்தது,Neutral,None,Night work preparation happened
+1572,உள்ளத்தில் துக்கம் தங்கியிருக்குது,Sadness,Despair,Heart grief dwelling
+1573,நல்ல செய்தி ஆறுதல் தருது,Joy,None,Good news comfort giving
+1574,அவமானம் கோபத்தை வளர்க்குது,Anger,None,Humiliation anger growing
+1575,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1576,தூக்க நேரம் வழக்கமாக வந்தது,Neutral,None,Sleep time routine arrival
+1577,மனதில் சோகம் குவிந்திருக்குது,Sadness,Despair,Mind sadness piling
+1578,சந்தோஷம் மனதை நிரப்புது,Joy,None,Happiness mind filling
+1579,மரியாதை இல்லாமை கோபமூட்டுது,Anger,None,Respect absence anger provoking
+1580,எதிர்பார்ப்பு பயத்தை தருது,Fear,None,Expectation fear giving
+1581,காலை முழக்க ஒலி வழக்கமாக கேட்டது,Neutral,None,Morning alarm routine hearing
+1582,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1583,நன்றி சொல்ல மகிழ்ச்சி,Joy,None,Gratitude saying happiness
+1584,அநீதி கோபத்தை அதிகரிக்குது,Anger,Frustration,Injustice anger increasing
+1585,பயம் மனதை கட்டுப்படுத்துது,Fear,None,Fear mind controlling
+1586,பகல் ஓய்வு நேரம் கழிந்தது,Neutral,None,Daytime rest time passing
+1587,உறவுகள் தூரம் வலியாக உள்ளது,Sadness,None,Relationship distance painful
+1588,சிரிப்பு மீண்டும் வந்ததில் மகிழ்ச்சி,Joy,None,Laughter return happiness
+1589,நியாயம் கேட்பது கோபமூட்டுது,Anger,Frustration,Justice asking anger provoking
+1590,நாளை குறித்து பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1591,மதிய பணி நேரம் முடிந்தது,Neutral,None,Afternoon work time finished
+1592,மனதில் சோர்வு நிரம்பியிருக்குது,Sadness,Frustration,Mind fatigue fullness
+1593,நல்ல முடிவு மகிழ்ச்சி தருது,Joy,None,Good outcome happiness giving
+1594,அவமதிப்பு கோபத்தை உண்டாக்குது,Anger,None,Disrespect anger creating
+1595,பயம் உள்ளத்தை ஆக்கிரமிக்குது,Fear,None,Fear heart occupying
+1596,மாலை நடைபயிற்சி நேரம் வந்தது,Neutral,None,Evening walk time arrival
+1597,உள்ளத்தில் வெறுமை நிலவுது,Sadness,None,Heart emptiness prevailing
+1598,சந்தோஷம் சிறுதாக வந்தது,Joy,None,Small happiness came
+1599,மதிப்பின்மை கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1600,எதிர்காலம் பயமூட்டுது,Fear,None,Future frightening
+1601,இரவு உணவு நேரம் வழக்கமாக வந்தது,Neutral,None,Dinner time routine arrival
+1602,மனதில் துயரம் குவிந்திருக்குது,Sadness,Despair,Mind grief piling
+1603,நன்றி உணர்வு வந்ததில் மகிழ்ச்சி,Joy,None,Gratitude feeling joy
+1604,அநியாயம் கோபத்தை தூண்டுது,Anger,Frustration,Injustice anger provoking
+1605,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1606,இரவு ஓய்வு தயாரிப்பு முடிந்தது,Neutral,None,Night rest preparation finished
+1607,உறவுகள் பிரிவு வலி தருது,Sadness,None,Relationship separation pain giving
+1608,சிரிப்பு திரும்ப வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1609,மரியாதை குறைவு கோபத்தை வளர்க்குது,Anger,None,Respect reduction anger growing
+1610,நாளை பற்றிய பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1611,தூக்க தயாரிப்பு வழக்கமாக நடந்தது,Neutral,None,Sleep preparation routine happened
+1612,உள்ளம் சோர்ந்து வாடுது,Sadness,Frustration,Heart fatigue wilting
+1613,நல்ல செய்தி மனதை மாற்றுது,Joy,None,Good news mind changing
+1614,அவமானம் கோபத்தை தூண்டுது,Anger,None,Humiliation anger provoking
+1615,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1616,காலை குளியல் நேரம் கடந்தது,Neutral,None,Morning bath time passed
+1617,மனதில் சோகம் நிலைத்திருக்குது,Sadness,Despair,Mind sadness persisting
+1618,சந்தோஷம் மனதை லேசாக்குது,Joy,None,Happiness mind lightening
+1619,நியாயமின்மை கோபமூட்டுது,Anger,Frustration,Injustice anger provoking
+1620,எதிர்பார்ப்பு பயத்தை கொடுக்குது,Fear,None,Expectation fear giving
+1621,பகல் உணவு தயாரிப்பு முடிந்தது,Neutral,None,Daytime meal preparation finished
+1622,உள்ளத்தில் வெறுமை பரவுது,Sadness,None,Heart emptiness spreading
+1623,நன்றி சொல்ல வாய்ப்பு வந்தது,Joy,None,Gratitude saying opportunity came
+1624,மதிப்பு குறைவு கோபத்தை உண்டாக்குது,Anger,None,Value reduction anger creating
+1625,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possessing
+1626,மதிய ஓய்வு வழக்கம்போல் எடுத்தேன்,Neutral,None,Afternoon rest routine taking
+1627,உறவுகள் தூரம் வேதனை தருது,Sadness,None,Relationship distance pain giving
+1628,சிரிப்பு மீண்டும் வந்ததில் நிம்மதி,Joy,None,Laughter return peace
+1629,அநீதி கோபத்தை வளர்க்குது,Anger,Frustration,Injustice anger growing
+1630,நாளை குறித்த பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1631,மாலை சமையல் நேரம் வந்தது,Neutral,None,Evening cooking time arrival
+1632,மனதில் சோர்வு குவிந்திருக்குது,Sadness,Frustration,Mind fatigue piling
+1633,நல்ல முடிவு மனதை நிரப்புது,Joy,None,Good outcome mind filling
+1634,அவமதிப்பு கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1635,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1636,இரவு வேலை நேரம் கழிந்தது,Neutral,None,Night work time passing
+1637,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1638,சந்தோஷம் சிறுதாக கிடைத்தது,Joy,None,Small happiness obtained
+1639,மரியாதையின்மை கோபத்தை தூண்டுது,Anger,None,Respect absence anger provoking
+1640,எதிர்காலம் பயமூட்டும் வகையில் உள்ளது,Fear,None,Future frightening manner existing
+1641,தூக்க நேரம் வழக்கமாக வந்தது,Neutral,None,Sleep time routine arrival
+1642,மனதில் வெறுமை நிலவுது,Sadness,None,Mind emptiness prevailing
+1643,நன்றி உணர்வு மகிழ்ச்சி தருது,Joy,None,Gratitude feeling happiness giving
+1644,நியாயம் கேட்பது கோபம்,Anger,Frustration,Justice asking anger
+1645,பயம் மனதை கட்டுப்படுத்துது,Fear,None,Fear mind controlling
+1646,காலை தயாரிப்பு நேரம் முடிந்தது,Neutral,None,Morning preparation time finished
+1647,உறவுகள் பிரிவு வலியாக உள்ளது,Sadness,None,Relationship separation painful
+1648,சிரிப்பு திரும்பவும் வந்தது,Joy,None,Laughter return occurred
+1649,மதிப்பின்மை கோபத்தை வளர்க்குது,Anger,None,Disrespect anger growing
+1650,நாளை பற்றி பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1651,பகல் பணி தயாரிப்பு நடந்தது,Neutral,None,Daytime work preparation happened
+1652,உள்ளத்தில் துக்கம் தங்கியிருக்குது,Sadness,Despair,Heart grief dwelling
+1653,நல்ல செய்தி ஆறுதல் தருது,Joy,None,Good news comfort giving
+1654,அவமானம் கோபத்தை உண்டாக்குது,Anger,None,Humiliation anger creating
+1655,பயம் உள்ளத்தை ஆக்கிரமிக்குது,Fear,None,Fear heart occupying
+1656,மதிய உணவு நேரம் வழக்கமாக வந்தது,Neutral,None,Lunch time routine arrival
+1657,மனதில் சோகம் குவிந்திருக்குது,Sadness,Despair,Mind sadness piling
+1658,சந்தோஷம் மனதை மாற்றுது,Joy,None,Happiness mind changing
+1659,அநியாயம் கோபமூட்டுது,Anger,Frustration,Injustice anger provoking
+1660,எதிர்பார்ப்பு பயத்தை தருது,Fear,None,Expectation fear giving
+1661,மாலை ஓய்வு நேரம் கழிந்தது,Neutral,None,Evening rest time passing
+1662,உள்ளம் சோர்ந்து தளர்ந்திருக்குது,Sadness,Frustration,Heart fatigue slackening
+1663,நன்றி சொல்ல மகிழ்ச்சி,Joy,None,Gratitude saying happiness
+1664,மரியாதை குறைவு கோபத்தை தூண்டுது,Anger,None,Respect reduction anger provoking
+1665,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1666,இரவு உணவு தயாரிப்பு வழக்கம்போல் முடிந்தது,Neutral,None,Dinner preparation routine finished
+1667,உறவுகள் தூரம் வலி தருது,Sadness,None,Relationship distance pain giving
+1668,சிரிப்பு மீண்டும் வந்ததில் மகிழ்ச்சி,Joy,None,Laughter return happiness
+1669,நியாயமின்மை கோபத்தை உண்டாக்குது,Anger,Frustration,Injustice anger creating
+1670,நாளை குறித்து பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1671,தூக்க தயாரிப்பு நேரம் வந்தது,Neutral,None,Sleep preparation time arrival
+1672,மனதில் வெறுமை பரவுது,Sadness,None,Mind emptiness spreading
+1673,நல்ல முடிவு மனதை லேசாக்குது,Joy,None,Good outcome mind lightening
+1674,அவமதிப்பு கோபமூட்டுது,Anger,None,Disrespect anger provoking
+1675,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1676,காலை எழுதல் நேரம் வழக்கமாக வந்தது,Neutral,None,Morning waking time routine arrival
+1677,உள்ளத்தில் சோர்வு நிரம்பியிருக்குது,Sadness,Frustration,Heart fatigue fullness
+1678,சந்தோஷம் சிறுதாக வந்தது,Joy,None,Small happiness came
+1679,மதிப்பு குறைவு கோபத்தை வளர்க்குது,Anger,None,Value reduction anger growing
+1680,எதிர்காலம் பயமூட்டுது,Fear,None,Future frightening
+1681,பகல் உணவு நேரம் கடந்தது,Neutral,None,Daytime meal time passed
+1682,மனதில் சோகம் நிலைத்திருக்குது,Sadness,Despair,Mind sadness persisting
+1683,நன்றி உணர்வு வந்ததில் மகிழ்ச்சி,Joy,None,Gratitude feeling joy
+1684,அநீதி கோபத்தை தூண்டுது,Anger,Frustration,Injustice anger provoking
+1685,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possessing
+1686,மதிய ஓய்வு நேரம் வழக்கம்போல் முடிந்தது,Neutral,None,Afternoon rest time routine finished
+1687,உறவுகள் பிரிவு வேதனை தருது,Sadness,None,Relationship separation pain giving
+1688,சிரிப்பு திரும்ப வந்ததில் ஆறுதல்,Joy,None,Laughter return comfort
+1689,மரியாதையின்மை கோபத்தை உண்டாக்குது,Anger,None,Respect absence anger creating
+1690,நாளை பற்றிய பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1691,மாலை வேலை தயாரிப்பு நடந்தது,Neutral,None,Evening work preparation happened
+1692,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1693,நல்ல செய்தி மனதை நிரப்புது,Joy,None,Good news mind filling
+1694,அவமானம் கோபமூட்டுது,Anger,None,Humiliation anger provoking
+1695,பயம் உள்ளத்தை நிரப்புது,Fear,None,Fear heart filling
+1696,இரவு ஓய்வு நேரம் வழக்கமாக வந்தது,Neutral,None,Night rest time routine arrival
+1697,மனதில் துயரம் குவிந்திருக்குது,Sadness,Despair,Mind grief piling
+1698,சந்தோஷம் மனதை மாற்றுது,Joy,None,Happiness mind changing
+1699,நியாயம் கேட்பது கோபத்தை தூண்டுது,Anger,Frustration,Justice asking anger provoking
+1700,எதிர்பார்ப்பு பயத்தை கொடுக்குது,Fear,None,Expectation fear giving
+1701,தூக்க நேரம் வழக்கம்போல் வந்தது,Neutral,None,Sleep time routine arrival
+1702,உள்ளத்தில் வெறுமை நிலவுது,Sadness,None,Heart emptiness prevailing
+1703,நன்றி சொல்ல வாய்ப்பு கிடைத்தது,Joy,None,Gratitude saying opportunity obtained
+1704,மதிப்பின்மை கோபத்தை வளர்க்குது,Anger,None,Disrespect anger growing
+1705,பயம் மனதை கட்டுப்படுத்துது,Fear,None,Fear mind controlling
+1706,காலை குளியல் தயாரிப்பு முடிந்தது,Neutral,None,Morning bath preparation finished
+1707,உறவுகள் தூரம் வலியாக உள்ளது,Sadness,None,Relationship distance painful
+1708,சிரிப்பு மீண்டும் வந்ததில் நிம்மதி,Joy,None,Laughter return peace
+1709,அநியாயம் கோபமூட்டுது,Anger,Frustration,Injustice anger provoking
+1710,நாளை குறித்த பயம் தொடருது,Fear,None,Tomorrow fear continuing
+1711,பகல் பணி நேரம் வழக்கமாக கழிந்தது,Neutral,None,Daytime work time routine passing
+1712,மனதில் சோர்வு குவிந்திருக்குது,Sadness,Frustration,Mind fatigue piling
+1713,நல்ல முடிவு மகிழ்ச்சி தருது,Joy,None,Good outcome happiness giving
+1714,அவமதிப்பு கோபத்தை தூண்டுது,Anger,None,Disrespect anger provoking
+1715,பயம் உள்ளத்தை ஆக்கிரமிக்குது,Fear,None,Fear heart occupying
+1716,மதிய உணவு தயாரிப்பு வழக்கம்போல் நடந்தது,Neutral,None,Lunch preparation routine happened
+1717,உள்ளம் சோர்ந்து வாடுது,Sadness,Frustration,Heart fatigue wilting
+1718,சந்தோஷம் சிறுதாக கிடைத்தது,Joy,None,Small happiness obtained
+1719,மரியாதை குறைவு கோபத்தை உண்டாக்குது,Anger,None,Respect reduction anger creating
+1720,எதிர்காலம் பயமூட்டும் வகையில் உள்ளது,Fear,None,Future frightening manner existing
+1721,மாலை தேநீர் நேரம் வந்தது,Neutral,None,Evening tea time arrival
+1722,மனதில் வெறுமை பரவுது,Sadness,None,Mind emptiness spreading
+1723,நன்றி உணர்வு மகிழ்ச்சி தருது,Joy,None,Gratitude feeling happiness giving
+1724,நியாயமின்மை கோபமூட்டுது,Anger,Frustration,Injustice anger provoking
+1725,பயம் மனதை பிடித்திருக்குது,Fear,None,Fear mind holding
+1726,இரவு வேலை நேரம் வழக்கமாக முடிந்தது,Neutral,None,Night work time routine finished
+1727,உறவுகள் பிரிவு வலி தருது,Sadness,None,Relationship separation pain giving
+1728,சிரிப்பு திரும்பவும் வந்தது,Joy,None,Laughter return occurred
+1729,மதிப்பு குறைவு கோபமூட்டுது,Anger,None,Value reduction anger provoking
+1730,நாளை பற்றி பயம் உள்ளது,Fear,None,Tomorrow fear existing
+1731,தூக்க தயாரிப்பு வழக்கமாக நடந்தது,Neutral,None,Sleep preparation routine happened
+1732,உள்ளத்தில் துக்கம் தங்கியிருக்குது,Sadness,Despair,Heart grief dwelling
+1733,நல்ல செய்தி ஆறுதல் தருது,Joy,None,Good news comfort giving
+1734,அவமானம் கோபத்தை வளர்க்குது,Anger,None,Humiliation anger growing
+1735,பயம் உள்ளத்தை வளைக்குது,Fear,None,Fear heart bending
+1736,காலை எழுதல் வழக்கம்போல் நடந்தது,Neutral,None,Morning waking routine happened
+1737,மனதில் சோகம் குவிந்திருக்குது,Sadness,Despair,Mind sadness piling
+1738,சந்தோஷம் மனதை லேசாக்குது,Joy,None,Happiness mind lightening
+1739,அநீதி கோபத்தை உண்டாக்குது,Anger,Frustration,Injustice anger creating
+1740,எதிர்பார்ப்பு பயத்தை தருது,Fear,None,Expectation fear giving
+1741,பகல் ஓய்வு நேரம் வழக்கமாக கழிந்தது,Neutral,None,Daytime rest time routine passing
+1742,உள்ளம் வெறுமையாக உணர்கிறது,Sadness,None,Heart emptiness feeling
+1743,நன்றி சொல்ல மகிழ்ச்சி,Joy,None,Gratitude saying happiness
+1744,மரியாதையின்மை கோபமூட்டுது,Anger,None,Respect absence anger provoking
+1745,பயம் மனதை ஆட்கொள்ளுது,Fear,None,Fear mind possessing
+1746,மதிய சமையல் நேரம் முடிந்தது,Neutral,None,Afternoon cooking time finished
+1747,உறவுகள் தூரம் வேதனை தருது,Sadness,None,Relationship distance pain giving
+1748,உள்ளுக்குள் சொல்ல முடியாத வெறுமை நாளெல்லாம் தொடர்ந்து வந்தது,Sadness,None,Inner emptiness persistence
+1749,சின்ன விஷயங்களும் இன்று இதயத்தை சோர்வடைய செய்தது,Sadness,Frustration,Low emotional tolerance
+1750,நம்பிக்கை இருந்தும் அது கையில் பிடிக்க முடியாமல் போனது,Sadness,Despair,Unreachable hope
+1751,சுற்றியவர்கள் பேசினாலும் தனிமை குறையவில்லை,Sadness,None,Social emotional gap
+1752,நினைவுகள் மீண்டும் மீண்டும் மனநிலையை சிதைத்தது,Sadness,Frustration,Recurrent memory strain
+1753,உள்ளம் ஓய்வு கேட்டும் சூழல் அனுமதிக்கவில்லை,Sadness,Despair,Environmental exhaustion
+1754,வாழ்க்கை ஓட்டத்தில் நான் பின்னால் விட்டுவிடப்பட்ட மாதிரி,Sadness,None,Left behind feeling
+1755,எதிர்பார்ப்புகள் சுமையாக மாறி இதயம் கனத்தது,Sadness,Despair,Expectation burden
+1756,சிரிப்பு முகத்தில் இருந்தாலும் உணர்வு சோர்வாக இருந்தது,Sadness,None,Masked sadness
+1757,நாட்கள் ஒரே சாயலில் நகர்வது மனதை வலிக்க வைத்தது,Sadness,Frustration,Emotional monotony
+1758,இன்றைய சிறு சாதனை உள்ளத்தை சற்று மகிழ்வித்தது,Joy,None,Personal achievement joy
+1759,நல்ல வார்த்தைகள் மனநிலையை உயர்த்தி நிம்மதி தந்தது,Joy,None,Positive affirmation
+1760,சாதாரண தருணம் கூட இன்று இனிமையாக உணரப்பட்டது,Joy,None,Unexpected pleasantness
+1761,சுற்றியவர்களின் சிரிப்பு மனதிற்குள் ஒளி சேர்த்தது,Joy,None,Social warmth
+1762,நாளின் முடிவில் உள்ளம் திருப்தியடைந்தது,Joy,None,Content closure
+1763,எதிர்பாராத உதவி எதிர்கால நம்பிக்கையை வளர்த்தது,Joy,Hope,Supportive optimism
+1764,உள்ளம் லேசாகி நாளை ரசிக்க முடிந்தது,Joy,None,Light emotional state
+1765,நல்ல நினைவுகள் மனதைக் குளிர்ச்சியாக்கின,Joy,None,Positive recollection
+1766,சின்ன மாற்றம் கூட பெரிய மகிழ்ச்சியாக தோன்றியது,Joy,None,Small change happiness
+1767,இப்படி நாட்கள் தொடர வேண்டும் என்ற ஆசை எழுந்தது,Joy,Hope,Wishful continuity
+1768,சுற்றிய சூழல் தொடர்ந்து பொறுமையை சோதித்தது,Anger,Frustration,Environmental irritation
+1769,சொன்ன கருத்து மதிக்கப்படாததால் கோபம் அதிகரித்தது,Anger,Frustration,Ignored opinion
+1770,நியாயமற்ற அணுகுமுறை மனதை எரிச்சலாக்கியது,Anger,None,Perceived injustice
+1771,மீண்டும் மீண்டும் விளக்கம் கேட்பது சலிப்பை உண்டாக்கியது,Anger,Frustration,Repetitive demand
+1772,அமைதியை பலவீனமாக எடுத்துக்கொண்டனர் என்று உணர்வு,Anger,None,Silence misread
+1773,வாக்குறுதி காப்பாற்றப்படாதது மனதை கடுப்பாக்கியது,Anger,Frustration,Broken commitment
+1774,முகத்தில் சிரிப்பு உள்ளுக்குள் எரிச்சல் மறைந்தது,Anger,Sarcasm,Surface politeness
+1775,பொறுமை எல்லையை நெருங்கியதாக உணர்ந்தேன்,Anger,None,Patience threshold
+1776,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்டது,Anger,None,Justice suppression
+1777,சிலர் பொறுப்பை தவிர்ப்பது கோபத்தை தூண்டியது,Anger,Frustration,Avoidance anger
+1778,எதிர்காலத்தை நினைத்தாலே உள்ளம் பதறுகிறது,Fear,None,Future anxiety
+1779,எண்ணங்கள் கட்டுப்பாட்டை இழந்து சுழல்கின்றன,Fear,Frustration,Overthinking stress
+1780,நிலையற்ற சூழல் பாதுகாப்பு உணர்வை குலைத்தது,Fear,None,Environmental insecurity
+1781,எதையும் தொடங்க தயக்கம் அதிகமாக இருந்தது,Fear,None,Initiation fear
+1782,நம்பிக்கை இருந்தாலும் மனதில் அச்சம் கலந்திருந்தது,Fear,Hope,Mixed anticipation
+1783,எதிர்பாராத மாற்றம் இதயத்தை நடுங்க வைத்தது,Fear,None,Sudden change fear
+1784,நாளை பற்றிய எண்ணங்கள் தூக்கத்தை கலைத்தன,Fear,Frustration,Anxious rumination
+1785,சில பொறுப்புகள் பயத்தை அதிகரித்தன,Fear,None,Responsibility pressure
+1786,உள்ளம் பாதுகாப்பை தேடி அலைந்தது,Fear,Hope,Seeking reassurance
+1787,இந்த நிலை மாறுமா என்ற சந்தேகம் தொடர்ந்தது,Fear,None,Change uncertainty
+1788,இன்று வழக்கமான நாளாகவே கடந்தது,Neutral,None,Ordinary routine
+1789,வேலைகள் திட்டமிட்டபடி சீராக முடிந்தன,Neutral,None,Task completion
+1790,நேரம் மெதுவாக நகர்ந்தது போல உணரப்பட்டது,Neutral,None,Time perception
+1791,எதுவும் குறிப்பிடத்தக்கதாக நிகழவில்லை,Neutral,None,No notable event
+1792,சாதாரண சிந்தனைகளுடன் நாள் முடிந்தது,Neutral,None,Neutral cognition
+1793,பேச்சு குறைந்த அமைதியான சூழல் இருந்தது,Neutral,None,Quiet environment
+1794,வழக்கம்போல செயல்கள் தொடர்ந்தன,Neutral,None,Routine continuity
+1795,நாளை பற்றிய திட்டம் பின்னர் பார்க்கலாம் என்று நினைப்பு,Neutral,None,Deferred planning
+1796,சூழல் மாற்றமின்றி நிலைத்திருந்தது,Neutral,None,Stable context
+1797,சாதாரண உணர்வுடன் வேலை முடிந்தது,Neutral,None,Work neutrality
+1798,உள்ளம் மீண்டும் சோர்வை நினைவூட்டியது,Sadness,Frustration,Recurring low mood
+1799,நம்பிக்கை சிறிது தளர்ந்ததாக தோன்றியது,Sadness,Despair,Weakening hope
+1800,எண்ணங்கள் சிக்கி தீர்வு கிடைக்காமல் போனது,Sadness,Frustration,Problem rumination
+1801,சில வார்த்தைகள் இதயத்தை ஆழமாக காயப்படுத்தின,Sadness,None,Emotional hurt
+1802,நாட்கள் கனமாக நகர்வது போல உணர்வு,Sadness,Despair,Heavy time perception
+1803,உள்ளுக்குள் வெறுமை அதிகரித்தது,Sadness,None,Inner void
+1804,பகிர முடியாத உணர்வு சுமையாக இருந்தது,Sadness,None,Unshared emotion
+1805,எதிர்பாராத மௌனம் துக்கத்தை அதிகரித்தது,Sadness,Despair,Silent pain
+1806,நினைவுகள் மீண்டும் மீண்டும் மனதை தொந்தரவு செய்தன,Sadness,Frustration,Memory intrusion
+1807,இதயம் அமைதி தேடி அலைந்தது,Sadness,Hope,Seeking calm
+1808,சிறு முன்னேற்றம் உள்ளத்தை மகிழ்வித்தது,Joy,None,Incremental success
+1809,நல்ல உரையாடல் மனநிலையை உயர்த்தியது,Joy,None,Positive interaction
+1810,சுற்றியவர்களின் சிரிப்பு சக்தி தந்தது,Joy,None,Emotional contagion
+1811,சாதாரண வேலை இன்று இனிமையாக உணரப்பட்டது,Joy,None,Task enjoyment
+1812,எதிர்பாராத உதவி நம்பிக்கையை வளர்த்தது,Joy,Hope,Received support
+1813,உள்ளம் லேசாகி நாளை ரசித்தேன்,Joy,None,Lighthearted state
+1814,நல்ல நினைவு திடீரென சிரிப்பை கொண்டுவந்தது,Joy,None,Positive recall
+1815,சிறு பாராட்டு ஊக்கமாக இருந்தது,Joy,None,Encouragement effect
+1816,எதிர்காலம் குறித்து நேர்மறை எண்ணம் வந்தது,Joy,Hope,Optimistic outlook
+1817,நாளின் முடிவில் மனநிறைவு ஏற்பட்டது,Joy,None,Satisfied closure
+1818,சுற்றிய சூழல் எரிச்சலை தூண்டியது,Anger,Frustration,Contextual irritation
+1819,சொல்லியும் புரியாத நிலை கோபத்தை ஏற்படுத்தியது,Anger,Frustration,Misunderstanding anger
+1820,நியாயம் புறக்கணிக்கப்பட்டதாக உணர்ந்தேன்,Anger,None,Injustice perception
+1821,மீண்டும் காத்திருக்க வேண்டியது சலிப்பை உண்டாக்கியது,Anger,Frustration,Delay frustration
+1822,அலட்சியமான அணுகுமுறை கடுப்பை உண்டாக்கியது,Anger,None,Disrespect reaction
+1823,அமைதியை தவறாக எடுத்துக்கொண்டனர்,Anger,None,Silence misinterpretation
+1824,வாக்குறுதி நிறைவேறாதது மனதை வருத்தியது,Sadness,None,Disappointed trust
+1825,நாடகமாய் நடந்துகொள்ளல் சலிப்பை ஏற்படுத்தியது,Anger,Sarcasm,Social pretense
+1826,பொறுமை சோதனைக்கு உள்ளானது,Anger,None,Patience strain
+1827,நியாயம் கேட்பது சிரமமாக இருந்தது,Anger,Frustration,Systemic resistance
+1828,எதிர்பாராத செய்தி அச்சத்தை ஏற்படுத்தியது,Fear,None,Threat perception
+1829,எண்ணங்கள் கட்டுப்பாட்டை இழந்து பதற்றம் கூட்டின,Fear,Frustration,Mental overwhelm
+1830,நிலையற்ற சூழல் நிம்மதியை குலைத்தது,Fear,None,Security loss
+1831,தவறு நடக்கும் என்ற பயம் மனதில் இருந்தது,Fear,None,Error anxiety
+1832,நம்பிக்கை இருந்தும் தயக்கம் தொடர்ந்தது,Fear,Hope,Conflicted courage
+1833,எதிர்கால முடிவுகள் பயமூட்டின,Fear,None,Decision fear
+1834,உள்ளுக்குள் கலக்கம் நீடித்தது,Fear,Frustration,Persistent anxiety
+1835,பாதுகாப்பு குறித்த எண்ணங்கள் அதிகரித்தன,Fear,None,Safety concern
+1836,நாளை பற்றி சிந்திக்க மனம் தயங்கியது,Fear,None,Future avoidance
+1837,இந்த நிலை மாறுமா என்ற அச்சம் இருந்தது,Fear,None,Change anxiety
+1838,இன்று சாதாரண நாளாகவே போனது,Neutral,None,Plain daily update
+1839,வழக்கம்போல வேலைகள் முடிந்தன,Neutral,None,Routine execution
+1840,எதுவும் விசேஷமில்லை இன்று,Neutral,None,No highlight
+1841,நேரம் மெதுவாக ஓடியது போல தோன்றியது,Neutral,None,Time flow perception
+1842,சும்மா பார்த்துக்கொண்டிருந்தேன்,Neutral,None,Casual observation
+1843,நாள் எப்படியோ கடந்தது,Neutral,None,Day passing note
+1844,வழக்கமான சிந்தனைகளே அதிகம்,Neutral,None,Ordinary thoughts
+1845,பேச ஒன்றும் தோணவில்லை,Neutral,None,Low engagement
+1846,சாதாரண உணர்வுடன் நாள் முடிந்தது,Neutral,None,Neutral mood
+1847,இன்றைய அனுபவம் எளிதாகவே கடந்தது,Neutral,None,Simple day closure
+1848,உள்ளுக்குள் அடங்காத சோர்வு நாளை முழுவதும் தாக்கியது,Sadness,Frustration,Emotional heaviness persistence
+1849,எண்ணங்களின் குழப்பம் இதயத்தை அமைதியற்றதாக மாற்றியது,Sadness,Frustration,Mental confusion strain
+1850,நம்பிய வழி தவறியதை உணர்ந்த தருணம் வலித்தது,Sadness,Despair,Lost direction pain
+1851,சுற்றியவர்களின் மௌனம் தனிமையை அதிகரித்தது,Sadness,None,Social silence impact
+1852,சொல்ல முடியாத உணர்வுகள் உள்ளுக்குள் தேங்கின,Sadness,None,Emotional suppression
+1853,நாட்கள் அர்த்தமின்றி நகர்வது போல தோன்றியது,Sadness,Despair,Meaningless routine
+1854,எதிர்பார்ப்புகள் சிதறி மனநிலை சோர்ந்தது,Sadness,Despair,Expectation collapse
+1855,நினைவுகள் மீண்டும் எழுந்து அமைதியை கலைத்தன,Sadness,Frustration,Memory disturbance
+1856,உள்ளம் ஓய்வை நாடியும் கிடைக்காத நிலை,Sadness,Despair,Rest deprivation
+1857,வாழ்க்கையின் ஓட்டம் எனை பின்னுக்கு தள்ளியது,Sadness,None,Falling behind feeling
+1858,சிறிய முன்னேற்றம் உள்ளத்தில் நிம்மதி கொடுத்தது,Joy,None,Small achievement relief
+1859,நல்ல வார்த்தைகள் மனநிலையை மெதுவாக உயர்த்தின,Joy,None,Positive verbal support
+1860,சாதாரண தருணம் இன்று இனிமையாக மாறியது,Joy,None,Unexpected pleasant moment
+1861,சுற்றிய சூழல் இதயத்திற்கு ஆறுதல் தந்தது,Joy,None,Environmental comfort
+1862,நாளின் முடிவில் உள்ளம் சற்று லேசானது,Joy,None,Evening relief
+1863,எதிர்பாராத உதவி எதிர்கால நம்பிக்கையை விதைத்தது,Joy,Hope,Support based optimism
+1864,உள்ளம் அமைதியாகி சிந்தனை தெளிந்தது,Joy,None,Mental calm clarity
+1865,நல்ல நினைவுகள் மனதை குளிர்ச்சியாக்கின,Joy,None,Positive recollection effect
+1866,சின்ன மாற்றம் பெரிய மகிழ்ச்சியாக உணரப்பட்டது,Joy,None,Minor change joy
+1867,இப்படி நாள்கள் தொடர வேண்டும் என்ற ஆசை எழுந்தது,Joy,Hope,Continuity desire
+1868,சுற்றிய சூழல் தொடர்ந்து எரிச்சலை தூண்டியது,Anger,Frustration,Environmental irritation
+1869,சொன்ன கருத்து மதிக்கப்படாமல் போனது கோபம் தந்தது,Anger,Frustration,Ignored perspective
+1870,நியாயமற்ற அணுகுமுறை மனதை கொதிக்க வைத்தது,Anger,None,Perceived unfairness
+1871,மீண்டும் மீண்டும் காத்திருக்க வேண்டிய நிலை சலிப்பு,Anger,Frustration,Delay fatigue
+1872,அமைதியை பலவீனமாக எடுத்துக்கொண்டார்கள் என்ற உணர்வு,Anger,None,Silence misjudgment
+1873,வாக்குறுதி நிறைவேறாதது நம்பிக்கையை உடைத்தது,Anger,Frustration,Broken trust reaction
+1874,முகத்தில் சிரிப்பு உள்ளுக்குள் கடுப்பை மறைத்தது,Anger,Sarcasm,Masked irritation
+1875,பொறுமை எல்லையை கடந்துவிட்டது போல உணர்ந்தேன்,Anger,None,Patience overflow
+1876,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்டது,Anger,None,Justice denial
+1877,பொறுப்பை தவிர்க்கும் நடைமுறை கோபத்தை கூட்டியது,Anger,Frustration,Avoidance anger
+1878,எதிர்காலம் பற்றிய எண்ணங்கள் மனதை பதற வைத்தன,Fear,None,Future anxiety
+1879,எண்ணங்கள் கட்டுப்பாட்டை இழந்து சுழல்கின்றன,Fear,Frustration,Overthinking spiral
+1880,நிலையற்ற சூழல் பாதுகாப்பு உணர்வை குலைத்தது,Fear,None,Environmental insecurity
+1881,எதையும் தொடங்க தயக்கம் அதிகரித்தது,Fear,None,Initiation hesitation
+1882,நம்பிக்கை இருந்தாலும் உள்ளுக்குள் அச்சம் கலந்திருந்தது,Fear,Hope,Mixed emotional anticipation
+1883,எதிர்பாராத மாற்றம் இதயத்தை நடுங்க வைத்தது,Fear,None,Sudden change fear
+1884,நாளை பற்றிய சிந்தனைகள் தூக்கத்தை கலைத்தன,Fear,Frustration,Anxious rumination
+1885,சில பொறுப்புகள் பயத்தை அதிகரித்தன,Fear,None,Responsibility pressure
+1886,உள்ளம் பாதுகாப்பை தேடி அலைந்தது,Fear,Hope,Security seeking
+1887,இந்த நிலை மாறுமா என்ற சந்தேகம் தொடர்ந்தது,Fear,None,Change uncertainty
+1888,இன்று வழக்கமான நாளாகவே கடந்தது,Neutral,None,Ordinary routine
+1889,வேலைகள் திட்டமிட்டபடி சீராக முடிந்தன,Neutral,None,Task completion
+1890,நேரம் மெதுவாக நகர்ந்தது போல உணரப்பட்டது,Neutral,None,Time perception
+1891,எதுவும் குறிப்பிடத்தக்கதாக நிகழவில்லை,Neutral,None,No notable event
+1892,சாதாரண சிந்தனைகளுடன் நாள் முடிந்தது,Neutral,None,Neutral cognition
+1893,பேச்சு குறைந்த அமைதியான சூழல் இருந்தது,Neutral,None,Quiet environment
+1894,வழக்கம்போல செயல்கள் தொடர்ந்தன,Neutral,None,Routine continuity
+1895,நாளை பற்றிய திட்டம் பின்னர் பார்க்கலாம் என்ற நிலை,Neutral,None,Deferred planning
+1896,சூழல் மாற்றமின்றி நிலைத்திருந்தது,Neutral,None,Stable context
+1897,சாதாரண உணர்வுடன் வேலை முடிந்தது,Neutral,None,Work neutrality
+1898,உள்ளம் மீண்டும் சோர்வை நினைவூட்டியது,Sadness,Frustration,Recurring emotional fatigue
+1899,நம்பிக்கை சிறிது தளர்ந்ததாக தோன்றியது,Sadness,Despair,Weakening hope
+1900,எண்ணங்கள் சிக்கி தீர்வு கிடைக்காமல் போனது,Sadness,Frustration,Problem rumination
+1901,சில வார்த்தைகள் இதயத்தை ஆழமாக காயப்படுத்தின,Sadness,None,Emotional wound
+1902,நாட்கள் கனமாக நகர்வது போல உணர்வு,Sadness,Despair,Heavy time experience
+1903,உள்ளுக்குள் வெறுமை அதிகரித்தது,Sadness,None,Inner emptiness
+1904,பகிர முடியாத உணர்வு சுமையாக இருந்தது,Sadness,None,Unexpressed emotion
+1905,எதிர்பாராத மௌனம் துக்கத்தை அதிகரித்தது,Sadness,Despair,Silent pain
+1906,நினைவுகள் மீண்டும் மனதை தொந்தரவு செய்தன,Sadness,Frustration,Memory intrusion
+1907,இதயம் அமைதி தேடி அலைந்தது,Sadness,Hope,Seeking inner calm
+1908,சிறு முன்னேற்றம் உள்ளத்தை மகிழ்வித்தது,Joy,None,Incremental success
+1909,நல்ல உரையாடல் மனநிலையை உயர்த்தியது,Joy,None,Positive interaction
+1910,சுற்றியவர்களின் சிரிப்பு சக்தி தந்தது,Joy,None,Emotional contagion
+1911,சாதாரண வேலை இன்று இனிமையாக உணரப்பட்டது,Joy,None,Task enjoyment
+1912,எதிர்பாராத உதவி நம்பிக்கையை வளர்த்தது,Joy,Hope,Support induced hope
+1913,உள்ளம் லேசாகி நாளை ரசித்தேன்,Joy,None,Light emotional state
+1914,நல்ல நினைவு திடீரென சிரிப்பை கொண்டு வந்தது,Joy,None,Positive recall
+1915,சிறு பாராட்டு ஊக்கமாக இருந்தது,Joy,None,Encouragement effect
+1916,எதிர்காலம் குறித்து நேர்மறை எண்ணம் வந்தது,Joy,Hope,Optimistic outlook
+1917,நாளின் முடிவில் மனநிறைவு ஏற்பட்டது,Joy,None,Satisfied closure
+1918,சுற்றிய சூழல் எரிச்சலை தூண்டியது,Anger,Frustration,Contextual irritation
+1919,சொல்லியும் புரியாத நிலை கோபத்தை ஏற்படுத்தியது,Anger,Frustration,Misunderstanding anger
+1920,நியாயம் புறக்கணிக்கப்பட்டதாக உணர்ந்தேன்,Anger,None,Injustice perception
+1921,மீண்டும் காத்திருக்க வேண்டியது சலிப்பை உண்டாக்கியது,Anger,Frustration,Delay frustration
+1922,அலட்சியமான அணுகுமுறை கடுப்பை உண்டாக்கியது,Anger,None,Disrespect reaction
+1923,அமைதியை தவறாக எடுத்துக்கொண்டனர்,Anger,None,Silence misinterpretation
+1924,வாக்குறுதி நிறைவேறாதது மனதை வருத்தியது,Sadness,None,Disappointed trust
+1925,நாடகமாய் நடந்துகொள்ளல் சலிப்பை ஏற்படுத்தியது,Anger,Sarcasm,Social pretense
+1926,பொறுமை சோதனைக்கு உள்ளானது,Anger,None,Patience strain
+1927,நியாயம் கேட்பது சிரமமாக இருந்தது,Anger,Frustration,Systemic resistance
+1928,உள்ளம் இன்று அமைதியில்லாமல் தவித்துக் கொண்டிருந்தது,Sadness,None,Inner restlessness
+1929,எண்ணங்களின் பாரம் இதயத்தை கனமாக்கியது,Sadness,Frustration,Mental pressure
+1930,நம்பிக்கை இருந்தாலும் அது மெதுவாக குறைந்தது,Sadness,Despair,Hope erosion
+1931,சுற்றியவர்களின் அலட்சியம் வலியை ஏற்படுத்தியது,Sadness,None,Social neglect pain
+1932,சொல்லாத உணர்வுகள் உள்ளுக்குள் தேங்கின,Sadness,None,Suppressed emotions
+1933,நாட்கள் ஓடினாலும் மனநிலை மாறவில்லை,Sadness,Despair,Stagnant sadness
+1934,எதிர்பாராத நிகழ்வு இதயத்தை உடைத்தது,Sadness,Despair,Emotional shock
+1935,நினைவுகள் மீண்டும் மீண்டும் வலியை நினைவூட்டின,Sadness,Frustration,Past recall pain
+1936,உள்ளம் ஓய்வை நாடியும் கிடைக்கவில்லை,Sadness,Despair,Unfulfilled rest
+1937,வாழ்க்கையின் வேகம் எனை சோர்வடைய செய்தது,Sadness,None,Life pressure
+1938,சிறிய செய்தி கூட இன்று மகிழ்ச்சியளித்தது,Joy,None,Small joy trigger
+1939,நல்ல வார்த்தைகள் மனதை மென்மையாக்கின,Joy,None,Emotional soothing
+1940,சாதாரண தருணம் இனிமையாக மாறியது,Joy,None,Pleasant moment
+1941,சுற்றிய சூழல் இதயத்திற்கு நிம்மதி தந்தது,Joy,None,Environmental comfort
+1942,நாளின் முடிவில் திருப்தி இருந்தது,Joy,None,Content feeling
+1943,எதிர்பாராத உதவி நம்பிக்கையை வளர்த்தது,Joy,Hope,Support inspired hope
+1944,உள்ளம் லேசாகி நாளை ரசித்தேன்,Joy,None,Light mood
+1945,நல்ல நினைவுகள் சிரிப்பை வரவழைத்தன,Joy,None,Happy recollection
+1946,சின்ன மாற்றம் பெரிய சந்தோஷமாக உணரப்பட்டது,Joy,None,Positive change
+1947,இப்படி நாட்கள் தொடர வேண்டும் என்ற எண்ணம்,Joy,Hope,Future wish
+1948,சுற்றிய சூழல் தொடர்ந்து எரிச்சலை உருவாக்கியது,Anger,Frustration,Environmental irritation
+1949,சொன்ன கருத்து மதிக்கப்படாதது கோபம் தந்தது,Anger,Frustration,Ignored opinion
+1950,நியாயமற்ற நடத்தை மனதை கொதிக்க வைத்தது,Anger,None,Unfair treatment
+1951,மீண்டும் காத்திருக்க வேண்டியது சலிப்பை ஏற்படுத்தியது,Anger,Frustration,Delay frustration
+1952,அமைதியை தவறாக புரிந்துகொண்டார்கள்,Anger,None,Silence misjudged
+1953,வாக்குறுதி காக்கப்படாதது கோபத்தை தூண்டியது,Anger,Frustration,Broken promise
+1954,முகத்தில் சிரிப்பு உள்ளுக்குள் கடுப்பு இருந்தது,Anger,Sarcasm,Masked irritation
+1955,பொறுமை எல்லையை கடந்துவிட்டது போல தோன்றியது,Anger,None,Patience exceeded
+1956,நியாயம் கேட்பதே சிரமமாக இருந்தது,Anger,Frustration,Justice struggle
+1957,பொறுப்பை தவிர்க்கும் செயல்கள் கோபமூட்டின,Anger,Frustration,Avoidance anger
+1958,எதிர்காலத்தை நினைத்தாலே மனம் பதறியது,Fear,None,Future anxiety
+1959,எண்ணங்கள் கட்டுப்பாட்டை இழந்து ஓடியது,Fear,Frustration,Overthinking
+1960,நிலையற்ற சூழல் பாதுகாப்பு உணர்வை குறைத்தது,Fear,None,Insecurity feeling
+1961,எதையும் தொடங்க தயக்கம் அதிகரித்தது,Fear,None,Initiation fear
+1962,நம்பிக்கை இருந்தும் உள்ளுக்குள் பயம் இருந்தது,Fear,Hope,Mixed emotions
+1963,எதிர்பாராத மாற்றம் இதயத்தை நடுங்க வைத்தது,Fear,None,Sudden fear
+1964,நாளை பற்றிய எண்ணங்கள் தூக்கத்தை கலைத்தன,Fear,Frustration,Anxious thoughts
+1965,சில பொறுப்புகள் பயத்தை அதிகரித்தன,Fear,None,Responsibility fear
+1966,உள்ளம் பாதுகாப்பை தேடி அலைந்தது,Fear,Hope,Seeking security
+1967,இந்த நிலை மாறுமா என்ற சந்தேகம்,Fear,None,Change doubt
+1968,இன்று வழக்கமான நாளாகவே கடந்தது,Neutral,None,Ordinary day
+1969,வேலைகள் திட்டமிட்டபடி முடிந்தன,Neutral,None,Routine completion
+1970,நேரம் மெதுவாக நகர்ந்தது போல உணர்வு,Neutral,None,Time perception
+1971,எதுவும் விசேஷமாக நிகழவில்லை,Neutral,None,Nothing special
+1972,சாதாரண சிந்தனைகளுடன் நாள் சென்றது,Neutral,None,Neutral mindset
+1973,பேச்சு குறைந்த அமைதியான சூழல்,Neutral,None,Quiet environment
+1974,வழக்கம்போல செயல்கள் தொடர்ந்தன,Neutral,None,Daily routine
+1975,நாளை பற்றிய திட்டம் பின்னர் பார்க்கலாம்,Neutral,None,Deferred plan
+1976,சூழல் மாற்றமின்றி நிலைத்திருந்தது,Neutral,None,Stable context
+1977,சாதாரண உணர்வுடன் வேலை முடிந்தது,Neutral,None,Work neutrality
+1978,உள்ளம் மீண்டும் சோர்வை நினைவூட்டியது,Sadness,Frustration,Recurring sadness
+1979,நம்பிக்கை சிறிது தளர்ந்ததாக உணர்வு,Sadness,Despair,Weak hope
+1980,எண்ணங்கள் சிக்கி தீர்வு தெரியவில்லை,Sadness,Frustration,Mental block
+1981,சில வார்த்தைகள் இதயத்தை காயப்படுத்தின,Sadness,None,Emotional hurt
+1982,நாட்கள் கனமாக நகர்வது போல,Sadness,Despair,Heavy days
+1983,உள்ளுக்குள் வெறுமை அதிகரித்தது,Sadness,None,Inner emptiness
+1984,பகிர முடியாத உணர்வு சுமையாக இருந்தது,Sadness,None,Unshared burden
+1985,எதிர்பாராத மௌனம் துக்கத்தை கூட்டியது,Sadness,Despair,Silent pain
+1986,நினைவுகள் மனதை மீண்டும் தொந்தரவு செய்தன,Sadness,Frustration,Memory intrusion
+1987,இதயம் அமைதி தேடி அலைந்தது,Sadness,Hope,Seeking calm
+1988,சிறு முன்னேற்றம் உள்ளத்தை மகிழ்வித்தது,Joy,None,Small success
+1989,நல்ல உரையாடல் மனநிலையை உயர்த்தியது,Joy,None,Positive interaction
+1990,சுற்றியவர்களின் சிரிப்பு உற்சாகம் தந்தது,Joy,None,Social positivity
+1991,சாதாரண வேலை இன்று இனிமையாக இருந்தது,Joy,None,Task enjoyment
+1992,எதிர்பாராத உதவி நம்பிக்கையை வளர்த்தது,Joy,Hope,Supportive hope
+1993,உள்ளம் லேசாகி சிந்தனை தெளிந்தது,Joy,None,Mental lightness
+1994,நல்ல நினைவு சிரிப்பை வரவழைத்தது,Joy,None,Happy recall
+1995,சிறு பாராட்டு ஊக்கமாக இருந்தது,Joy,None,Encouragement
+1996,எதிர்காலம் குறித்து நேர்மறை எண்ணம்,Joy,Hope,Optimistic thought
+1997,நாளின் முடிவில் மனநிறைவு,Sadness,None,Quiet acceptance
+1998,சுற்றிய சூழல் மீண்டும் எரிச்சலை தூண்டியது,Anger,Frustration,Repeated irritation
+1999,சொல்லியும் புரியாத நிலை கோபம் தந்தது,Anger,Frustration,Miscommunication anger
+2000,நியாயம் புறக்கணிக்கப்பட்டதாக தோன்றியது,Anger,None,Injustice feeling
+2001,மீண்டும் காத்திருக்க வேண்டியது சலிப்பை உண்டாக்கியது,Anger,Frustration,Delay stress
+2002,அலட்சியமான அணுகுமுறை மனதை கடுப்பாக்கியது,Anger,None,Disrespect perception
+2003,அமைதியை தவறாக எடுத்துக்கொண்டார்கள்,Anger,None,Silence misread
+2004,வாக்குறுதி நிறைவேறாதது மனதை வருத்தியது,Sadness,None,Disappointed trust
+2005,நாடகமாய் நடந்துகொள்ளல் சலிப்பை ஏற்படுத்தியது,Anger,Sarcasm,Social pretense
+2006,பொறுமை சோதனைக்கு உள்ளானது,Anger,None,Patience test
+2007,நியாயம் கேட்பது சிரமமாக இருந்தது,Anger,Frustration,System resistance
+2008,எதிர்பாராத செய்தி மனதில் அச்சத்தை ஏற்படுத்தியது,Fear,None,Threat perception
+2009,எண்ணங்கள் கட்டுப்பாட்டை இழந்து பதற்றம் கூட்டின,Fear,Frustration,Anxiety overload
+2010,நிலையற்ற சூழல் நிம்மதியை குலைத்தது,Fear,None,Security loss
+2011,தவறு நடக்கும் என்ற பயம் இருந்தது,Fear,None,Error fear
+2012,நம்பிக்கை இருந்தும் தயக்கம் தொடர்ந்தது,Fear,Hope,Conflicted courage
+2013,எதிர்கால முடிவுகள் பயமூட்டின,Fear,None,Decision anxiety
+2014,உள்ளுக்குள் கலக்கம் நீடித்தது,Fear,Frustration,Persistent anxiety
+2015,பாதுகாப்பு குறித்த எண்ணங்கள் அதிகரித்தன,Fear,None,Safety concern
+2016,நாளை பற்றி சிந்திக்க மனம் தயங்கியது,Fear,None,Future avoidance
+2017,இந்த நிலை மாறுமா என்ற அச்சம்,Fear,None,Change fear
+2018,இன்று சாதாரண நாளாகவே போனது,Neutral,None,Plain routine
+2019,வழக்கம்போல வேலைகள் முடிந்தன,Neutral,None,Regular tasks
+2020,எதுவும் விசேஷமில்லை இன்று,Neutral,None,No highlight
+2021,நேரம் மெதுவாக ஓடியது போல,Neutral,None,Time flow
+2022,சும்மா பார்த்துக்கொண்டிருந்தேன்,Neutral,None,Casual observation
+2023,நாள் எப்படியோ கடந்தது,Neutral,None,Day passing
+2024,வழக்கமான சிந்தனைகளே அதிகம்,Neutral,None,Ordinary thoughts
+2025,பேச ஒன்றும் தோணவில்லை,Neutral,None,Low engagement
+2026,சாதாரண உணர்வுடன் நாள் முடிந்தது,Neutral,None,Neutral closure
+2027,இன்றைய அனுபவம் அமைதியாக இருந்தது,Neutral,None,Calm day
+2028,எதிர்காலம் குறித்து உறுதியான பதில் இல்லாதது உள்ளுக்குள் அச்சத்தை வளர்த்தது,Fear,Frustration,Uncertain future pressure
+2029,எதிர்பாராத மாற்றங்கள் வாழ்க்கை கட்டுப்பாட்டை இழக்கச் செய்தது,Fear,Frustration,Loss of control fear
+2030,நாளை நடக்கப்போகும் விஷயங்களை நினைத்து தூக்கம் கலைந்தது,Fear,Frustration,Anticipatory anxiety
+2031,சுற்றிய சூழல் பாதுகாப்பற்றதாக தோன்றியதால் பதற்றம் அதிகரித்தது,Fear,Frustration,Environmental insecurity
+2032,எடுத்த முடிவு தவறாகிவிடுமோ என்ற பயம் மனதை அழுத்தியது,Fear,Frustration,Decision anxiety
+2033,எதையும் திட்டமிட முடியாத நிலை உள்ளத்தை கலங்கச் செய்தது,Fear,Frustration,Planning paralysis
+2034,நம்பிக்கை இருந்தாலும் முடிவின் பயம் தொடர்ந்தது,Fear,Hope,Hope with uncertainty
+2035,பொறுப்புகள் அதிகரித்ததால் எதிர்காலம் பயமூட்டியது,Fear,Frustration,Responsibility pressure
+2036,நிலைமை திடீரென மாறுமோ என்ற அச்சம் விடவில்லை,Fear,Frustration,Change anxiety
+2037,எண்ணங்கள் ஓயாமல் ஓடியதால் மனநிலை குழம்பியது,Fear,Frustration,Overthinking spiral
+2038,நாளை பற்றிய கேள்விகள் உள்ளுக்குள் கலக்கத்தை உருவாக்கின,Fear,Frustration,Unresolved anticipation
+2039,எதிர்பார்ப்புகள் நிறைவேறாதோ என்ற அச்சம் மனதை பிடித்தது,Fear,Despair,Hopeless anticipation
+2040,பாதுகாப்பு குறித்த கவலைகள் மனதை அமைதியிழக்கச் செய்தன,Fear,Frustration,Safety concern stress
+2041,நம்பிக்கை தேடியும் பயம் மேலோங்கியது,Fear,Despair,Overpowered hope
+2042,உறுதி இல்லாத சூழல் எதிர்காலத்தை மங்கலாக்கியது,Fear,Frustration,Ambiguous situation
+2043,சில செய்திகளை கேட்டதும் உள்ளுக்குள் நடுக்கம் ஏற்பட்டது,Fear,Frustration,Threat perception
+2044,மாற்றங்களை எதிர்கொள்ளும் திறன் குறைவதாக தோன்றியது,Fear,Despair,Low coping confidence
+2045,தவறுகள் நேர்ந்துவிடுமோ என்ற எண்ணம் மனதை சுருக்கியது,Fear,Frustration,Error anxiety
+2046,நிலைமை கைமீறி போகும் பயம் தொடர்ந்தது,Fear,Despair,Loss fear
+2047,நாளை பற்றி யோசிக்கவே மனம் தயங்கியது,Fear,Frustration,Future avoidance
+2048,நம்பிக்கையை பிடித்துக்கொண்டே பயத்தை சமாளிக்க முயன்றேன்,Fear,Hope,Resilient anticipation
+2049,சொன்ன கருத்து மதிக்கப்படாதது கோபத்தை உருவாக்கியது,Anger,Frustration,Ignored voice
+2050,மீண்டும் மீண்டும் அலட்சியமாக நடத்தப்படுவது எரிச்சலை கூட்டியது,Anger,Frustration,Repeated neglect
+2051,நியாயமற்ற முடிவு மனதை கொதிக்க வைத்தது,Anger,Frustration,Perceived injustice
+2052,பொறுப்பை பிறர் தள்ளிவிடுவது கோபத்தை தூண்டியது,Anger,Frustration,Blame shifting
+2053,அமைதியாக இருந்ததை பலவீனமாக எடுத்துக்கொண்டார்கள்,Anger,Frustration,Assertiveness misread
+2054,வாக்குறுதிகள் காற்றாகிப் போனது கோபம் தந்தது,Anger,Frustration,Broken promises
+2055,சிலர் திட்டமிட்டு தவிர்ப்பது கடுப்பை உண்டாக்கியது,Anger,Frustration,Intentional avoidance
+2056,நேரத்தை மதிக்காத நடைமுறை மனதை எரிச்சலாக்கியது,Anger,Frustration,Time disrespect
+2057,சொல்லியும் புரியாத நிலை கோபத்தை அதிகரித்தது,Anger,Frustration,Communication failure
+2058,முகத்தில் சிரிப்பு உள்ளுக்குள் கடும் எரிச்சல்,Anger,Sarcasm,Surface politeness
+2059,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்டது,Anger,Frustration,Justice suppression
+2060,முடிவுகள் ஒருதலைப்பட்சமாக எடுக்கப்பட்டது கோபம் தந்தது,Anger,Frustration,Power imbalance
+2061,அலட்சியமான பதில்கள் மனதை சீண்டின,Anger,Frustration,Dismissive response
+2062,பொறுமை எல்லை மீறியதாக உணர்ந்தேன்,Anger,Frustration,Patience overflow
+2063,சில நடத்தை மரியாதையற்றதாக தோன்றியது,Anger,Frustration,Respect violation
+2064,பிரச்சனையை திருப்பி என்ன்மேல் தள்ளினர்,Anger,Frustration,Unfair blame
+2065,எல்லாம் நாடகம் போல தெரிந்தது,Anger,Sarcasm,Social pretence
+2066,சொல்லப்படாத விதிமுறைகள் கோபத்தை தூண்டின,Anger,Frustration,Hidden expectations
+2067,மீண்டும் காத்திருக்க வைத்தது எரிச்சலாக இருந்தது,Anger,Frustration,Delay irritation
+2068,நம்பிக்கை குலைந்ததால் கோபம் அதிகரித்தது,Anger,Despair,Trust breakdown
+2069,அமைதி காத்தும் சோதனை தொடர்ந்தது,Anger,Frustration,Endurance strain
+2070,நியாயம் கிடைக்காது என்ற உணர்வு கோபமாக மாறியது,Anger,Despair,Anger from helplessness
+2071,சிறிய வெற்றி கூட உள்ளத்தை உற்சாகப்படுத்தியது,Joy,Hope,Positive reinforcement
+2072,எதிர்பாராத நல்ல செய்தி நாளை மாற்றியது,Joy,Hope,Unexpected positivity
+2073,சுற்றியவர்களின் ஆதரவு நம்பிக்கையை வலுப்படுத்தியது,Joy,Hope,Social encouragement
+2074,நீண்ட முயற்சிக்குப் பிறகு கிடைத்த பலன் மகிழ்ச்சி தந்தது,Joy,Hope,Effort rewarded
+2075,சாதாரண தருணம் கூட இன்று இனிமையாக உணரப்பட்டது,Joy,Hope,Everyday appreciation
+2076,நல்ல உரையாடல் மனநிலையை உயர்த்தியது,Joy,Hope,Emotional connection
+2077,சிறு பாராட்டு பெரிய ஊக்கமாக மாறியது,Joy,Hope,Validation boost
+2078,எதிர்காலம் குறித்து நம்பிக்கை மெதுவாக உருவானது,Joy,Hope,Gradual optimism
+2079,உள்ளுக்குள் நிம்மதி பிறந்ததை உணர்ந்தேன்,Joy,Hope,Inner peace growth
+2080,முயற்சி வீணாகவில்லை என்ற உணர்வு மகிழ்ச்சி,Joy,Hope,Meaningful effort
+2081,எதிர்பாராத உதவி உள்ளத்தை நெகிழ வைத்தது,Joy,Hope,Supportive kindness
+2082,சுயநம்பிக்கை மீண்டும் எழுந்தது,Joy,Hope,Renewed self belief
+2083,சிறு மாற்றம் பெரிய நேர்மறை உணர்வை தந்தது,Joy,Hope,Positive shift
+2084,நல்ல முடிவு எடுத்ததில் மனநிறைவு,Joy,Hope,Decision confidence
+2085,சிரிப்பு இயல்பாக வந்தது,Joy,Hope,Spontaneous happiness
+2086,சாதனை உணர்வு நாளை இனிமையாக்கியது,Joy,Hope,Achievement satisfaction
+2087,உள்ளம் சுமை குறைந்து லேசானது,Joy,Hope,Relief experience
+2088,நல்ல நினைவுகள் மனதை நிரப்பின,Joy,Hope,Positive recall
+2089,நம்பிக்கை மட்டும் போதுமானதாக தோன்றியது,Joy,Hope,Hope sufficiency
+2090,சாதாரண நாளும் சிறப்பாக உணரப்பட்டது,Joy,Hope,Heightened appreciation
+2091,முன்னேற்றம் தெளிவாக தெரிந்தது,Joy,Hope,Visible progress
+2092,எதிர்காலத்தை சற்று நம்பிக்கையுடன் பார்த்தேன்,Joy,Hope,Forward looking optimism
+2093,உழைப்புக்கு மரியாதை கிடைத்ததில் மகிழ்ச்சி,Joy,Hope,Recognition joy
+2094,உள்ளுக்குள் உற்சாகம் தொடர்ந்து இருந்தது,Joy,Hope,Sustained motivation
+2095,எதிர்காலம் மங்கலாக தெரிந்ததால் பயம் அதிகரித்தது,Fear,Despair,Blurred future fear
+2096,நிலைமை மாறாது என்ற எண்ணம் மனதை உடைத்தது,Fear,Despair,Stagnation fear
+2097,எடுத்த முடிவுகள் தவறாகிவிட்டதோ என்ற அச்சம்,Fear,Despair,Regret anxiety
+2098,நம்பிக்கை இருந்தாலும் முடிவு நம்பிக்கையளிக்கவில்லை,Fear,Despair,Hope conflict
+2099,பாதுகாப்பு இல்லாத உணர்வு நீண்ட நேரம் நீடித்தது,Fear,Despair,Chronic insecurity
+2100,எதிர்காலம் கையில் இல்லாதது போல தோன்றியது,Fear,Despair,Powerlessness fear
+2101,மாற்றங்களை எதிர்கொள்ள முடியுமா என்ற சந்தேகம்,Fear,Despair,Self doubt fear
+2102,எண்ணங்கள் இருண்ட பாதைக்கு சென்றன,Fear,Despair,Catastrophic thinking
+2103,நிலைமை கட்டுப்பாட்டை மீறியதாக உணர்ந்தேன்,Fear,Despair,Overwhelmed fear
+2104,முயற்சிகள் போதாதோ என்ற பயம்,Fear,Despair,Inadequacy fear
+2105,நம்பிக்கை மெதுவாக கரைந்தது,Fear,Despair,Hope erosion
+2106,எதிர்காலம் குறித்து பதில் இல்லாத கேள்விகள்,Fear,Despair,Unanswered worries
+2107,சூழ்நிலை மேம்படாது என்ற பயம்,Fear,Despair,Pessimistic outlook
+2108,சொல்லப்பட்ட வார்த்தைகள் ஆழமான கோபத்தை ஏற்படுத்தின,Anger,Despair,Deep hurt anger
+2109,நியாயம் கிடைக்காது என்ற உணர்வு கடும் கோபம்,Anger,Despair,Helpless anger
+2110,முயற்சிகள் வீணானதாக தோன்றியது கோபத்தை கூட்டியது,Anger,Despair,Anger from futility
+2111,அமைதி கூட அவமதிப்பாக உணரப்பட்டது,Anger,Despair,Humiliation anger
+2112,நம்பிக்கை முறிந்ததும் கோபம் வெடித்தது,Anger,Despair,Trust collapse anger
+2113,சில உண்மைகள் ஏற்க முடியாத அளவுக்கு வலித்தது,Anger,Despair,Pain induced anger
+2114,மாற்றம் நடக்காது என்ற உணர்வு கோபமாக மாறியது,Anger,Despair,Anger from stagnation
+2115,நியாயமற்ற நிலை மனதை எரித்தது,Anger,Despair,Burning injustice
+2116,மீண்டும் தோல்வி என்ற எண்ணம் கோபம்,Anger,Despair,Failure anger
+2117,பொறுமை முழுமையாக முடிந்தது,Anger,Despair,Exhausted tolerance
+2118,நல்ல முடிவு வரலாம் என்ற நம்பிக்கை மகிழ்ச்சி தந்தது,Joy,Hope,Optimistic expectation
+2119,முயற்சி தொடர வேண்டும் என்ற உற்சாகம்,Joy,Hope,Perseverance motivation
+2120,சிரிப்புக்குப் பின்னால் நம்பிக்கை இருந்தது,Joy,Hope,Resilient joy
+2121,சாதாரண உதவியும் பெரிய நம்பிக்கை அளித்தது,Joy,Hope,Small support impact
+2122,எதிர்காலம் மாறக்கூடும் என்ற எண்ணம் மகிழ்ச்சி,Joy,Hope,Change optimism
+2123,சுயநம்பிக்கை மெதுவாக வலுப்பெற்றது,Joy,Hope,Confidence rebuilding
+2124,முயற்சிக்கு வழி இருக்கிறது என்ற உணர்வு,Joy,Hope,Possibility awareness
+2125,இன்னும் முயன்றால் வெற்றி கிடைக்கும் நம்பிக்கை,Joy,Hope,Determined optimism
+2126,நல்ல பாதை தென்பட தொடங்கியது,Joy,Hope,Emerging direction
+2127,உள்ளம் இன்னும் நம்பிக்கையை விடாமல் பிடித்தது,Joy,Hope,Hope persistence
+2128,எதிர்கால முடிவுகள் தெளிவில்லாமல் இருப்பது உள்ளுக்குள் நீண்ட பதற்றத்தை உருவாக்கியது,Fear,Frustration,Uncertain future stress
+2129,நாளை என்ன நடக்கும் என்ற எண்ணம் மனதை முழுவதும் ஆட்கொண்டது,Fear,Frustration,Anticipatory anxiety
+2130,பாதுகாப்பு குறித்த உறுதி இல்லாதது உள்ளத்தை நடுக்கம் அடையச் செய்தது,Fear,Frustration,Security uncertainty
+2131,திடீர் மாற்றங்கள் ஏற்படுமோ என்ற அச்சம் அமைதியை கலைத்தது,Fear,Frustration,Change related fear
+2132,எடுத்த முடிவு தவறாகிவிடுமோ என்ற பயம் தொடர்ந்து இருந்தது,Fear,Frustration,Decision anxiety
+2133,எண்ணங்கள் கட்டுப்பாட்டை இழந்து மோசமான முடிவுகளை கற்பனை செய்தன,Fear,Frustration,Catastrophic thinking
+2134,நிலைமை கைமீறி போகுமோ என்ற அச்சம் மனதை இறுக்க வைத்தது,Fear,Despair,Loss of control fear
+2135,எதிர்காலம் கண்ணுக்கு தெரியாத இருளாக தோன்றியது,Fear,Despair,Unclear future dread
+2136,பொறுப்புகள் அதிகரிப்பதால் பயம் மேலும் வலுப்பெற்றது,Fear,Frustration,Responsibility pressure
+2137,நம்பிக்கை இருந்தும் மனம் தயங்கிய நிலை தொடர்ந்தது,Fear,Hope,Conflicted courage
+2138,சில செய்திகளை கேட்டதும் உடலில் நடுக்கம் தோன்றியது,Fear,Frustration,Threat perception
+2139,எதையும் திட்டமிட முடியாத நிலை பயத்தை ஊட்டியது,Fear,Frustration,Planning paralysis
+2140,முயற்சி போதாதோ என்ற எண்ணம் மனதை சுருக்கியது,Fear,Despair,Inadequacy fear
+2141,நிலைமை மேம்படாது என்ற அச்சம் உள்ளத்தை உடைத்தது,Fear,Despair,Hopeless outlook
+2142,எதிர்பாராத சூழ்நிலைகள் மீண்டும் வருமோ என்ற பயம்,Fear,Frustration,Recurring threat anxiety
+2143,நாளை எதிர்கொள்ளும் சக்தி குறைந்ததாக தோன்றியது,Fear,Despair,Low coping confidence
+2144,மாற்றங்களை ஏற்க முடியுமா என்ற சந்தேகம் தொடர்ந்தது,Fear,Frustration,Adaptation anxiety
+2145,உள்ளுக்குள் அச்சம் அடங்காமல் நீடித்தது,Fear,Frustration,Persistent anxiety
+2146,நம்பிக்கை இருந்தாலும் பயம் மேலோங்கியது,Fear,Despair,Overpowered hope
+2147,எதிர்காலத்தை நினைத்தாலே மனம் சோர்ந்தது,Fear,Despair,Future dread
+2148,சொன்ன கருத்து தொடர்ந்து புறக்கணிக்கப்பட்டது கோபத்தை உருவாக்கியது,Anger,Frustration,Ignored voice
+2149,மரியாதையற்ற அணுகுமுறை மனதை கடுமையாக சீண்டியது,Anger,Frustration,Respect violation
+2150,மீண்டும் மீண்டும் குற்றம் சுமத்தப்பட்ட நிலை எரிச்சல் தந்தது,Anger,Frustration,Unfair blame
+2151,நியாயமற்ற முடிவுகள் மனதை கொதிக்க வைத்தன,Anger,Frustration,Perceived injustice
+2152,அமைதியாக இருந்ததை பலவீனமாக எடுத்துக்கொண்டார்கள்,Anger,Frustration,Assertiveness misread
+2153,வாக்குறுதிகள் நிறைவேறாதது கோபத்தை தீவிரப்படுத்தியது,Anger,Frustration,Broken trust
+2154,சிலர் பொறுப்பைத் தவிர்ப்பது கடுப்பை அதிகரித்தது,Anger,Frustration,Avoidance irritation
+2155,நேரத்தை மதிக்காத செயல்கள் எரிச்சலை உருவாக்கின,Anger,Frustration,Time disrespect
+2156,சொல்லியும் புரியாத நிலை கோபத்தை சேர்த்தது,Anger,Frustration,Communication failure
+2157,முகத்தில் சிரிப்பு உள்ளுக்குள் கடும் எரிச்சல் மறைந்தது,Anger,Sarcasm,Masked irritation
+2158,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்ட அனுபவம்,Anger,Frustration,Justice suppression
+2159,முடிவுகள் ஒருதலைப்பட்சமாக எடுக்கப்பட்டன என்ற உணர்வு,Anger,Frustration,Power imbalance
+2160,அலட்சியமான பதில்கள் மனதை சீண்டின,Anger,Frustration,Dismissive response
+2161,பொறுமை எல்லை கடந்துவிட்டதாக உணர்ந்தேன்,Anger,Frustration,Patience overflow
+2162,மரியாதை இல்லாத வார்த்தைகள் கோபத்தை தூண்டின,Anger,Frustration,Verbal disrespect
+2163,பிரச்சனைகள் என்ன்மேல் தள்ளப்பட்டதால் கோபம் அதிகரித்தது,Anger,Frustration,Unfair burden
+2164,எல்லாம் நாடகம் போல தெரிந்த தருணம்,Anger,Sarcasm,Social pretence
+2165,சொல்லப்படாத விதிமுறைகள் எரிச்சலை ஏற்படுத்தின,Anger,Frustration,Hidden expectations
+2166,மீண்டும் காத்திருக்க வைத்தது கடுப்பை உண்டாக்கியது,Anger,Frustration,Delay irritation
+2167,நம்பிக்கை முறிந்ததால் கோபம் ஆழமானது,Anger,Despair,Trust collapse anger
+2168,அமைதி காத்தும் சோதனை தொடர்ந்தது,Anger,Frustration,Endurance strain
+2169,நியாயம் கிடைக்காது என்ற உணர்வு கோபமாக மாறியது,Anger,Despair,Helpless anger
+2170,சிறிய முன்னேற்றம் கூட உள்ளத்தில் பெரிய உற்சாகத்தை உருவாக்கியது,Joy,Hope,Positive reinforcement
+2171,எதிர்பாராத நல்ல செய்தி நாளை முழுவதும் இனிமையாக்கியது,Joy,Hope,Unexpected positivity
+2172,சுற்றியவர்களின் ஆதரவு நம்பிக்கையை வலுப்படுத்தியது,Joy,Hope,Social encouragement
+2173,நீண்ட முயற்சிக்குப் பிறகு கிடைத்த பலன் மனதை மகிழ்வித்தது,Joy,Hope,Effort rewarded
+2174,சாதாரண தருணம் கூட இன்று அர்த்தமுள்ளதாக உணரப்பட்டது,Joy,Hope,Meaningful moment
+2175,நல்ல உரையாடல் உள்ளத்தை மென்மையாக்கி நிம்மதி தந்தது,Joy,Hope,Emotional connection
+2176,சிறு பாராட்டு கூட பெரிய ஊக்கமாக மாறியது,Joy,Hope,Validation boost
+2177,எதிர்காலம் குறித்து மெதுவாக நம்பிக்கை உருவானது,Joy,Hope,Gradual optimism
+2178,உள்ளுக்குள் நிம்மதி பிறந்ததை தெளிவாக உணர்ந்தேன்,Joy,Hope,Inner peace
+2179,முயற்சி வீணாகவில்லை என்ற எண்ணம் மகிழ்ச்சி தந்தது,Joy,Hope,Meaningful effort
+2180,எதிர்பாராத உதவி உள்ளத்தை நெகிழ வைத்தது,Joy,Hope,Supportive kindness
+2181,சுயநம்பிக்கை மீண்டும் வலுப்பெற்றதை உணர்ந்தேன்,Joy,Hope,Renewed confidence
+2182,சிறு மாற்றம் பெரிய நேர்மறை உணர்வை ஏற்படுத்தியது,Joy,Hope,Positive shift
+2183,நல்ல முடிவு எடுத்ததில் மனநிறைவு ஏற்பட்டது,Joy,Hope,Decision confidence
+2184,சிரிப்பு இயல்பாக வந்த தருணம் மனதை இலகுவாக்கியது,Joy,Hope,Spontaneous happiness
+2185,சாதனை உணர்வு நாளை மேலும் இனிமையாக்கியது,Joy,Hope,Achievement satisfaction
+2186,உள்ளம் சுமை குறைந்து லேசான நிலை அடைந்தது,Joy,Hope,Relief experience
+2187,நல்ல நினைவுகள் மனதை முழுவதும் நிரப்பின,Joy,Hope,Positive recall
+2188,நம்பிக்கை மட்டும் போதுமானதாக தோன்றிய தருணம்,Joy,Hope,Hope sufficiency
+2189,சாதாரண நாளும் சிறப்பாக உணரப்பட்ட அனுபவம்,Joy,Hope,Heightened appreciation
+2190,உள்ளம் தொடர்ந்து சோர்வை அனுபவித்ததால் மனநிலை கனமானது,Sadness,Frustration,Emotional heaviness
+2191,நம்பிக்கை மெதுவாக குறைந்ததை உணர்ந்து வேதனை ஏற்பட்டது,Sadness,Despair,Hope erosion
+2192,எண்ணங்கள் ஒரே இடத்தில் சிக்கி சோர்வை கூட்டின,Sadness,Frustration,Mental stagnation
+2193,சில வார்த்தைகள் இதயத்தில் ஆழமான காயத்தை ஏற்படுத்தின,Sadness,Despair,Emotional wound
+2194,நாட்கள் அர்த்தமில்லாமல் நகர்வது போல உணர்வு,Sadness,Despair,Meaning loss
+2195,உள்ளுக்குள் வெறுமை பெருகி அமைதி தொலைந்தது,Sadness,Despair,Inner emptiness
+2196,பகிர முடியாத உணர்வுகள் சுமையாக மாறின,Sadness,Frustration,Unexpressed burden
+2197,எதிர்பாராத மௌனம் வேதனையை அதிகரித்தது,Sadness,Despair,Silent pain
+2198,நினைவுகள் மீண்டும் மீண்டும் மனதை தளரச் செய்தன,Sadness,Frustration,Memory intrusion
+2199,இதயம் தேடும் ஓய்வு கிடைக்காத நிலை,Sadness,Despair,Rest deprivation
+2200,சுற்றியவர்கள் இருந்தும் தனிமை குறையவில்லை,Sadness,Despair,Emotional isolation
+2201,நம்பிய இடத்தில் ஏமாற்றம் ஏற்பட்டது,Sadness,Despair,Broken trust
+2202,உள்ளம் சோர்ந்து சக்தி குறைந்தது,Sadness,Frustration,Energy depletion
+2203,நாளின் முடிவில் வெறுமை அதிகமாக இருந்தது,Sadness,Despair,Empty closure
+2204,வார்த்தைகள் உள்ளத்தில் அடைப்பை ஏற்படுத்தின,Sadness,Frustration,Emotional blockage
+2205,எண்ணங்கள் இருண்ட பாதையில் சென்றன,Sadness,Despair,Dark rumination
+2206,சிரிப்பு தொலைந்ததை தெளிவாக உணர்ந்தேன்,Sadness,Despair,Loss of joy
+2207,நம்பிக்கை தேடும் பயணம் சோர்வை கூட்டியது,Sadness,Frustration,Exhausted search
+2208,உள்ளுக்குள் கண்ணீர் அடங்காமல் இருந்தது,Sadness,Despair,Suppressed grief
+2209,மனநிலை தொடர்ந்து சோர்வாகவே இருந்தது,Sadness,Despair,Chronic sadness
+2210,இன்று நடந்தவை சாதாரண நாளின் ஓட்டத்திலேயே இருந்தது,Neutral,Frustration,Monotonous routine
+2211,வேலைகள் திட்டமிட்டபடி நடந்தாலும் சுவாரசியம் இல்லை,Neutral,Frustration,Mechanical routine
+2212,நேரம் மெதுவாக சென்றதால் சலிப்பு ஏற்பட்டது,Neutral,Frustration,Time drag
+2213,எதுவும் விசேஷமில்லை என்ற உணர்வு தொடர்ந்தது,Neutral,Frustration,Eventless day
+2214,சாதாரண சிந்தனைகள் நாளை முழுவதும் ஆக்கிரமித்தன,Neutral,Frustration,Mental monotony
+2215,பேச்சு குறைவாக இருந்ததால் சலிப்பு அதிகரித்தது,Neutral,Frustration,Low stimulation
+2216,வழக்கமான செயல்கள் சுமையாக தோன்றின,Neutral,Frustration,Routine fatigue
+2217,நாளை பற்றிய திட்டமின்மை மனதை எரிச்சலாக்கியது,Neutral,Frustration,Unplanned day
+2218,சூழல் மாற்றமின்றி இருந்தது சலிப்பை உண்டாக்கியது,Neutral,Frustration,Stagnant context
+2219,சாதாரண வேலையும் சோர்வாக உணரப்பட்டது,Neutral,Frustration,Low engagement
+2220,எதிர்காலம் பற்றிய அச்சம் மனதை அடிக்கடி கலக்கியது,Fear,Frustration,Recurring anxiety
+2221,முடிவுகள் தெளிவில்லாமல் இருப்பது பயத்தை தூண்டியது,Fear,Frustration,Decision uncertainty
+2222,பாதுகாப்பு குறித்த சந்தேகங்கள் மனதை அமைதியிழக்க செய்தன,Fear,Frustration,Safety anxiety
+2223,எதிர்பாராத நிகழ்வுகள் மீண்டும் வருமோ என்ற பயம்,Fear,Frustration,Threat anticipation
+2224,நாளை எதிர்கொள்ளும் துணிச்சல் குறைந்ததாக தோன்றியது,Fear,Despair,Low confidence fear
+2225,மாற்றங்களை சமாளிக்க முடியுமா என்ற அச்சம்,Fear,Despair,Adaptation doubt
+2226,எண்ணங்கள் மோசமான முடிவுகளை மட்டும் காட்டின,Fear,Despair,Negative forecasting
+2227,நிலைமை மேம்படாது என்ற எண்ணம் பயத்தை அதிகரித்தது,Fear,Despair,Hopeless fear
+2228,முயற்சிகள் போதாது என்ற அச்சம்,Fear,Despair,Inadequacy anxiety
+2229,நம்பிக்கை இருந்தாலும் பயம் மனதை ஆட்கொண்டது,Fear,Despair,Overwhelming fear
+2230,சொன்ன வார்த்தைகள் மீண்டும் அவமதிப்பாக உணரப்பட்டது,Anger,Frustration,Repeated disrespect
+2231,நியாயமற்ற பழி சுமத்தல் கோபத்தை தூண்டியது,Anger,Frustration,Unfair accusation
+2232,பொறுப்புகளைத் தவிர்க்கும் நடைமுறை எரிச்சலாக இருந்தது,Anger,Frustration,Avoidance anger
+2233,அலட்சியமான அணுகுமுறை மனதை சீண்டியது,Anger,Frustration,Dismissive behavior
+2234,அமைதி காத்ததும் மதிக்கப்படவில்லை,Anger,Frustration,Ignored restraint
+2235,வாக்குறுதி முறிந்ததால் கோபம் தீவிரமானது,Anger,Despair,Trust anger
+2236,சில செயல்கள் வேண்டுமென்றே செய்யப்பட்டதாக தோன்றியது,Anger,Frustration,Perceived intent
+2237,நேரத்தை வீணாக்கிய அனுபவம் எரிச்சலை ஏற்படுத்தியது,Anger,Frustration,Time wastage
+2238,சொல்லாத விதிமுறைகள் கோபத்தை கூட்டின,Anger,Frustration,Hidden rules
+2239,நியாயம் கிடைக்காது என்ற எண்ணம் கோபமாக மாறியது,Anger,Despair,Helpless anger
+2240,சிறு வெற்றி கூட நாளை நம்பிக்கையுடன் பார்க்க வைத்தது,Joy,Hope,Positive outlook
+2241,எதிர்பாராத பாராட்டு உள்ளத்தை உற்சாகப்படுத்தியது,Joy,Hope,Recognition joy
+2242,சுற்றியவர்களின் ஆதரவு மனதை வலுப்படுத்தியது,Joy,Hope,Social strength
+2243,நீண்ட முயற்சிக்குப் பிறகு கிடைத்த அமைதி மகிழ்ச்சி,Joy,Hope,Earned calm
+2244,சாதாரண நாளில் கூட அர்த்தம் கண்டேன்,Joy,Hope,Meaning discovery
+2245,நல்ல உரையாடல் நாளை இனிமையாக்கியது,Joy,Hope,Positive interaction
+2246,சுயநம்பிக்கை மெதுவாக வளர்ந்தது,Joy,Hope,Confidence growth
+2247,எதிர்காலம் மாறக்கூடும் என்ற எண்ணம் மகிழ்ச்சி,Joy,Hope,Change optimism
+2248,உள்ளுக்குள் நம்பிக்கை வலுப்பெற்றது,Joy,Hope,Strengthened hope
+2249,முயற்சி தொடர வேண்டும் என்ற உற்சாகம் அதிகரித்தது,Joy,Hope,Perseverance motivation
+2250,எதிர்காலம் பற்றிய தெளிவில்லாத நிலை உள்ளுக்குள் நீண்ட நேரம் பதற்றத்தை உருவாக்கியது,Fear,Frustration,Uncertain future pressure
+2251,நாளை எதிர்கொள்ள வேண்டிய சூழ்நிலைகள் மனதை அமைதியிழக்கச் செய்தது,Fear,Frustration,Anticipatory anxiety
+2252,பாதுகாப்பு குறித்த உறுதி இல்லாத எண்ணங்கள் இதயத்தை நடுக்கமடைய செய்தன,Fear,Frustration,Security uncertainty
+2253,எடுத்த முடிவு தவறாகிவிடுமோ என்ற பயம் தொடர்ந்து மனதில் ஓடிக்கொண்டிருந்தது,Fear,Frustration,Decision anxiety
+2254,எண்ணங்கள் மோசமான முடிவுகளை மட்டுமே கற்பனை செய்து பயத்தை வளர்த்தன,Fear,Frustration,Catastrophic thinking
+2255,நிலைமை கைமீறி போகும் போல தோன்றியதால் உள்ளம் கலங்கியது,Fear,Despair,Loss of control fear
+2256,எதிர்பாராத மாற்றங்கள் மீண்டும் நிகழுமோ என்ற அச்சம் விடவில்லை,Fear,Frustration,Change related fear
+2257,மாற்றங்களை சமாளிக்க முடியுமா என்ற சந்தேகம் பயத்தை தூண்டியது,Fear,Frustration,Adaptation anxiety
+2258,நம்பிக்கை இருந்தாலும் உள்ளுக்குள் அச்சம் மேலோங்கியது,Fear,Despair,Overpowered hope
+2259,எதிர்காலம் மங்கலாகத் தோன்றியதால் மனம் சோர்ந்தது,Fear,Despair,Blurred future dread
+2260,பொறுப்புகள் அதிகரிக்கும் எண்ணமே பயத்தை அதிகரித்தது,Fear,Frustration,Responsibility pressure
+2261,சில செய்திகள் கேட்டதும் உடலே பதறிய அனுபவம்,Fear,Frustration,Threat perception
+2262,நாளை என்ன நடக்கும் என்ற கேள்வி மனதை விடாமல் தொடர்ந்தது,Fear,Frustration,Unresolved anticipation
+2263,முயற்சி போதாதோ என்ற எண்ணம் பயத்தை ஊட்டியது,Fear,Despair,Inadequacy fear
+2264,நிலைமை மேம்படாது என்ற பயம் உள்ளுக்குள் ஆழமடைந்தது,Fear,Despair,Hopeless outlook
+2265,திடீர் மாற்றங்களை எதிர்கொள்ளும் சக்தி குறைவதாக உணர்ந்தேன்,Fear,Despair,Low coping confidence
+2266,எண்ணங்கள் ஒரே பயச்சுழலில் சிக்கியிருந்தது,Fear,Frustration,Persistent anxiety
+2267,எதிர்காலம் குறித்து நினைத்தாலே மனம் பதறியது,Fear,Frustration,Future anxiety
+2268,நம்பிக்கையை பிடித்துக்கொண்டே பயத்தை சமாளிக்க முயன்றேன்,Fear,Hope,Resilient anticipation
+2269,நாளை எதிர்கொள்ளும் துணிச்சல் குறைந்ததாக தோன்றியது,Fear,Despair,Confidence erosion
+2270,சூழ்நிலைகள் மீண்டும் மோசமாகுமோ என்ற அச்சம்,Fear,Frustration,Recurring threat fear
+2271,எதையும் திட்டமிட முடியாத நிலை பயத்தை அதிகரித்தது,Fear,Frustration,Planning paralysis
+2272,உறுதி இல்லாத சூழல் மனதை தொடர்ந்து கலக்கியது,Fear,Frustration,Ambiguity stress
+2273,எதிர்காலம் கையில் இல்லாதது போல தோன்றியது,Fear,Despair,Powerlessness fear
+2274,நாளை பற்றி சிந்திக்கவே மனம் தயங்கியது,Fear,Frustration,Future avoidance
+2275,மாற்றம் வரும் என்ற எண்ணமே பயத்தை உருவாக்கியது,Fear,Frustration,Transition anxiety
+2276,நம்பிக்கை இருந்தாலும் முடிவு பயமூட்டியது,Fear,Despair,Hope conflict
+2277,சில சூழ்நிலைகள் மீண்டும் வருமோ என்ற அச்சம்,Fear,Frustration,Memory linked fear
+2278,நிலைமை கட்டுப்பாட்டை மீறிவிடும் போல தோன்றியது,Fear,Despair,Overwhelmed fear
+2279,முயற்சிகள் வீணாகிவிடுமோ என்ற பயம்,Fear,Despair,Futility anxiety
+2280,எதிர்காலம் பற்றிய பதில் இல்லாத கேள்விகள்,Fear,Despair,Unanswered worries
+2281,சொன்ன கருத்து மதிக்கப்படாத அனுபவம் கோபத்தை தூண்டியது,Anger,Frustration,Ignored voice
+2282,மரியாதையற்ற அணுகுமுறை மனதை கடுமையாக சீண்டியது,Anger,Frustration,Respect violation
+2283,மீண்டும் மீண்டும் பொறுப்பை தள்ளிவிடும் நடைமுறை எரிச்சல் தந்தது,Anger,Frustration,Avoidance irritation
+2284,நியாயமற்ற முடிவுகள் மனதை கொதிக்க வைத்தன,Anger,Frustration,Perceived injustice
+2285,அமைதியாக இருந்ததை பலவீனமாக எடுத்துக்கொண்டார்கள்,Anger,Frustration,Assertiveness misread
+2286,வாக்குறுதிகள் நிறைவேறாததால் கோபம் அதிகரித்தது,Anger,Frustration,Broken trust
+2287,சிலர் திட்டமிட்டு அலட்சியம் செய்வது கடுப்பை உண்டாக்கியது,Anger,Frustration,Intentional neglect
+2288,நேரத்தை மதிக்காத நடத்தை மனதை எரிச்சலாக்கியது,Anger,Frustration,Time disrespect
+2289,சொல்லியும் புரியாத நிலை கோபத்தை சேர்த்தது,Anger,Frustration,Communication failure
+2290,முகத்தில் சிரிப்பு உள்ளுக்குள் கடும் எரிச்சல் மறைந்தது,Anger,Sarcasm,Surface politeness
+2291,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்டது,Anger,Frustration,Justice suppression
+2292,முடிவுகள் ஒருதலைப்பட்சமாக எடுக்கப்பட்டன என்ற உணர்வு,Anger,Frustration,Power imbalance
+2293,அலட்சியமான பதில்கள் மனதை சீண்டின,Anger,Frustration,Dismissive response
+2294,பொறுமை எல்லை கடந்துவிட்டதாக உணர்ந்தேன்,Anger,Frustration,Patience overflow
+2295,மரியாதை இல்லாத வார்த்தைகள் கோபத்தை தூண்டின,Anger,Frustration,Verbal disrespect
+2296,பிரச்சனைகள் என்ன்மேல் தள்ளப்பட்டதால் கோபம் அதிகரித்தது,Anger,Frustration,Unfair burden
+2297,எல்லாம் நாடகம் போல தெரிந்த தருணம்,Anger,Sarcasm,Social pretence
+2298,சொல்லப்படாத விதிமுறைகள் எரிச்சலை ஏற்படுத்தின,Anger,Frustration,Hidden expectations
+2299,மீண்டும் காத்திருக்க வைத்தது கடுப்பை உண்டாக்கியது,Anger,Frustration,Delay irritation
+2300,நம்பிக்கை முறிந்ததால் கோபம் ஆழமானது,Anger,Despair,Trust collapse anger
+2301,அமைதி காத்தும் சோதனை தொடர்ந்தது,Anger,Frustration,Endurance strain
+2302,நியாயம் கிடைக்காது என்ற உணர்வு கோபமாக மாறியது,Anger,Despair,Helpless anger
+2303,சில செயல்கள் வேண்டுமென்றே செய்யப்பட்டதாக தோன்றியது,Anger,Frustration,Perceived intent
+2304,நேரத்தை வீணாக்கிய அனுபவம் எரிச்சலை ஏற்படுத்தியது,Anger,Frustration,Time wastage
+2305,அமைதியாக இருந்ததும் மதிக்கப்படவில்லை,Anger,Frustration,Ignored restraint
+2306,வாக்குறுதி முறிந்ததும் கோபம் தீவிரமானது,Anger,Despair,Anger from betrayal
+2307,நியாயமற்ற பழி சுமத்தல் கோபத்தை தூண்டியது,Anger,Frustration,Unfair accusation
+2308,மீண்டும் அதே தவறுகள் நடப்பது கடுப்பை கூட்டியது,Anger,Frustration,Repeated mistakes
+2309,சில உண்மைகள் ஏற்க முடியாத அளவுக்கு வலித்தது,Anger,Despair,Pain induced anger
+2310,மாற்றம் நடக்காது என்ற உணர்வு கோபமாக மாறியது,Anger,Despair,Stagnation anger
+2311,சிறிய முன்னேற்றம் கூட உள்ளத்தில் பெரிய உற்சாகத்தை உருவாக்கியது,Joy,Hope,Positive reinforcement
+2312,எதிர்பாராத நல்ல செய்தி நாளை முழுவதும் இனிமையாக்கியது,Joy,Hope,Unexpected positivity
+2313,சுற்றியவர்களின் ஆதரவு நம்பிக்கையை வலுப்படுத்தியது,Joy,Hope,Social encouragement
+2314,நீண்ட முயற்சிக்குப் பிறகு கிடைத்த பலன் மனதை மகிழ்வித்தது,Joy,Hope,Effort rewarded
+2315,சாதாரண தருணம் கூட இன்று அர்த்தமுள்ளதாக உணரப்பட்டது,Joy,Hope,Meaningful moment
+2316,நல்ல உரையாடல் உள்ளத்தை மென்மையாக்கி நிம்மதி தந்தது,Joy,Hope,Emotional connection
+2317,சிறு பாராட்டு கூட பெரிய ஊக்கமாக மாறியது,Joy,Hope,Validation boost
+2318,எதிர்காலம் குறித்து மெதுவாக நம்பிக்கை உருவானது,Joy,Hope,Gradual optimism
+2319,உள்ளுக்குள் நிம்மதி பிறந்ததை தெளிவாக உணர்ந்தேன்,Joy,Hope,Inner peace
+2320,முயற்சி வீணாகவில்லை என்ற எண்ணம் மகிழ்ச்சி தந்தது,Joy,Hope,Meaningful effort
+2321,எதிர்பாராத உதவி உள்ளத்தை நெகிழ வைத்தது,Joy,Hope,Supportive kindness
+2322,சுயநம்பிக்கை மீண்டும் வலுப்பெற்றதை உணர்ந்தேன்,Joy,Hope,Renewed confidence
+2323,சிறு மாற்றம் பெரிய நேர்மறை உணர்வை ஏற்படுத்தியது,Joy,Hope,Positive shift
+2324,நல்ல முடிவு எடுத்ததில் மனநிறைவு ஏற்பட்டது,Joy,Hope,Decision confidence
+2325,சிரிப்பு இயல்பாக வந்த தருணம் மனதை இலகுவாக்கியது,Joy,Hope,Spontaneous happiness
+2326,சாதனை உணர்வு நாளை மேலும் இனிமையாக்கியது,Joy,Hope,Achievement satisfaction
+2327,உள்ளம் சுமை குறைந்து லேசான நிலை அடைந்தது,Joy,Hope,Relief experience
+2328,நல்ல நினைவுகள் மனதை முழுவதும் நிரப்பின,Joy,Hope,Positive recall
+2329,நம்பிக்கை மட்டும் போதுமானதாக தோன்றிய தருணம்,Joy,Hope,Hope sufficiency
+2330,சாதாரண நாளும் சிறப்பாக உணரப்பட்ட அனுபவம்,Joy,Hope,Heightened appreciation
+2331,முன்னேற்றம் தெளிவாக தெரிந்ததால் உற்சாகம் அதிகரித்தது,Joy,Hope,Visible progress
+2332,எதிர்காலத்தை சற்று நம்பிக்கையுடன் பார்த்தேன்,Joy,Hope,Forward optimism
+2333,உழைப்புக்கு மரியாதை கிடைத்ததில் மகிழ்ச்சி ஏற்பட்டது,Joy,Hope,Recognition joy
+2334,உள்ளுக்குள் உற்சாகம் தொடர்ந்து இருந்தது,Joy,Hope,Sustained motivation
+2335,சுயமுன்னேற்றம் நடக்கிறது என்ற உணர்வு மகிழ்ச்சி,Joy,Hope,Growth awareness
+2336,நல்ல பாதை தென்படத் தொடங்கியது,Joy,Hope,Emerging direction
+2337,முயற்சி தொடர வேண்டும் என்ற உற்சாகம் அதிகரித்தது,Joy,Hope,Perseverance drive
+2338,எதிர்பாராத அமைதி மனதை குளிர்ச்சியாக்கியது,Joy,Hope,Calm surprise
+2339,நம்பிக்கையுடன் நாளை எதிர்கொள்ள முடியும் என்ற உணர்வு,Joy,Hope,Empowered outlook
+2340,இன்று நடந்தவை நாளை மேலும் நம்பிக்கையூட்டின,Joy,Hope,Positive carryover
+2341,இன்று நடந்தவை வழக்கமான ஓட்டத்திலேயே இருந்தாலும் சலிப்பு ஏற்பட்டது,Neutral,Frustration,Monotonous routine
+2342,வேலைகள் முடிந்தாலும் மனதில் ஈடுபாடு குறைந்திருந்தது,Neutral,Frustration,Low engagement
+2343,நேரம் மெதுவாக நகர்ந்ததால் பொறுமை சோதிக்கப்பட்டது,Neutral,Frustration,Time drag
+2344,எதுவும் விசேஷமில்லை என்ற உணர்வு நாள் முழுவதும் தொடர்ந்தது,Neutral,Frustration,Eventless day
+2345,சாதாரண சிந்தனைகள் நாளை முழுவதும் ஆக்கிரமித்தன,Neutral,Frustration,Mental monotony
+2346,பேச்சு குறைவாக இருந்ததால் நாளே சலிப்பாக இருந்தது,Neutral,Frustration,Low stimulation
+2347,வழக்கமான செயல்கள் சுமையாக உணரப்பட்டது,Neutral,Frustration,Routine fatigue
+2348,நாளை பற்றிய திட்டமின்மை மனதை எரிச்சலாக்கியது,Neutral,Frustration,Unplanned day
+2349,சூழல் மாற்றமின்றி இருந்தது சலிப்பை ஏற்படுத்தியது,Neutral,Frustration,Stagnant context
+2350,சாதாரண வேலையும் சோர்வாக உணரப்பட்டது,Neutral,Frustration,Mechanical effort
+2351,நாள் முழுவதும் எதற்கும் அதிக ஆர்வம் இல்லை,Neutral,Frustration,Low motivation
+2352,சாதாரண உரையாடல்களே சலிப்பை கூட்டின,Neutral,Frustration,Interaction fatigue
+2353,ஒரே மாதிரியான நடைமுறை நாளை நீளமாக்கியது,Neutral,Frustration,Repetitive routine
+2354,நேரம் போவதே தெரியாமல் இழுபறியாக இருந்தது,Neutral,Frustration,Dragging time
+2355,வேலைகள் இருந்தும் மனதில் நிறைவு இல்லை,Neutral,Frustration,Incomplete satisfaction
+2356,நாள் முழுவதும் வெறும் கடமையாகவே சென்றது,Neutral,Frustration,Obligatory routine
+2357,எதையும் பெரிதாக எடுத்துக்கொள்ளாத நிலை தொடர்ந்தது,Neutral,Frustration,Emotional flatness
+2358,சாதாரண சூழல் கூட சலிப்பை உண்டாக்கியது,Neutral,Frustration,Context fatigue
+2359,நாள் முடிவில் எதுவும் நினைவில் நிற்கவில்லை,Neutral,Frustration,Forgettable day
+2360,வழக்கமான ஓட்டம் மனதை சோர்வடையச் செய்தது,Neutral,Frustration,Routine exhaustion
+2361,எதிர்காலத்தில் நடக்கக்கூடிய மாற்றங்களை நினைத்தாலே உள்ளுக்குள் பதற்றம் அதிகரித்தது,Fear,Frustration,Future uncertainty pressure
+2362,நிலைமை திடீரென மாறிவிடுமோ என்ற அச்சம் மனதை அமைதியிழக்கச் செய்தது,Fear,Frustration,Loss of control fear
+2363,எடுத்த முடிவு தவறாகிவிடுமோ என்ற பயம் தொடர்ந்து தொந்தரவு செய்தது,Fear,Frustration,Decision anxiety
+2364,நாளை எதிர்கொள்ளும் சக்தி போதுமா என்ற சந்தேகம் பயத்தை தூண்டியது,Fear,Despair,Low coping confidence
+2365,எதிர்பாராத செய்திகளை எதிர்கொள்ள வேண்டுமோ என்ற அச்சம்,Fear,Frustration,Threat anticipation
+2366,பாதுகாப்பு குறித்த உறுதி இல்லாத நிலை மனதை கலக்கியது,Fear,Frustration,Security uncertainty
+2367,எண்ணங்கள் மோசமான முடிவுகளை மட்டும் காட்டியதால் பயம் அதிகரித்தது,Fear,Despair,Catastrophic thinking
+2368,நம்பிக்கை இருந்தாலும் பயம் மேலோங்கிய தருணம்,Fear,Hope,Conflicted courage
+2369,மாற்றங்களை சமாளிக்க முடியுமா என்ற எண்ணம் அச்சத்தை வளர்த்தது,Fear,Frustration,Adaptation anxiety
+2370,எதிர்காலம் தெளிவில்லாமல் தோன்றியதால் மனம் நடுங்கியது,Fear,Despair,Blurred future dread
+2371,சில பொறுப்புகள் எதிர்காலப் பயத்தை அதிகரித்தன,Fear,Frustration,Responsibility pressure
+2372,நாளை பற்றிய கேள்விகள் தூக்கத்தை கலைத்தன,Fear,Frustration,Anxious rumination
+2373,நிலைமை மேம்படாது என்ற எண்ணம் பயமாக மாறியது,Fear,Despair,Hopeless outlook
+2374,முயற்சிகள் போதாதோ என்ற அச்சம் உள்ளுக்குள் இருந்தது,Fear,Despair,Inadequacy fear
+2375,எதிர்பாராத மாற்றங்கள் மீண்டும் வருமோ என்ற பயம்,Fear,Frustration,Recurring threat anxiety
+2376,உறுதி இல்லாத சூழல் மனதை தொடர்ந்து கலக்கியது,Fear,Frustration,Ambiguity stress
+2377,நம்பிக்கையை பிடித்துக்கொண்டே பயத்தை சமாளிக்க முயன்றேன்,Fear,Hope,Resilient anticipation
+2378,எதிர்காலம் கையில் இல்லாதது போல உணர்வு,Fear,Despair,Powerlessness fear
+2379,நாளை நினைத்தாலே மனம் தயங்கியது,Fear,Frustration,Future avoidance
+2380,மாற்றம் வரும் என்ற எண்ணமே பயத்தை உருவாக்கியது,Fear,Frustration,Transition anxiety
+2381,சொன்ன கருத்து மதிக்கப்படாத அனுபவம் கோபத்தை தூண்டியது,Anger,Frustration,Ignored voice
+2382,மரியாதையற்ற அணுகுமுறை மனதை கடுமையாக சீண்டியது,Anger,Frustration,Respect violation
+2383,மீண்டும் பொறுப்பை தள்ளிவிடும் நடைமுறை எரிச்சலை கூட்டியது,Anger,Frustration,Avoidance irritation
+2384,நியாயமற்ற முடிவுகள் மனதை கொதிக்க வைத்தன,Anger,Frustration,Perceived injustice
+2385,அமைதியாக இருந்ததை பலவீனமாக எடுத்துக்கொண்டார்கள்,Anger,Frustration,Assertiveness misread
+2386,வாக்குறுதிகள் நிறைவேறாததால் கோபம் தீவிரமானது,Anger,Despair,Broken trust anger
+2387,சிலர் திட்டமிட்டு அலட்சியம் செய்வது கடுப்பை உண்டாக்கியது,Anger,Frustration,Intentional neglect
+2388,நேரத்தை மதிக்காத நடத்தை மனதை எரிச்சலாக்கியது,Anger,Frustration,Time disrespect
+2389,சொல்லியும் புரியாத நிலை கோபத்தை அதிகரித்தது,Anger,Frustration,Communication failure
+2390,முகத்தில் சிரிப்பு உள்ளுக்குள் கடும் எரிச்சல் மறைந்தது,Anger,Sarcasm,Surface politeness
+2391,நியாயம் கேட்பதே தவறாக பார்க்கப்பட்டது,Anger,Frustration,Justice suppression
+2392,முடிவுகள் ஒருதலைப்பட்சமாக எடுக்கப்பட்டன என்ற உணர்வு,Anger,Frustration,Power imbalance
+2393,அலட்சியமான பதில்கள் மனதை சீண்டின,Anger,Frustration,Dismissive response
+2394,பொறுமை எல்லை கடந்துவிட்டதாக உணர்ந்தேன்,Anger,Frustration,Patience overflow
+2395,மரியாதை இல்லாத வார்த்தைகள் கோபத்தை தூண்டின,Anger,Frustration,Verbal disrespect
+2396,பிரச்சனைகள் என்ன்மேல் தள்ளப்பட்டதால் கோபம் அதிகரித்தது,Anger,Frustration,Unfair burden
+2397,எல்லாம் நாடகம் போல தெரிந்த தருணம்,Anger,Sarcasm,Social pretence
+2398,நம்பிக்கை முறிந்ததால் கோபம் ஆழமானது,Anger,Despair,Trust collapse anger
+2399,அமைதி காத்தும் சோதனை தொடர்ந்தது,Anger,Frustration,Endurance strain
+2400,நியாயம் கிடைக்காது என்ற உணர்வு கோபமாக மாறியது,Anger,Despair,Helpless anger
+2401,சிறிய முன்னேற்றம் கூட உள்ளத்தில் பெரிய உற்சாகத்தை உருவாக்கியது,Joy,Hope,Positive reinforcement
+2402,எதிர்பாராத நல்ல செய்தி நாளை முழுவதும் இனிமையாக்கியது,Joy,Hope,Unexpected positivity
+2403,சுற்றியவர்களின் ஆதரவு நம்பிக்கையை வலுப்படுத்தியது,Joy,Hope,Social encouragement
+2404,நீண்ட முயற்சிக்குப் பிறகு கிடைத்த பலன் மனதை மகிழ்வித்தது,Joy,Hope,Effort rewarded
+2405,சாதாரண தருணம் கூட இன்று அர்த்தமுள்ளதாக உணரப்பட்டது,Joy,Hope,Meaningful moment
+2406,நல்ல உரையாடல் உள்ளத்தை மென்மையாக்கி நிம்மதி தந்தது,Joy,Hope,Emotional connection
+2407,சிறு பாராட்டு கூட பெரிய ஊக்கமாக மாறியது,Joy,Hope,Validation boost
+2408,எதிர்காலம் குறித்து மெதுவாக நம்பிக்கை உருவானது,Joy,Hope,Gradual optimism
+2409,உள்ளுக்குள் நிம்மதி பிறந்ததை தெளிவாக உணர்ந்தேன்,Joy,Hope,Inner peace
+2410,முயற்சி வீணாகவில்லை என்ற எண்ணம் மகிழ்ச்சி தந்தது,Joy,Hope,Meaningful effort
+2411,எதிர்பாராத உதவி உள்ளத்தை நெகிழ வைத்தது,Joy,Hope,Supportive kindness
+2412,சுயநம்பிக்கை மீண்டும் வலுப்பெற்றதை உணர்ந்தேன்,Joy,Hope,Renewed confidence
+2413,சிறு மாற்றம் பெரிய நேர்மறை உணர்வை ஏற்படுத்தியது,Joy,Hope,Positive shift
+2414,நல்ல முடிவு எடுத்ததில் மனநிறைவு ஏற்பட்டது,Joy,Hope,Decision confidence
+2415,சிரிப்பு இயல்பாக வந்த தருணம் மனதை இலகுவாக்கியது,Joy,Hope,Spontaneous happiness
+2416,சாதனை உணர்வு நாளை மேலும் இனிமையாக்கியது,Joy,Hope,Achievement satisfaction
+2417,உள்ளம் சுமை குறைந்து லேசான நிலை அடைந்தது,Joy,Hope,Relief experience
+2418,நல்ல நினைவுகள் மனதை முழுவதும் நிரப்பின,Joy,Hope,Positive recall
+2419,நம்பிக்கை மட்டும் போதுமானதாக தோன்றிய தருணம்,Joy,Hope,Hope sufficiency
+2420,எதிர்காலத்தை சற்று நம்பிக்கையுடன் பார்த்தேன்,Joy,Hope,Forward optimism
+2421,இன்று நடந்தவை வழக்கமான ஓட்டத்திலேயே இருந்தாலும் சலிப்பு ஏற்பட்டது,Neutral,Frustration,Monotonous routine
+2422,வேலைகள் முடிந்தாலும் மனதில் ஈடுபாடு குறைந்திருந்தது,Neutral,Frustration,Low engagement
+2423,நேரம் மெதுவாக நகர்ந்ததால் பொறுமை சோதிக்கப்பட்டது,Neutral,Frustration,Time drag
+2424,எதுவும் விசேஷமில்லை என்ற உணர்வு நாள் முழுவதும் தொடர்ந்தது,Neutral,Frustration,Eventless day
+2425,சாதாரண சிந்தனைகள் நாளை முழுவதும் ஆக்கிரமித்தன,Neutral,Frustration,Mental monotony
+2426,பேச்சு குறைவாக இருந்ததால் நாளே சலிப்பாக இருந்தது,Neutral,Frustration,Low stimulation
+2427,வழக்கமான செயல்கள் சுமையாக உணரப்பட்டது,Neutral,Frustration,Routine fatigue
+2428,நாளை பற்றிய திட்டமின்மை மனதை எரிச்சலாக்கியது,Neutral,Frustration,Unplanned day
+2429,சூழல் மாற்றமின்றி இருந்தது சலிப்பை ஏற்படுத்தியது,Neutral,Frustration,Stagnant context
+2430,சாதாரண வேலையும் சோர்வாக உணரப்பட்டது,Neutral,Frustration,Mechanical effort
+2431,நாள் முழுவதும் எதற்கும் அதிக ஆர்வம் இல்லை,Neutral,Frustration,Low motivation
+2432,சாதாரண உரையாடல்களே சலிப்பை கூட்டின,Neutral,Frustration,Interaction fatigue
+2433,ஒரே மாதிரியான நடைமுறை நாளை நீளமாக்கியது,Neutral,Frustration,Repetitive routine
+2434,நேரம் போவதே தெரியாமல் இழுபறியாக இருந்தது,Neutral,Frustration,Dragging time
+2435,வேலைகள் இருந்தும் மனதில் நிறைவு இல்லை,Neutral,Frustration,Incomplete satisfaction
+2436,நாள் முழுவதும் வெறும் கடமையாகவே சென்றது,Neutral,Frustration,Obligatory routine
+2437,எதையும் பெரிதாக எடுத்துக்கொள்ளாத நிலை தொடர்ந்தது,Neutral,Frustration,Emotional flatness
+2438,சாதாரண சூழல் கூட சலிப்பை உண்டாக்கியது,Neutral,Frustration,Context fatigue
+2439,நாள் முடிவில் எதுவும் நினைவில் நிற்கவில்லை,Neutral,Frustration,Forgettable day
+2440,வழக்கமான ஓட்டம் மனதை சோர்வடையச் செய்தது,Neutral,Frustration,Routine exhaustion
+2441,நாளை இன்னும் மாறலாம் என்ற எண்ணம் உள்ளுக்குள் உறுதியை உருவாக்கியது,Joy,Hope,Forward looking optimism
+2442,எவ்வளவு முயன்றாலும் நிலைமை மாறாதது மனதை உடைத்தது,Sadness,Despair,Learned helplessness
+2443,சிறு வாய்ப்பு கூட எதிர்காலத்திற்கு நம்பிக்கை அளித்தது,Joy,Hope,Opportunity optimism
+2444,முயற்சிகள் எல்லாம் வீணானதாக உணர்ந்து சோர்வு ஏற்பட்டது,Sadness,Despair,Effort futility
+2445,சுற்றிய ஆதரவு இன்னும் தொடரும் என்ற நம்பிக்கை இருந்தது,Neutral,Hope,Social reassurance
+2446,எதிர்பார்ப்புகள் தொடர்ந்து உடைந்ததால் உள்ளம் கனமானது,Sadness,Despair,Expectation collapse
+2447,மாற்றம் மெதுவாக வந்தாலும் வரும் என்ற நம்பிக்கை,Neutral,Hope,Gradual hope
+2448,எவ்வளவு தாங்கினாலும் முடிவில்லாத நிலை வேதனை,Anger,Despair,Anger from stagnation
+2449,இன்னொரு வழி கண்டுபிடிக்கலாம் என்ற எண்ணம் வந்தது,Joy,Hope,Problem solving optimism
+2450,நிலைமை கட்டுப்பாட்டுக்கு அப்பால் சென்றது போல உணர்வு,Fear,Despair,Loss of agency
+2451,நம்பிக்கை மட்டும் தான் என்னை நகர வைத்தது,Neutral,Hope,Hope driven endurance
+2452,முன்னேற்றம் இல்லாத நாட்கள் மனதை சோர்வடைய செய்தது,Sadness,Despair,Chronic disappointment
+2453,சிறு மாற்றம் கூட பெரிய நாளை உருவாக்கும் என்ற எண்ணம்,Joy,Hope,Incremental belief
+2454,எதிர்காலம் இருண்டதாகவே தெரிந்து பயம் ஏற்பட்டது,Fear,Despair,Future hopelessness
+2455,நாளை இன்னும் நல்லதாக இருக்கும் என்ற ஆசை,Joy,Hope,Positive anticipation
+2456,நம்பிய வழிகள் எல்லாம் முடிந்தது போல உணர்வு,Sadness,Despair,Exhausted options
+2457,பொறுமை வைத்தால் பலன் வரும் என்ற எண்ணம்,Neutral,Hope,Patience based hope
+2458,எவ்வளவு முயன்றாலும் தடைகள் குறையவில்லை,Anger,Despair,Blocked progress
+2459,நம்பிக்கை சிறியதாக இருந்தாலும் உயிரோடு இருந்தது,Joy,Hope,Fragile optimism
+2460,மாற்றம் நடக்காது என்ற எண்ணம் மனதை அழுத்தியது,Neutral,Despair,Fixed mindset despair
+2461,இன்னும் முயற்சி செய்யலாம் என்ற உள்ளுணர்வு,Joy,Hope,Inner motivation
+2462,நிலைமை மேம்படாது என்ற உணர்வு மனதை உடைத்தது,Sadness,Despair,Hopeless appraisal
+2463,சிறு வெற்றி பெரிய நாளுக்கான அறிகுறி போல,Joy,Hope,Symbolic progress
+2464,தொடர்ந்து தோல்வி மட்டும் கிடைத்தது,Sadness,Despair,Repeated failure
+2465,நாளை மாற்ற முடியும் என்ற நம்பிக்கை,Neutral,Hope,Agency belief
+2466,எதிர்பார்ப்புகள் எல்லாம் சுமையாக மாறின,Sadness,Despair,Expectation fatigue
+2467,சூழல் மாறும் நேரம் வரும் என்ற எண்ணம்,Neutral,Hope,Temporal hope
+2468,எவ்வளவு தாங்கினாலும் தீர்வு தெரியவில்லை,Fear,Despair,Unresolved fear
+2469,நல்ல முடிவு இன்னும் தூரத்தில் இல்லை என்றாலும் நம்பிக்கை,Joy,Hope,Delayed optimism
+2470,வழி இல்லாத சுரங்கத்தில் நடப்பது போல உணர்வு,Fear,Despair,Trapped feeling
+2471,நம்பிக்கை தான் தினமும் எழ வைக்கிறது,Neutral,Hope,Hope sustenance
+2472,முன்னேற்றமில்லாத நிலை கோபமாக மாறியது,Anger,Despair,Frustrated despair
+2473,மாற்றம் சாத்தியம் என்ற எண்ணம் மனதை இலகுவாக்கியது,Joy,Hope,Possibility relief
+2474,எதிர்பாராத தடைகள் நம்பிக்கையை உடைத்தன,Sadness,Despair,Obstacle overload
+2475,இன்னும் கைவிடக் கூடாது என்ற எண்ணம்,Neutral,Hope,Persistence belief
+2476,எல்லாம் நிற்கும் போல தோன்றிய தருணம்,Sadness,Despair,Emotional shutdown
+2477,சிறு ஒளி கூட பாதையை காட்டியது,Joy,Hope,Guiding hope
+2478,முன்னே செல்ல முடியாத நிலை பயத்தை உருவாக்கியது,Fear,Despair,Stuck anxiety
+2479,நம்பிக்கை வளர நேரம் தேவை என்ற புரிதல்,Neutral,Hope,Process acceptance
+2480,நிலைமை மாற்ற முடியாதது போல உணர்வு,Neutral,Despair,Perceived immobility
+2481,முயற்சி தொடர்ந்தால் பலன் வரும் என்ற நம்பிக்கை,Joy,Hope,Effort optimism
+2482,எவ்வளவு செய்தாலும் போதாத உணர்வு,Sadness,Despair,Inadequacy despair
+2483,நாளை இன்னும் வாய்ப்புகள் இருக்கும் என்ற எண்ணம்,Neutral,Hope,Future opportunity belief
+2484,தொடர்ந்த அழுத்தம் மனதை முறித்தது,Anger,Despair,Pressure breakdown
+2485,நம்பிக்கை உள்ளதால் இன்னும் முயற்சி,Joy,Hope,Hope fueled action
+2486,மாற்றம் வராது என்ற எண்ணம் கோபத்தை உருவாக்கியது,Anger,Despair,Anger hopelessness
+2487,நாளை நான் வேறுபடலாம் என்ற எண்ணம்,Joy,Hope,Self transformation hope
+2488,நிலைமை கைமீறியது போல உணர்வு,Fear,Despair,Overwhelmed fear
+2489,சிறு நம்பிக்கை கூட பெரிய ஆதாரம் ஆனது,Neutral,Hope,Hope anchor
+2490,எதிர்காலம் முழுக்க மூடுபனி போல,Fear,Despair,Opaque future
+2491,நம்பிக்கை இல்லாமல் வாழ முடியாது என்ற உணர்வு,Neutral,Hope,Existential hope
+2492,எவ்வளவு தாங்கினாலும் முடிவு தெரியவில்லை,Sadness,Despair,Endurance fatigue
+2493,இன்னும் ஒரு வாய்ப்பு கிடைக்கும் என்ற எண்ணம்,Joy,Hope,Second chance belief
+2494,நம்பிக்கை மெதுவாக கரைந்தது,Sadness,Despair,Hope erosion
+2495,மாற்றம் வரும் நாளை காத்திருக்கலாம்,Neutral,Hope,Waiting optimism
+2496,எதிர்பார்ப்புகள் எல்லாம் முடங்கியது போல,Sadness,Despair,Expectation paralysis
+2497,நம்பிக்கை தான் பயத்தை சமாளிக்க உதவியது,Fear,Hope,Hope coping
+2498,நிலைமை மோசமாகவே தொடரும் என்ற பயம்,Fear,Despair,Persistent dread
+2499,நாளை இன்னும் தெளிவாகும் என்ற எண்ணம்,Neutral,Hope,Clarity expectation
+2500,எல்லாம் வீணாகிவிட்டது என்ற உணர்வு,Sadness,Despair,Total loss perception
+2501,சிறு நம்பிக்கை கூட மனதை உயிர்ப்பித்தது,Joy,Hope,Revitalizing hope
+2502,தொடர்ந்து முயன்றும் மாற்றம் இல்லை,Sadness,Despair,Stalled effort
+2503,நம்பிக்கை இல்லையெனில் நிற்க முடியாது,Neutral,Hope,Survival hope
+2504,எதிர்காலம் பயமூட்டுவதாகவே தெரிகிறது,Fear,Despair,Threatened future
+2505,மாற்றம் சாத்தியம் என்று நம்புகிறேன்,Joy,Hope,Change belief
+2506,எவ்வளவு முயன்றாலும் தடைகள் மட்டும்,Sadness,Despair,Obstacle despair
+2507,நம்பிக்கை உள்ளதால் இன்னும் காத்திருக்கிறேன்,Neutral,Hope,Waiting resilience
+2508,முடிவே இல்லை என்ற எண்ணம் பயத்தை ஏற்படுத்தியது,Fear,Despair,Endless uncertainty
+2509,சிறு முன்னேற்றம் கூட நம்பிக்கை அளித்தது,Joy,Hope,Progress hope
+2510,எல்லாம் சுமையாக மாறியது,Sadness,Despair,Emotional overload
+2511,நம்பிக்கை தான் மனதை சமநிலையில் வைத்தது,Neutral,Hope,Stability through hope
+2512,நிலைமை மோசமாகவே முடியும் என்ற எண்ணம்,Fear,Despair,Catastrophic expectation
+2513,முயற்சி தொடர்ந்தால் வழி திறக்கும் என்ற நம்பிக்கை,Joy,Hope,Path belief
+2514,எதிர்பார்ப்புகள் எல்லாம் சிதைந்தது,Sadness,Despair,Shattered expectations
+2515,நம்பிக்கை தான் முன்னே செல்ல வைத்தது,Neutral,Hope,Forward drive
+2516,எதிர்காலம் குறித்து நம்பிக்கை இல்லாமல் பயம்,Fear,Despair,Hopeless anxiety
+2517,சிறு மாற்றம் கூட பெரிய நம்பிக்கை,Joy,Hope,Amplified optimism
+2518,எவ்வளவு தாங்கினாலும் முடிவு இல்லை,Sadness,Despair,Endurance despair
+2519,நாளை இன்னும் நல்லதாக மாறும் என்ற எண்ணம்,Neutral,Hope,Tomorrow optimism
+2520,முன்னே செல்ல முடியாத உணர்வு,Fear,Despair,Paralysis fear
+2521,நம்பிக்கை தான் தினசரி சக்தி,Neutral,Hope,Daily motivation
+2522,எதிர்காலம் இருண்டதாகவே தோன்றியது,Fear,Despair,Dark future view
+2523,சிறு வாய்ப்பு கூட பெரிய நம்பிக்கை ஆனது,Joy,Hope,Opportunity hope
+2524,முயற்சிகள் எல்லாம் தோல்வியாக முடிந்தது,Sadness,Despair,Repeated loss
+2525,நம்பிக்கை இல்லாமல் கைவிட முடியவில்லை,Neutral,Hope,Reluctant hope
+2526,நிலைமை மேம்படாது என்ற எண்ணம்,Sadness,Despair,Static despair
+2527,மாற்றம் வரும் என்ற எண்ணம் மனதை காப்பாற்றியது,Joy,Hope,Protective hope
+2528,எதிர்காலம் முழுக்க பயமாக தெரிந்தது,Fear,Despair,Future dread
+2529,நம்பிக்கை தான் உள்ளுக்குள் ஒளி,Neutral,Hope,Inner light
+2530,எல்லாம் முடிந்தது போல உணர்வு,Sadness,Despair,Terminal despair
+2531,நம்பிக்கை இருந்ததால் இன்னும் முயற்சி,Joy,Hope,Hope persistence
+2532,எதிர்பார்ப்புகள் அனைத்தும் வீணானது,Sadness,Despair,Expectation loss
+2533,சிறு முன்னேற்றம் மனதை உயர்த்தியது,Joy,Hope,Mood uplift
+2534,நிலைமை மாற்ற முடியாதது போல,Fear,Despair,Immutable fear
+2535,நம்பிக்கை தான் பயத்தை சமாளிக்க உதவியது,Neutral,Hope,Hope coping
+2536,எதிர்காலம் குறித்து நம்பிக்கை இல்லை,Fear,Despair,Hopeless forecast
+2537,முயற்சி தொடர வேண்டும் என்ற நம்பிக்கை,Joy,Hope,Perseverance hope
+2538,எல்லாம் நின்றது போல,Sadness,Despair,Emotional standstill
+2539,நாளை இன்னும் வாய்ப்பு இருக்கும் என்ற எண்ணம்,Neutral,Hope,Chance belief
+2540,முடிவே இல்லை என்ற உணர்வு,Fear,Despair,Endless despair
+

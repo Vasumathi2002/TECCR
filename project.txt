@@ -1,0 +1,127 @@
+🔷 Functionalities (Cleanly Structured)
+👑 ADMIN MODULE
+
+Admin has full control
+
+Post Management
+
+Create post (text / image)
+
+Edit / delete post
+
+Comment Monitoring
+
+View all user comments
+
+See detected emotions per comment
+
+Filter by emotion (Sadness, Anger, Frustration, Sarcasm)
+
+Emotion Prediction Dashboard
+
+Comment text
+
+Basic emotion
+
+TECCR emotion explanation
+
+Confidence score (later)
+
+User Management
+
+View users
+
+Block / remove abusive users (future scope)
+
+👤 USER MODULE
+
+Authentication
+
+Register
+
+Login
+
+Feed
+
+View admin posts
+
+Like / react
+
+Comment in Tamil
+
+Comment Submission
+
+User writes comment
+
+Emotion predicted silently
+
+Stored for admin view
+
+⚠️ Users do not see emotion results (important for ethics)
+
+🔷 TECCR Architecture (High-Level)
+🔹 Layer 1: Input
+
+Tamil comment
+
+Cleaned & tokenized
+
+🔹 Layer 2: Base Emotion Model
+
+IndicBERT / MuRIL
+
+Outputs: Sad, Happy, Angry, Neutral
+
+🔹 Layer 3: TECCR Reasoning Layer
+
+Cultural rules
+
+Implicit despair patterns
+
+Sarcasm detection
+
+Context weighting
+
+🔹 Final Output
+Primary Emotion: Sadness  
+Secondary Emotion: Frustration  
+Cultural Context: Implicit despair  
+Confidence: 0.82
+
+🔷 Tech Stack (Suggested)
+🔹 Frontend
+
+HTML / CSS / Bootstrap
+
+OR React (optional)
+
+🔹 Backend
+
+Python (Flask / FastAPI)
+
+REST APIs
+
+🔹 ML / NLP
+
+IndicBERT / MuRIL
+
+BiLSTM + Attention (for TECCR layer)
+
+Tamil preprocessing
+
+🔹 Database
+
+MySQL / PostgreSQL
+
+Tables: users, posts, comments, emotion_results
+
+🔷 Ethical & Research Strength (Very Important)
+
+✔ No hate detection yet (future scope)
+✔ Admin-only emotion viewing
+✔ Cultural preservation focus
+✔ Language inclusion (Tamil NLP)
+
+This aligns with:
+SDG 11 – Sustainable Cities & Communities
+Cultural Preservation & Linguistic Inclusion
